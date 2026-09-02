@@ -1,0 +1,17 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="600"
+  height="800"
+  viewBox="0 0 600 800"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Historical person placeholder</title>
+  <desc id="description">A neutral silhouette used until a portrait is added.</desc>
+  <rect width="600" height="800" fill="#e7e1d7" />
+  <circle cx="300" cy="280" r="120" fill="#9b9287" />
+  <path
+    d="M100 720c0-154.64 89.54-260 200-260s200 105.36 200 260"
+    fill="#9b9287"
+  />
+</svg>
