@@ -1,0 +1,90 @@
+.person-detail,
+.not-found {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 48px 24px;
+}
+
+.page-link {
+  display: inline-block;
+  color: #67523c;
+  font-weight: 600;
+  text-underline-offset: 3px;
+}
+
+.person-detail__card {
+  display: grid;
+  grid-template-columns: minmax(220px, 320px) minmax(0, 1fr);
+  margin-top: 24px;
+  overflow: hidden;
+  border: 1px solid #d9d3ca;
+  border-radius: 12px;
+  background: #ffffff;
+}
+
+.person-detail__image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  object-fit: cover;
+}
+
+.person-detail__content {
+  min-width: 0;
+  padding: 32px;
+}
+
+.person-detail__name,
+.not-found__title {
+  margin: 0;
+  color: #27231f;
+  font-size: clamp(2rem, 5vw, 3rem);
+  line-height: 1.1;
+  overflow-wrap: anywhere;
+}
+
+.person-detail__summary {
+  margin: 24px 0 0;
+  color: #514a42;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.person-detail__description,
+.not-found__message {
+  margin: 20px 0 0;
+  color: #514a42;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+.not-found {
+  text-align: center;
+}
+
+.not-found .page-link {
+  margin-top: 24px;
+}
+
+@media (max-width: 700px) {
+  .person-detail,
+  .not-found {
+    padding: 32px 16px;
+  }
+
+  .person-detail__card {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .person-detail__image {
+    height: auto;
+    aspect-ratio: 3 / 4;
+  }
+
+  .person-detail__content {
+    padding: 24px;
+  }
+}

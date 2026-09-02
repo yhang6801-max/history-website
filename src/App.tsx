@@ -1,18 +1,15 @@
-import './App.css'
-import { HistoricalPersonCard } from './components/HistoricalPersonCard'
-import { historicalPeople } from './data/historicalPeople'
+import { Route, Routes } from 'react-router'
+import { HistoricalPersonDetailPage } from './pages/HistoricalPersonDetailPage'
+import { HomePage } from './pages/HomePage'
+import { NotFoundPage } from './pages/NotFoundPage'
 
 function App() {
   return (
-    <main className="home">
-      <h1 className="home__title">Historical Figures</h1>
-
-      <section className="people-list" aria-label="Historical figures">
-        {historicalPeople.map((person) => (
-          <HistoricalPersonCard key={person.id} person={person} />
-        ))}
-      </section>
-    </main>
+    <Routes>
+      <Route path="/" element={<HomePage />} />
+      <Route path="/people/:id" element={<HistoricalPersonDetailPage />} />
+      <Route path="*" element={<NotFoundPage />} />
+    </Routes>
   )
 }
 

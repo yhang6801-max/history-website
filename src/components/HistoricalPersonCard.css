@@ -1,7 +1,18 @@
-.person-card {
+.person-card-link {
   flex: 1 1 280px;
   min-width: 0;
   max-width: 320px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.person-card-link:focus-visible {
+  outline: 3px solid #79634a;
+  outline-offset: 4px;
+}
+
+.person-card {
+  height: 100%;
   overflow: hidden;
   border: 1px solid #d9d3ca;
   border-radius: 12px;
