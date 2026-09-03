@@ -1,9 +1,16 @@
 .person-detail,
 .not-found {
   width: 100%;
-  max-width: 960px;
   margin: 0 auto;
   padding: 48px 24px;
+}
+
+.person-detail {
+  max-width: 1040px;
+}
+
+.not-found {
+  max-width: 960px;
 }
 
 .page-link {
@@ -26,14 +33,26 @@
 .person-detail__image {
   display: block;
   width: 100%;
-  height: 100%;
+  height: auto;
   min-width: 0;
+  aspect-ratio: 3 / 4;
   object-fit: cover;
 }
 
 .person-detail__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   min-width: 0;
   padding: 32px;
+}
+
+.person-detail__lifespan {
+  margin: 0 0 10px;
+  color: #79634a;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
 }
 
 .person-detail__name,
@@ -53,12 +72,95 @@
   line-height: 1.5;
 }
 
-.person-detail__description,
 .not-found__message {
   margin: 20px 0 0;
   color: #514a42;
   line-height: 1.7;
   overflow-wrap: anywhere;
+}
+
+.person-detail__body {
+  margin-top: 28px;
+  padding: 40px;
+  border: 1px solid #d9d3ca;
+  border-radius: 12px;
+  background: #ffffff;
+}
+
+.person-detail__biography {
+  max-width: 760px;
+}
+
+.person-detail__section + .person-detail__section {
+  margin-top: 32px;
+}
+
+.person-detail__section h2,
+.person-detail__timeline h2,
+.person-detail__sources h2 {
+  margin: 0;
+  color: #27231f;
+  font-size: 1.55rem;
+  line-height: 1.25;
+}
+
+.person-detail__section p {
+  margin: 14px 0 0;
+  color: #514a42;
+  font-size: 1.05rem;
+  line-height: 1.78;
+}
+
+.person-detail__timeline,
+.person-detail__sources {
+  margin-top: 44px;
+  padding-top: 36px;
+  border-top: 1px solid #d9d3ca;
+}
+
+.person-detail__timeline ol,
+.person-detail__sources ul {
+  margin: 20px 0 0;
+  padding: 0;
+}
+
+.person-detail__timeline ol {
+  list-style: none;
+}
+
+.person-detail__timeline li {
+  display: grid;
+  grid-template-columns: minmax(100px, 130px) minmax(0, 1fr);
+  gap: 20px;
+  padding: 14px 0;
+  color: #514a42;
+  line-height: 1.55;
+}
+
+.person-detail__timeline li + li {
+  border-top: 1px solid #ece8e2;
+}
+
+.person-detail__timeline-date {
+  color: #67523c;
+  font-weight: 700;
+}
+
+.person-detail__sources ul {
+  padding-left: 20px;
+}
+
+.person-detail__sources li {
+  padding: 5px 0;
+  color: #6a6259;
+  line-height: 1.55;
+}
+
+.person-detail__sources a {
+  color: #67523c;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+  text-underline-offset: 3px;
 }
 
 .not-found {
@@ -80,11 +182,41 @@
   }
 
   .person-detail__image {
-    height: auto;
-    aspect-ratio: 3 / 4;
+    width: 100%;
   }
 
   .person-detail__content {
     padding: 24px;
+  }
+
+  .person-detail__body {
+    margin-top: 20px;
+    padding: 28px 24px;
+  }
+
+  .person-detail__section + .person-detail__section {
+    margin-top: 28px;
+  }
+
+  .person-detail__section h2,
+  .person-detail__timeline h2,
+  .person-detail__sources h2 {
+    font-size: 1.35rem;
+  }
+
+  .person-detail__section p {
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+
+  .person-detail__timeline,
+  .person-detail__sources {
+    margin-top: 36px;
+    padding-top: 28px;
+  }
+
+  .person-detail__timeline li {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 4px;
   }
 }
