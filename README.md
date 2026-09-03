@@ -30,3 +30,35 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+## Prepare a person image
+
+Convert a JPG, JPEG, PNG, or WebP portrait into the project's standard 900x1200 WebP format:
+
+```sh
+npm run prepare-person-image -- napoleon-bonaparte "./input/napoleon.jpg"
+```
+
+The result is written to `src/assets/people/<person-id>.webp`. Person ids must use lowercase letters, numbers, and single hyphens. Automatic cropping uses the most visually prominent region of the source image, so review the generated portrait before using it.
+
+Existing output files are never overwritten by default. Replace one explicitly with `--force`:
+
+```sh
+npm run prepare-person-image -- napoleon-bonaparte "./input/napoleon.jpg" --force
+```
+
+The optional `--position` argument controls which part of the source image is kept when the image must be cropped:
+
+```sh
+npm run prepare-person-image -- <person-id> <input-image> [--force] [--position <value>]
+```
+
+Allowed values are `attention`, `center`, `west`, and `northwest`. The default is `attention`, so ordinary portraits usually do not need this option. If automatic cropping focuses on the wrong subject, choose a position explicitly. For example, the wide Alexander mosaic works better with its western area retained:
+
+```sh
+npm run prepare-person-image -- alexander-the-great "./input/alexander.jpg" --position west
+```
+
+`--position` and `--force` can be used together in either order.
+
+On Windows, wrap paths containing spaces in quotes.
