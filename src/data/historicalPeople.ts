@@ -1,3 +1,4 @@
+import albertEinsteinImage from '../assets/people/albert-einstein.webp'
 import alexanderTheGreatImage from '../assets/people/alexander-the-great.webp'
 import juliusCaesarImage from '../assets/people/julius-caesar.webp'
 import napoleonBonaparteImage from '../assets/people/napoleon-bonaparte.webp'
@@ -8,6 +9,16 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     id: 'napoleon-bonaparte',
     name: 'Napoleon Bonaparte',
     image: napoleonBonaparteImage,
+    imageAttribution: {
+      sourceUrl:
+        'https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Portrait_of_General_Bonaparte_-_WGA06077.jpg',
+      author: 'Jacques-Louis David',
+      licenseName: 'Public domain (Public Domain Mark 1.0)',
+      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
+      notes:
+        '“Portrait of General Bonaparte”, image source: Web Gallery of Art. Commons identifies it as public domain under PD-Art (PD-old-100): the artist died in 1825, beyond the life-plus-100-year term; faithful reproductions of two-dimensional public-domain works are also considered public domain in the United States.',
+      changes: 'Cropped, resized to 900 × 1200, and converted to WebP.',
+    },
     lifespan: '1769–1821',
     summary:
       'A revolutionary general who became emperor, reshaped the French state, and brought much of Europe under French power before his final defeat.',
@@ -127,6 +138,17 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     id: 'julius-caesar',
     name: 'Julius Caesar',
     image: juliusCaesarImage,
+    imageAttribution: {
+      sourceUrl:
+        'https://commons.wikimedia.org/wiki/File:Bust_of_Julius_Caesar.jpg',
+      author: 'Wilfredor',
+      authorUrl: 'https://commons.wikimedia.org/wiki/User:Wilfredor',
+      licenseName: 'CC0 1.0 Universal',
+      licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/legalcode',
+      notes:
+        '“Bust of Julius Caesar”. The photographer dedicated the work to the public domain under CC0 1.0.',
+      changes: 'Cropped, resized to 900 × 1200, and converted to WebP.',
+    },
     lifespan: '100–44 BCE',
     summary:
       'A Roman general, politician, and author whose conquests and dictatorship transformed the late Republic and prepared the way for imperial rule.',
@@ -246,6 +268,18 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     id: 'alexander-the-great',
     name: 'Alexander the Great',
     image: alexanderTheGreatImage,
+    imageAttribution: {
+      sourceUrl:
+        'https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg',
+      author: 'Unknown mosaic artist; photograph: DEA / G. NIMATALLAH',
+      licenseName: 'Public domain (Commons PD-Art)',
+      licenseUrl:
+        'https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg#Licensing',
+      notes:
+        'Detail of “Alexander the Great mosaic”, sourced from The Guardian. Original photographic credit and copyright metadata: De Agostini/Getty Images. Commons considers it public domain in the United States because the anonymous ancient work is out of copyright (PD-anon-expired) and this is a faithful reproduction of a two-dimensional work (PD-Art); rights in reproductions may differ elsewhere.',
+      changes:
+        'Cropped to retain Alexander on the left, enlarged to 900 × 1200, and converted to WebP.',
+    },
     lifespan: '356–323 BCE',
     summary:
       'The Macedonian king who conquered the Achaemenid Persian Empire and created a vast, short-lived realm linking the Mediterranean and Asia.',
@@ -359,6 +393,152 @@ export const historicalPeople: readonly HistoricalPerson[] = [
         title: 'Art of the Hellenistic Age and the Hellenistic Tradition',
         publisher: 'The Metropolitan Museum of Art',
         url: 'https://www.metmuseum.org/essays/art-of-the-hellenistic-age-and-the-hellenistic-tradition',
+      },
+    ],
+  },
+  {
+    id: 'albert-einstein',
+    name: 'Albert Einstein',
+    image: albertEinsteinImage,
+    imageAttribution: {
+      sourceUrl:
+        'https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg',
+      author: 'Ferdinand Schmutzer; restoration: Adam Cuerden',
+      licenseName: 'Public domain (Public Domain Mark 1.0)',
+      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
+      notes:
+        'Photograph taken in Vienna in 1921. Original image source: Bern Historical Museum; photographic studies held by the Austrian National Library. Commons cites PD-Austria and expiration of the author’s copyright term (Schmutzer died in 1928). The restorer also grants an irrevocable license for unrestricted use if needed and requests attribution.',
+      changes:
+        'Commons restoration, proportionally resized to 1200 × 1576 through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.',
+    },
+    lifespan: '1879–1955',
+    summary:
+      'A theoretical physicist who transformed ideas of space, time, gravity, and light, while using his international fame to speak on war, persecution, and intellectual freedom.',
+    sections: [
+      {
+        title: 'Overview',
+        paragraphs: [
+          'Albert Einstein changed the foundations of modern physics through work on relativity, the quantum nature of light, and the motion of atoms. His special and general theories of relativity replaced familiar assumptions about absolute time and gravity with a different account of the physical world. The 1921 Nobel Prize in Physics recognized his contributions to theoretical physics, especially his explanation of the photoelectric effect. Beyond science, Einstein became an internationally recognized public figure whose life was shaped by migration, antisemitism, and arguments over the responsibilities of scientists.',
+        ],
+      },
+      {
+        title: 'Early life and education',
+        paragraphs: [
+          'Einstein was born on 14 March 1879 in Ulm, Germany, to a Jewish family and grew up in Munich. After his family moved to Italy, he continued his education in Switzerland, attending school in Aarau before entering the Federal Polytechnic in Zurich in 1896. He graduated in 1900 and became a Swiss citizen in 1901. Unable at first to secure a permanent academic position, he found work examining patent applications in Bern. He married his former classmate Mileva Marić in 1903, and received his doctorate from the University of Zurich in 1905. Their marriage ended in 1919, when he married Elsa Löwenthal.',
+        ],
+      },
+      {
+        title: 'The breakthrough papers of 1905',
+        paragraphs: [
+          'While working at the patent office, Einstein published four papers that opened new directions in physics. He proposed that light could exchange energy in discrete packets, helping explain why light must exceed a threshold frequency to release electrons from a metal. His account of Brownian motion connected the irregular movement of suspended particles to collisions with molecules, strengthening the evidence for atoms. Special relativity reconciled electromagnetic theory with the principle that physical laws are the same for observers moving uniformly relative to one another. A further paper connected changes in mass and energy, a relationship now expressed as E = mc².',
+        ],
+      },
+      {
+        title: 'General relativity and international recognition',
+        paragraphs: [
+          'Einstein moved into academic posts in Zurich and Prague before settling in Berlin in 1914. His effort to extend relativity to gravity culminated in the general theory of relativity in 1915. It described gravity through the geometry of spacetime, with matter and energy influencing that geometry. Observations of starlight during the 1919 solar eclipse supported a key prediction and helped make him famous far beyond scientific circles. The 1921 Nobel Prize, awarded in 1922, specifically highlighted the law of the photoelectric effect rather than relativity. His success reflected several distinct contributions, rather than a single discovery.',
+        ],
+      },
+      {
+        title: 'Quantum theory and the search for unity',
+        paragraphs: [
+          'Einstein helped establish quantum physics, yet questioned whether its mathematical description captured all of physical reality. His disagreement concerned the completeness and interpretation of the theory, not a refusal to acknowledge its successful predictions. In 1935 he collaborated with Boris Podolsky and Nathan Rosen on the paper now known as EPR, which made correlations between separated systems central to that debate. At the Institute for Advanced Study he also pursued a unified account of gravity and electromagnetism. That search did not produce an accepted unified theory, but it remained a central commitment of his later scientific life.',
+        ],
+      },
+      {
+        title: 'Exile, war, and public commitments',
+        paragraphs: [
+          'After the Nazis took power in 1933, Einstein settled in the United States and joined the Institute for Advanced Study in Princeton, New Jersey. He supported refugees from Nazi persecution and became an American citizen in 1940. Fear that Germany might develop nuclear weapons led him to sign a 1939 letter to President Franklin D. Roosevelt, encouraged by Leo Szilard and fellow physicists, urging attention to uranium research. Einstein did not work on the Manhattan Project or design the atomic bomb. His opposition to racism and political intimidation also brought him into public disputes: in 1953 he urged teacher William Frauenglass to resist a Senate investigation that threatened freedom of thought and teaching.',
+        ],
+      },
+      {
+        title: 'Final years and legacy',
+        paragraphs: [
+          'Einstein continued scientific work and public advocacy in Princeton during his final years. He supported nuclear disarmament, civil liberties, and international cooperation, and declined an offer to become president of Israel in 1952. He died in Princeton on 18 April 1955. His reputation as a symbol of genius can obscure both the range of his work and its unfinished ambitions. The physicist who helped create quantum theory also became one of its most persistent critics, while the pacifist who warned Roosevelt about atomic weapons later argued against nuclear danger. His career links scientific imagination with difficult questions about political responsibility.',
+        ],
+      },
+    ],
+    timeline: [
+      {
+        date: '1879',
+        event: 'Born in Ulm, Germany, on 14 March.',
+      },
+      {
+        date: '1896–1901',
+        event:
+          'Studied at the Federal Polytechnic in Zurich, graduated in 1900, and became a Swiss citizen in 1901.',
+      },
+      {
+        date: '1905',
+        event:
+          'Completed his doctorate and published papers on light quanta, Brownian motion, special relativity, and mass–energy equivalence.',
+      },
+      {
+        date: '1914–1915',
+        event:
+          'Moved to Berlin and completed the general theory of relativity.',
+      },
+      {
+        date: '1919',
+        event:
+          'Eclipse observations supported the predicted bending of starlight and brought worldwide recognition.',
+      },
+      {
+        date: '1921–1922',
+        event:
+          'Awarded the 1921 Nobel Prize in Physics in 1922, especially for the law of the photoelectric effect.',
+      },
+      {
+        date: '1933–1935',
+        event:
+          'Joined the Institute for Advanced Study in Princeton; later coauthored the EPR paper with Podolsky and Rosen.',
+      },
+      {
+        date: '1939–1940',
+        event:
+          'Signed the letter to Roosevelt about nuclear research and became an American citizen the following year.',
+      },
+      {
+        date: '1952–1955',
+        event:
+          'Declined the presidency of Israel, continued scientific and public work, and died in Princeton on 18 April 1955.',
+      },
+    ],
+    sources: [
+      {
+        title: 'Albert Einstein — Biographical',
+        publisher: 'Nobel Prize',
+        url: 'https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/',
+      },
+      {
+        title: 'Albert Einstein — Facts',
+        publisher: 'Nobel Prize',
+        url: 'https://www.nobelprize.org/prizes/physics/1921/einstein/facts/',
+      },
+      {
+        title: 'Albert Einstein: In Brief',
+        publisher: 'Institute for Advanced Study',
+        url: 'https://www.ias.edu/albert-einstein-brief',
+      },
+      {
+        title: 'Albert Einstein: The Great Works',
+        publisher: 'Institute for Advanced Study',
+        url: 'https://www.ias.edu/albert-einstein-great-works',
+      },
+      {
+        title: 'The Advent and Fallout of EPR',
+        publisher: 'Institute for Advanced Study',
+        url: 'https://www.ias.edu/ideas/2013/epr-fallout',
+      },
+      {
+        title: 'Manhattan Project Pioneers: Albert Einstein',
+        publisher: 'U.S. National Park Service',
+        url: 'https://www.nps.gov/people/manhattan-project-pioneers-albert-einstein.htm',
+      },
+      {
+        title: 'Einstein, Plumbers, and McCarthyism',
+        publisher: 'Institute for Advanced Study',
+        url: 'https://www.ias.edu/ideas/2017/einstein-mccarthyism',
       },
     ],
   },

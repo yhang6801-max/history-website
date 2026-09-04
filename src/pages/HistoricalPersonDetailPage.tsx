@@ -11,6 +11,8 @@ export function HistoricalPersonDetailPage() {
     return <NotFoundPage />
   }
 
+  const imageAttribution = person.imageAttribution
+
   return (
     <main className="person-detail">
       <Link className="page-link" to="/">
@@ -74,6 +76,30 @@ export function HistoricalPersonDetailPage() {
               ))}
             </ul>
           </section>
+          {imageAttribution && (
+            <section className="person-detail__image-attribution" lang="en">
+              <h2>Image credits</h2>
+              <p>
+                <a href={imageAttribution.sourceUrl} target="_blank" rel="noreferrer">
+                  Wikimedia Commons
+                </a>
+                {' · '}
+                {imageAttribution.authorUrl ? (
+                  <a href={imageAttribution.authorUrl} target="_blank" rel="noreferrer">
+                    {imageAttribution.author}
+                  </a>
+                ) : (
+                  imageAttribution.author
+                )}
+                {' · '}
+                <a href={imageAttribution.licenseUrl} target="_blank" rel="noreferrer">
+                  {imageAttribution.licenseName}
+                </a>
+              </p>
+              {imageAttribution.notes && <p>{imageAttribution.notes}</p>}
+              <p>{imageAttribution.changes}</p>
+            </section>
+          )}
         </div>
       </article>
     </main>

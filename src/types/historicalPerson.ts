@@ -14,10 +14,21 @@ export interface HistoricalPersonSource {
   url: string
 }
 
+export interface HistoricalPersonImageAttribution {
+  sourceUrl: string
+  author: string
+  authorUrl?: string
+  licenseName: string
+  licenseUrl: string
+  notes?: string
+  changes: string
+}
+
 export interface HistoricalPerson {
   id: string
   name: string
   image: string
+  imageAttribution?: HistoricalPersonImageAttribution
   lifespan: string
   summary: string
   sections: readonly HistoricalPersonSection[]

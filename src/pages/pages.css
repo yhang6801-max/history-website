@@ -156,11 +156,32 @@
   line-height: 1.55;
 }
 
-.person-detail__sources a {
+.person-detail__sources a,
+.person-detail__image-attribution a {
   color: #67523c;
   font-weight: 600;
   overflow-wrap: anywhere;
   text-underline-offset: 3px;
+}
+
+.person-detail__image-attribution {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid #ece8e2;
+  color: #6a6259;
+  font-size: 0.875rem;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+.person-detail__image-attribution h2 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.person-detail__image-attribution p {
+  margin: 8px 0 0;
 }
 
 .not-found {
