@@ -62,3 +62,11 @@ npm run prepare-person-image -- alexander-the-great "./input/alexander.jpg" --po
 `--position` and `--force` can be used together in either order.
 
 On Windows, wrap paths containing spaces in quotes.
+
+## Portrait selection
+
+For each new person, prefer a real photograph from Wikimedia Commons when one exists; otherwise prefer a two-dimensional painted or engraved portrait. Avoid photographs of sculptures or busts where suitable alternatives exist. Choose a clearly identifiable person, a complete and legible face, and a composition suitable for portrait cropping.
+
+Before downloading, check the Commons file description for the actual creator, original source, license or public-domain basis, and required credits (including restorers). Do not infer rights from the subject, age, or uploader. Record the file-page URL, rights information, credits, and actual edits in `imageAttribution`. Review both the source and processed image. Use limited download retries and try another suitable source before changing the image tool.
+
+Image discovery, rights verification, biography research, and data entry are separate editorial steps; `prepare-person-image` only processes an input image.
