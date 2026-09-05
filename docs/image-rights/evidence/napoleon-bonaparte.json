@@ -1,0 +1,111 @@
+{
+  "id": "napoleon-bonaparte",
+  "retrievedAt": "2026-09-05T00:36:00.0491722+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Portrait_of_General_Bonaparte_-_WGA06077.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AJacques-Louis_David_-_Portrait_of_General_Bonaparte_-_WGA06077.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Jacques-Louis_David_-_Portrait_of_General_Bonaparte_-_WGA06077.jpg",
+          "to": "File:Jacques-Louis David - Portrait of General Bonaparte - WGA06077.jpg"
+        }
+      ],
+      "pages": {
+        "15883612": {
+          "pageid": 15883612,
+          "ns": 6,
+          "title": "File:Jacques-Louis David - Portrait of General Bonaparte - WGA06077.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jacques-Louis_David_-_Portrait_of_General_Bonaparte_-_WGA06077.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Portrait_of_General_Bonaparte_-_WGA06077.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15883612",
+              "sha1": "d6c809e4fa5e006e369fa77dc69ea7d4e61609f7",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-07-24 05:43:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Portrait of General Bonaparte",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Unfinished portrait of General Bonaparte - Jacques-Louis David - Louvre RF 1942-18|Images from Web Gallery of Art|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|WGA form: painting|Artworks with accession number from Wikidata|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of unknown type of work|Artworks digital representation of 2D work|WGA type: portrait|WGA time period: 1801-1850|WGA School: French",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jacques-Louis_David\" class=\"extiw\" title=\"w:en:Jacques-Louis David\"><span title=\"French painter (1748–1825)\">Jacques-Louis David</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 1797 and 1798<div style=\"display: none;\">date QS:P,+1797-00-00T00:00:00Z/8,P1319,+1797-00-00T00:00:00Z/9,P1326,+1798-00-00T00:00:00Z/9</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q3387593#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/art/d/david_j/3/309david.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/art/d/david_j/3/309david.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/html/d/david_j/3/309david.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/html/d/david_j/3/309david.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"d/david_j/3/309david\"</div>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Artwork\n  |wikidata         = Q3387593\n  |title            = {{en|Portrait of General Bonaparte}}\n  |source           = {{WGA link|ID=6077|pic-url=http://www.wga.hu/art/d/david_j/3/309david.jpg|info-url=http://www.wga.hu/html/d/david_j/3/309david.html}}\n}}\n{{PD-Art|PD-old-auto-expired|deathyear=1825}}\n{{WGA tag|painting|portrait|French|1801-1850}}\n\n{{DEFAULTSORT:1797; Napoleon Bonaparte}}\n[[Category:Unfinished portrait of General Bonaparte - Jacques-Louis David - Louvre RF 1942-18|  ]]\n[[Category:WGA form: painting]]\n[[Category:WGA type: portrait]]\n[[Category:WGA School: French]]\n[[Category:WGA time period: 1801-1850]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

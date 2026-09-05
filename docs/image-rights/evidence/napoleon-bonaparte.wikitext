@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Artwork
+  |wikidata         = Q3387593
+  |title            = {{en|Portrait of General Bonaparte}}
+  |source           = {{WGA link|ID=6077|pic-url=http://www.wga.hu/art/d/david_j/3/309david.jpg|info-url=http://www.wga.hu/html/d/david_j/3/309david.html}}
+}}
+{{PD-Art|PD-old-auto-expired|deathyear=1825}}
+{{WGA tag|painting|portrait|French|1801-1850}}
+
+{{DEFAULTSORT:1797; Napoleon Bonaparte}}
+[[Category:Unfinished portrait of General Bonaparte - Jacques-Louis David - Louvre RF 1942-18|  ]]
+[[Category:WGA form: painting]]
+[[Category:WGA type: portrait]]
+[[Category:WGA School: French]]
+[[Category:WGA time period: 1801-1850]]

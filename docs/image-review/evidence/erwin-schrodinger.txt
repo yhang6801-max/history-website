@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Erwin Schrodinger}}
+|date={{other date|?}}
+|source=https://repository.aip.org/informal-portrait-erwin-schrodinger-3
+|author=Photograph by Francis Simon, courtesy of AIP Emilio Segrè Visual Archives
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{AIP}}
+
+[[Category:Erwin Schrodinger]]

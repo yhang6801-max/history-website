@@ -1,0 +1,132 @@
+{
+  "id": "confucius",
+  "retrievedAt": "2026-09-05T00:36:03.3600094+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confucius_Portrait,_Kongzi_(Confucius)_Family_Mansion,_Qufu_(13044335945).jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AConfucius_Portrait%2C_Kongzi_%28Confucius%29_Family_Mansion%2C_Qufu_%2813044335945%29.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Confucius_Portrait,_Kongzi_(Confucius)_Family_Mansion,_Qufu_(13044335945).jpg",
+          "to": "File:Confucius Portrait, Kongzi (Confucius) Family Mansion, Qufu (13044335945).jpg"
+        }
+      ],
+      "pages": {
+        "147339864": {
+          "pageid": 147339864,
+          "ns": 6,
+          "title": "File:Confucius Portrait, Kongzi (Confucius) Family Mansion, Qufu (13044335945).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Confucius_Portrait%2C_Kongzi_%28Confucius%29_Family_Mansion%2C_Qufu_%2813044335945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Confucius_Portrait,_Kongzi_(Confucius)_Family_Mansion,_Qufu_(13044335945).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147339864",
+              "sha1": "896e6cf8e6f4678c3af730ba1e4dd2a45a8b1a1b",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-04-13 13:54:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Portrait of Confucius at Leisure</i></div></div><div style=\"display: none;\">label QS:Lzh-cn,\"孔子燕居像\"</div><div style=\"display: none;\">label QS:Len,\"Portrait of Confucius at Leisure\"</div><div style=\"display: none;\">label QS:Lzh-hans,\"孔子燕居像\"</div><div style=\"display: none;\">label QS:Lzh,\"孔子燕居像\"</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Kong Family Mansion|Artworks with Wikidata item|Template Unknown (author)|Photographs taken on 2014-03-09|Artworks with Wikidata item missing date|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Artworks digital representation of 2D work|Portrait paintings of Confucius in the Confucius Museum",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "35.597486",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "116.985920",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<table cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td>Unknown author<span style=\"display: none;\">Unknown author</span></td><td valign=\"top\"> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q132559242#P170\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></td></tr></tbody></table></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nQufu, Shandong Province. Complete indexed photo collection at WorldHistoryPics.com.</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 9 March 2014, 08:55",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/101561334@N08/13044335945/\">Confucius Portrait, Kongzi (Confucius) Family Mansion, Qufu</a><br>Taken by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/101561334@N08\">Gary Todd</a> from Xinzheng, China​",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Artwork\n|wikidata=Q132559242\n| Description = Qufu, Shandong Province. Complete indexed photo collection at WorldHistoryPics.com.\n| Source      = [https://www.flickr.com/photos/101561334@N08/13044335945/ Confucius Portrait, Kongzi (Confucius) Family Mansion, Qufu]<br>{{taken by|[https://www.flickr.com/people/101561334@N08 Gary Todd] from Xinzheng, China}}\n| Date        = {{taken on|2014-03-09 08:55}}\n| other_versions=<gallery>\nFile:Cropped version of Confucius Portrait, Kongzi (Confucius) Family Mansion, Qufu (13044335945).jpg\n孔子燕居像.jpg\n</gallery>\n}}\n{{Location dec|35.597486|116.985920|source:Flickr}}\n\n=={{int:license-header}}==\n{{cc-zero}}\n{{FlickreviewR|status=passed|author=Gary Lee Todd, Ph.D.|sourceurl=https://flickr.com/photos/101561334@N08/13044335945|archive=|reviewdate=2024-04-13 13:55:46|reviewlicense=cc-zero|reviewer=FlickreviewR 2}}\n[[Category:Kong Family Mansion]]\n[[Category:Portrait paintings of Confucius in the Confucius Museum]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

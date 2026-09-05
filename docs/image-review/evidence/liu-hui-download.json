@@ -1,0 +1,109 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "35060562": {
+        "pageid": 35060562,
+        "ns": 6,
+        "title": "File:Hunan International Economics University20.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hunan_International_Economics_University20.jpg/960px-Hunan_International_Economics_University20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hunan_International_Economics_University20.jpg/1920px-Hunan_International_Economics_University20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hunan_International_Economics_University20.jpg/960px-Hunan_International_Economics_University20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hunan_International_Economics_University20.jpg/1920px-Hunan_International_Economics_University20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hunan_International_Economics_University20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hunan_International_Economics_University20.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35060562",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-09-01 11:58:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hunan International Economics University20",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon Digital IXUS 105|Liu Hui (mathematician)|De minimis|Hunan International Economics University|Self-published work|FoP-China|Busts in Changsha",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bust of Liu Hui in Hunan International Economics University. The Bust of Liu Hui is an important part of the sculpture group of renowned scientists at Hunan International Economics University. It is a bronze bust with a simple and realistic style that recreates the image of Liu Hui as an ancient scholar. The pedestal is made of gray stone, with the following inscriptions: On the front: the golden regular script \"Liu Hui\", along with the modern sans-serif birth-death years \"(225~295)\" and a brief introduction: \"A great mathematician in the history of mathematics.\" Below: the classic exposition of Liu Hui's circle-cutting method: \"The more finely we cut, the smaller the loss; cutting again and again until no more cuts can be made, it will merge with the circle without any loss.\" Liu Hui (225 - 295) was a Chinese mathematician in the Wei and Jin dynasties. <b>Note: The calligraphic artworks of the name, the birth-death years, the introductory text, and the classic exposition of Liu Hui's circle-cutting method on the pedestal are not in the public domain.</b>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-25 14:23:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Huangdan2060\" title=\"User:Huangdan2060\">Huangdan2060</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

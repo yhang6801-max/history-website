@@ -1,0 +1,34 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{Depicted person|{{Marie Curie}}}}
+|Source         =[https://cdn-images-1.medium.com/max/1600/1*8hqEtUCvwPMa8NkfFTovCg.jpeg cdn-images-1.medium.com]
+|Author         ={{Creator:Henri Manuel}}
+*Restored by [[User:FMSky|FMSky]] and [[User:Bammesk|Bammesk]]
+|Date           ={{circa|1920}}
+|Permission     =
+|other_versions ={{Image extracted|1=Marie Curie c. 1920s (cropped).jpg}}
+*[[:File:Marie Curie c. 1920s.jpg]], Restoration JPEG
+*[[:File:Marie Curie c. 1920s - original.jpg]], Original JPEG
+{{other3|Marie Curie c1920.png|Marie Curie c1920.jpg|Marie Sklodowska Curie (1867-1934) (12483309625).jpg|Marie Curie - Henri Manuel.jpg}}
+}}
+{{Retouched picture|image restoration|orig=Marie Curie c. 1920s - original.jpg}}
+
+=={{assessment}}==
+{{Assessments|enwiki=1|enwiki-nom=Marie Curie 2}}
+{{POTD viwiki|2023-03-03}}
+
+== {{int:license-header}} ==
+{{PD-old-auto-1923
+ |deathyear=1947
+}}
+
+[[Category:Marie Curie|1920]]
+[[Category:Black and white photographs of closed mouths]]
+[[Category:Black and white photographs of females looking at viewer]]
+[[Category:Black female clothing]]
+[[Category:Black and white necklines]]
+[[Category:Neutral background]]
+[[Category:Black and white portrait photographs of women]]
+[[Category:Old women with gray hair]]
+[[Category:Front views of women]]
+[[Category:Photographs by Henri Manuel]]

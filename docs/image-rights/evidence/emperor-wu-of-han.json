@@ -1,0 +1,118 @@
+{
+  "id": "emperor-wu-of-han",
+  "retrievedAt": "2026-09-05T00:36:05.6245186+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:三才圖會_漢武帝劉徹相.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3A%E4%B8%89%E6%89%8D%E5%9C%96%E6%9C%83_%E6%BC%A2%E6%AD%A6%E5%B8%9D%E5%8A%89%E5%BE%B9%E7%9B%B8.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2023-11-26T15:58:31Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "normalized": [
+        {
+          "from": "File:三才圖會_漢武帝劉徹相.jpg",
+          "to": "File:三才圖會 漢武帝劉徹相.jpg"
+        }
+      ],
+      "pages": {
+        "141439034": {
+          "pageid": 141439034,
+          "ns": 6,
+          "title": "File:三才圖會 漢武帝劉徹相.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/%E4%B8%89%E6%89%8D%E5%9C%96%E6%9C%83_%E6%BC%A2%E6%AD%A6%E5%B8%9D%E5%8A%89%E5%BE%B9%E7%9B%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E6%89%8D%E5%9C%96%E6%9C%83_%E6%BC%A2%E6%AD%A6%E5%B8%9D%E5%8A%89%E5%BE%B9%E7%9B%B8.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=141439034",
+              "sha1": "198186acaa84361f4d5f51af71e219c471d2c495",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-11-26 16:02:48",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "三才圖會 漢武帝劉徹相",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Emperor Wu of Han|PD-old-70-expired|CC-PD-Mark|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Emperor Wu of Han in Sancai Tuhui by WangQi",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2023-11-26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://wapbaike.baidu.com/tashuo/browse/content?id=d4666d6432e2438d293d8c33\">https://wapbaike.baidu.com/tashuo/browse/content?id=d4666d6432e2438d293d8c33</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Wang Qi",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Emperor Wu of Han in Sancai Tuhui by WangQi}}\n|date=2023-11-26\n|source=https://wapbaike.baidu.com/tashuo/browse/content?id=d4666d6432e2438d293d8c33\n|author=Wang Qi\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n\n{{PD-old-70-1923}}\n\n[[Category:Emperor Wu of Han]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

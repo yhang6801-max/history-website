@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Qin Shi Huang, the first emperor of China}}
+|date={{circa|1850}}
+|source=Yuan, Zhongyi. ''China's terracotta army and the First Emperor's mausoleum: the art and culture of Qin Shihuang's underground palace''. Paramus, New Jersey: Homa & Sekey Books, 2010. {{ISBN|978-1-931907-68-2}} (p.140)
+|author={{unknown|artist}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-Art-100-1923}}
+[[Category:Mianguan in art]]
+[[Category:Qin Shi Huang in art]]

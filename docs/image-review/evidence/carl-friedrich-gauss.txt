@@ -1,0 +1,27 @@
+=={{int:filedesc}}==
+{{Artwork
+|artist     ={{Creator:Christian Albrecht Jensen}}
+|title      ={{title|de=Bildnis des {{w|Carl Friedrich Gauß}} (1777-1855)|en=Portrait of {{w|Carl Friedrich Gauß}} (1777-1855)}}
+|description={{en|Portrait of {{w|Carl Friedrich Gauß}} (1777-1855)}}
+|date       =1840
+|object type=painting
+|medium     ={{Oil on canvas}}
+|dimensions =
+|institution={{19PortraitMenLocationMissing}}
+|source     =http://archiv.bbaw.de/archiv/archivbestaende/abteilung-sammlungen/gesamtbestand-des-kunstbesitzes/gelehrtengemaelde/gelehrtengemalde-seiten/ZIMM-0001.html
+|other versions=
+|wikidata   =Q136687213
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-auto-expired|deathyear=1870}}
+
+[[Category:Portrait paintings by Christian Albrecht Jensen|Gauss, Carl Friedrich]]
+[[Category:Portraits of Carl Friedrich Gauß|CFGJ]]
+[[Category:1840 portrait paintings from Denmark|Jensen, C.A.]]
+[[Category:1840 portrait paintings of men]]
+[[Category:19th-century oil portraits of men at half length|1840]]
+[[Category:1840 portrait paintings from Denmark|Jensen, C.A.]]
+[[Category:Paintings of Astronomers]]
+[[Category:Physicists in art]]
+[[Category:Scientists in 1840]]

@@ -1,0 +1,284 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Michael_Faraday._Photograph_by_John_Watkins._Wellcome_V0026346.jpg",
+        "to": "File:Michael Faraday. Photograph by John Watkins. Wellcome V0026346.jpg"
+      },
+      {
+        "from": "File:Max_Planck_1933.jpg",
+        "to": "File:Max Planck 1933.jpg"
+      },
+      {
+        "from": "File:Niels_Bohr.jpg",
+        "to": "File:Niels Bohr.jpg"
+      },
+      {
+        "from": "File:Bundesarchiv_Bild_183-R57262,_Werner_Heisenberg.jpg",
+        "to": "File:Bundesarchiv Bild 183-R57262, Werner Heisenberg.jpg"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 6,
+        "title": "File:Bundesarchiv Bild 183-R57262, Werner Heisenberg.jpg",
+        "missing": "",
+        "imagerepository": ""
+      },
+      "20429172": {
+        "pageid": 20429172,
+        "ns": 6,
+        "title": "File:Max Planck 1933.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Max_Planck_1933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Max_Planck_1933.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20429172",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-07-27 12:00:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Max Planck 1933",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Max Planck|PD-anon-70-EU|Template Unknown (author)|Scientists in 1933",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Max Planck",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Berlin, 11 January 1933",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.gahetna.nl/collectie/afbeeldingen/fotocollectie/zoeken/weergave/detail/start/2/tstart/0/q/zoekterm/Planck\">[1]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<i><b>Note:</b> In Germany and possibly other countries, certain anonymous works published before July 1, 1995 are copyrighted until 70 years after the death of the author. See <a href=\"https://de.wikipedia.org/wiki/Anonymes_Werk_(Urheberrecht)#Fr%C3%BChere_Rechtslage_in_Deutschland_/_%C3%9Cbergangsrecht\" class=\"extiw\" title=\"de:Anonymes Werk (Urheberrecht)\">Übergangsrecht</a>.  Please use this template only if the author never claimed authorship or their authorship never became public in any other way.  If the work is anonymous or pseudonymous (e.g., published only under a corporate or organization's name), use this template for images published more than 70 years ago.</i>\n<i>For a work made available to the public in the United Kingdom, please use <a href=\"//commons.wikimedia.org/wiki/Template:PD-UK-unknown\" title=\"Template:PD-UK-unknown\">Template:PD-UK-unknown</a> instead.</i>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "36579282": {
+        "pageid": 36579282,
+        "ns": 6,
+        "title": "File:Michael Faraday. Photograph by John Watkins. Wellcome V0026346.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Michael_Faraday._Photograph_by_John_Watkins._Wellcome_V0026346.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Michael_Faraday._Photograph_by_John_Watkins._Wellcome_V0026346.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36579282",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-11-03 09:00:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nMichael Faraday. Photograph by John Watkins.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with no machine-readable author|Images uploaded by Fæ|Artworks without Wikidata item|Files from Wellcome Images|Portraits in the Wellcome Collection|Michael Faraday by John Watkins",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Michael Faraday. Photograph by John Watkins.\n</p>\n<p>Iconographic Collections</p>\nKeywords: portrait photographs</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/c9/d3/124d830a7a4bc9cdb0500be22adf.jpg\">https://wellcomeimages.org/indexplus/obf_images/c9/d3/124d830a7a4bc9cdb0500be22adf.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/V0026346.html\">https://wellcomeimages.org/indexplus/image/V0026346.html</a></li>\n<li>Wellcome Collection gallery (2018-03-31): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/nzt3mvvr\">https://wellcomecollection.org/works/nzt3mvvr</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "288274": {
+        "pageid": 288274,
+        "ns": 6,
+        "title": "File:Niels Bohr.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Niels_Bohr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=288274",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-07-26 22:11:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Niels Bohr",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Niels Bohr|PD Sweden|PD US expired|Black and white portrait photographs of male scientists|PD-old missing SDC copyright status|PD-US missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Niels_Bohr\" class=\"extiw\" title=\"en:Niels Bohr\">Niels Bohr</a>, physicist.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "circa 1922<div style=\"display: none;\">date QS:P,+1922-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Niels Bohr's <a rel=\"nofollow\" class=\"external text\" href=\"http://nobelprize.org/physics/laureates/1922/bohr-bio.html\">Nobel Prize biography</a>, from 1922",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "The American Institute of Physics credits the photo <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://photos.aip.org/quickSearch.jsp?qsearch=Lagrelius+&amp;group=10&amp;Submit=GO\">[1]</a> to <a rel=\"nofollow\" class=\"external text\" href=\"http://www.tremil.se/pls/hborg/rigby.VisaObjekt?pin_masidn=319177\">AB Lagrelius &amp; Westphal</a>, which is the Swedish company used by the Nobel Foundation for most photos of its book series <i>Les Prix Nobel</i>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

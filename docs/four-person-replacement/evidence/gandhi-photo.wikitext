@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{Information
+|Description = {{en|Portrait of Gandhi in 1931.}}
+{{fr|Portrait de Gandhi en 1931.}}
+|Source      = gandhiserve.org
+|Date        = 1931
+|Author      = {{unknown|Author}}
+|Permission  = 
+|other_versions = [[:File:Gandhi thinking mood 1931.jpg]]
+}}
+
+=={{int:license-header}}==
+{{PD-India}}
+{{PD-India-URAA}}
+
+[[Category:Mohandas K. Gandhi in India]]
+[[Category:Portrait photographs of Mohandas K. Gandhi|1931]]
+[[Category:Portraits of men with moustaches]]
+[[Category:Bald men]]
+[[Category:Men wearing glasses]]
+[[Category:Black and white portrait photographs of men]]
+[[Category:Mohandas K. Gandhi in 1931]]
+[[Category:Files uploaded by Yann Forget]]
+[[Category:20th-century black and white portrait photographs of men at bust length|1931, Gandhi]]
+[[Category:1931 black and white portrait photographs of men|bust length, Gandhi]]

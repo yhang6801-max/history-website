@@ -1,0 +1,75 @@
+[
+  {
+    "id": "liu-hui",
+    "localFile": "src/assets/people/placeholder.svg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hunan_International_Economics_University20.jpg",
+    "status": "依据不足，暂不使用",
+    "reason": "候选纪念像底座书法权利未明确，另一个 Liu hui.jpg 的转载授权也未建立。不通过裁字或水印来规避。替换为费马，旧 ID 不映射新人物。",
+    "replacement": "pierre-de-fermat",
+    "formerLocalFile": "src/assets/people/placeholder.svg",
+    "formerAttribution": null,
+    "sourceEvidence": "docs/image-review/evidence/liu-hui-statue.txt",
+    "beforeUseConditions": "摄影许可、雕塑及书法权利必须分别明确；当前候选尚不满足。"
+  },
+  {
+    "id": "alexander-the-great",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg",
+    "status": "依据不足，暂不使用",
+    "reason": "原作马赛克与 DEA/G. Nimatallah/De Agostini/Getty 现代摄影的权利须分开。旧文件虽有 PD-Art 标记但摄影版权标识及地域条件不足以给本站提供同等明确依据，改用 Sailko 自主授权照片。",
+    "replacement": "同一人物，Sailko CC BY-SA 3.0",
+    "formerLocalFile": "src/assets/people/alexander-the-great.webp",
+    "formerAttribution": {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg",
+      "author": "Unknown mosaic artist; photograph: DEA / G. NIMATALLAH",
+      "licenseName": "Public domain (Commons PD-Art)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg#Licensing",
+      "notes": "Detail of “Alexander the Great mosaic”, sourced from The Guardian. Original photographic credit and copyright metadata: De Agostini/Getty Images. Commons considers it public domain in the United States because the anonymous ancient work is out of copyright (PD-anon-expired) and this is a faithful reproduction of a two-dimensional work (PD-Art); rights in reproductions may differ elsewhere.",
+      "changes": "Cropped to retain Alexander on the left, enlarged to 900 × 1200, and converted to WebP."
+    },
+    "sourceEvidence": "docs/image-rights/evidence/alexander-the-great.wikitext",
+    "beforeUseConditions": "旧声明见 formerAttribution；本轮指出未能补齐的层次，因此停止采用该具体版本。",
+    "previousAssetSha256": "59d62342bab3b4c46c020d1415f802aaefa366574761ce0f5f83db14b4c21509",
+    "previousAssetBackup": "node_modules/.cache/rights-audit/previous-images/alexander-the-great.webp"
+  },
+  {
+    "id": "julius-caesar",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Bust_of_Julius_Caesar.jpg",
+    "status": "依据不足，暂不使用",
+    "reason": "Wilfredor 的 CC0 摄影明确，但这件具体胸像的雕塑制作时间与原作者证据不足；换用馆藏资料明确的 Coustou 雕塑及 Jastrow PD-self 摄影。",
+    "replacement": "同一人物，Coustou / Marie-Lan Nguyen",
+    "formerLocalFile": "src/assets/people/julius-caesar.webp",
+    "formerAttribution": {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bust_of_Julius_Caesar.jpg",
+      "author": "Wilfredor",
+      "authorUrl": "https://commons.wikimedia.org/wiki/User:Wilfredor",
+      "licenseName": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+      "notes": "“Bust of Julius Caesar”. The photographer dedicated the work to the public domain under CC0 1.0.",
+      "changes": "Cropped, resized to 900 × 1200, and converted to WebP."
+    },
+    "sourceEvidence": "docs/image-rights/evidence/julius-caesar.wikitext",
+    "beforeUseConditions": "旧声明见 formerAttribution；本轮指出未能补齐的层次，因此停止采用该具体版本。",
+    "previousAssetSha256": "d8db429a8e77010577689489c7d9088854408b15556a3aa7f7eae715058784bf",
+    "previousAssetBackup": "node_modules/.cache/rights-audit/previous-images/julius-caesar.webp"
+  },
+  {
+    "id": "srinivasa-ramanujan",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Srinivasa_Ramanujan-_Add._MS_a947.jpg",
+    "status": "依据不足，暂不使用",
+    "reason": "三一学院候选的 1913 纪年、首次公开条件无法独立补齐，原档案访问超时；换用同时列明公开授权工单及 PD-UK-Unknown / PD-1923 的 OPC-1 馆藏版本。",
+    "replacement": "同一人物，Oberwolfach Photo Collection OPC-1",
+    "formerLocalFile": "src/assets/people/srinivasa-ramanujan.webp",
+    "formerAttribution": {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srinivasa_Ramanujan-_Add._MS_a947.jpg",
+      "author": "Photographer not identified / Trinity College, Cambridge (archival copy, Add. Ms. a.94.7)",
+      "licenseName": "Public domain (PD-UK-unknown)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "notes": "Copy of a passport photograph of Srinivasa Ramanujan, from the Trinity College, Cambridge archive (Add. Ms. a.94.7). The original photographer is not identified. The Commons file is marked PD-UK-unknown; no photographic date is asserted here.",
+      "changes": "Cropped, resized to 900 × 1200, and converted to WebP."
+    },
+    "sourceEvidence": "docs/image-rights/evidence/srinivasa-ramanujan.wikitext",
+    "beforeUseConditions": "旧声明见 formerAttribution；本轮指出未能补齐的层次，因此停止采用该具体版本。",
+    "previousAssetSha256": "9d58807de37f3593f8ca59695713facf2bfc42836608e7df18dd3adee83e43d6",
+    "previousAssetBackup": "node_modules/.cache/rights-audit/previous-images/srinivasa-ramanujan.webp"
+  }
+]

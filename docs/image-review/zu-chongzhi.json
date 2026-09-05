@@ -1,0 +1,17 @@
+{
+  "id": "zu-chongzhi",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:昆山亭林公园祖冲之像.jpg",
+  "author": "Gisling (photograph); sculptor not identified",
+  "licenseName": "CC BY-SA 3.0 (photograph); FoP-China (sculpture)",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "en": "A later commemorative statue of Zu Chongzhi in Tinglin Park, Kunshan, photographed by Gisling in 2011. The sculptor is not identified in the source. This is not a portrait made during Zu Chongzhi's lifetime. The photograph is licensed under CC BY-SA 3.0; the publicly displayed sculpture is reproduced under China's freedom-of-panorama provision.",
+  "zh": "Gisling 于 2011 年拍摄的昆山亭林公园祖冲之纪念像。来源未注明雕塑作者；这是后世纪念雕塑，并非祖冲之生前肖像。摄影作品采用 CC BY-SA 3.0 许可；公开陈列的雕塑依据中国关于公共场所艺术作品摄影的规定展示。",
+  "position": "attention",
+  "rightsEvidence": [
+    "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/China#Freedom_of_panorama"
+  ],
+  "rightsReview": "Photographer Gisling explicitly licenses own photograph CC BY-SA 3.0. Commons description identifies Zu Chongzhi statue in public Tinglin Park. Copyright Law article 24(10) covers photography of public artworks; Commons FoP-China guidance covers permanent 3D sculpture and requires available attribution. No sculptor identified; do not claim sculpture itself is CC licensed or public domain. Visual crop remains unverified.",
+  "checked": "2026-09-04",
+  "visualReview": "Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified."
+}

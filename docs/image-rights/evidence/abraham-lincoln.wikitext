@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|This famous image of Lincoln was photographed by Alexander Gardner on November 8, 1863, just weeks before he would deliver the Gettysburg Address. It is sometimes referred to as the "Gettysburg portrait," although it was actually taken in Washington. As Lincoln had previously done in August 1863, he visited Gardner's studio on a Sunday afternoon. He posed for several additional portraits during this session.}}
+|Source={{institution:Library of Congress}}
+|Date=1863-11-08
+|Author={{Creator:Alexander Gardner}}
+|Permission={{PD-US}}
+|other_versions=https://www.loc.gov/item/scsm000793/ <br> http://www.physical-lincoln.com/exposure/o77
+}}
+{{Retouched picture |1=Desaturated (R 120% Y 110%), adjusted levels, removes minor artifacts, adjusted for [http://www.physical-lincoln.com/wiki/Too-thin_images artifactual vertical elongation] |editor=Scewing |orig= |origoff=http://lcweb2.loc.gov/service/rbc/lprbscsm/scsm0793/001r.jpg }}
+
+[[Category:Abraham Lincoln in 1863|O77]]

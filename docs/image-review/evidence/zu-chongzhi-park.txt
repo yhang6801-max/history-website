@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Statue of Zu Chongzi in Tinglin Park in Kunshan}}{{zh-hans|1=昆山亭林公园祖冲之}}
+|date=2011-10-29
+|source={{own}}
+|author=[[User:Gisling|Gisling]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Zu Chongzhi]]
+[[Category:Taken with Panasonic Lumix DMC-LX5]]

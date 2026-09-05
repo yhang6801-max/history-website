@@ -1,0 +1,21 @@
+== {{int:filedesc}} ==
+{{Artwork
+|wikidata=Q132570932
+|description=
+{{en|1=Collection of Qing Palace}}
+{{zh|1=清宫殿藏本}}
+|date=
+|source=http://202.121.7.7/person/dzzgx/030124dufu2.jpg
+|author=
+|permission=
+|other_versions=
+|other_fields=
+}}
+from en wiki 杜甫
+
+== {{int:license-header}} ==
+{{PD-Art|PD-old-100}}
+[[Category:Futou of the Tang Dynasty in art]]
+[[Category:Du Fu]]
+[[Category:Portrait paintings of men at bust length]]
+[[Category:Paintings in the National Museum of China]]

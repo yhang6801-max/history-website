@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Artwork
+ |wikidata          = Q613928
+ |title      = {{en|''Portrait of [[Antoine-Laurent de Lavoisier|Monsieur de Lavoisier]] and his Wife, chemist [[Marie-Anne Pierrette Paulze]]}}
+             {{fr|Portrait de [[Antoine-Laurent de Lavoisier|Monsieur de Lavoisier]] et sa femme [[Marie-Anne Pierrette Paulze]]}}
+             {{pl|Portret [[Antoine-Laurent de Lavoisier|Monsieur de Lavoisier]] i jego żony, chemik [[Marie-Anne Pierrette Paulze]]}}
+             {{el|Γάλλος χημικός Ο Αντουάν Λωράν Λαβουαζιέ με την γυναίκα του Μαρί Αν}}
+ |object history     = Antoine-Laurent Lavoisier, Paris (1788–d. 1794); Mme Antoine-Laurent Lavoisier, later Countess Rumford, Paris (1794–d. 1836); her great-niece, comtesse Pierre-Léon Bérard de Chazelles (Jeanne-Marie-Laure-Hélène-Gabrielle Ramey de Sugny), Paris, and later the Auvergne (1836–1876 [his death] or 1888 [her death]); her son, comte Étienne Bérard de Chazelles, Paris, and château de la Canière, near Aigueperse (by 1888–d. 1923; his estate, 1923–24; sold by his heirs to Wildenstein); [Wildenstein, Paris and New York, 1924–25; sold to Rockefeller]; John D. Rockefeller Jr., New York (1925–27); Rockefeller Institute for Medical Research, later Rockefeller University, New York (1927–77; sold to MMA)
+ |source             = {{Extracted from|1=David - Portrait of Monsieur Lavoisier and His Wife.jpg}} {{met online |1=436106 |invno=1977.10 |as= }}
+}}
+{{Image extracted|1=Antoine Lavoisier by Jacques-Louis David (cropped 2).jpg}}
+
+=={{int:license-header}}==
+{{PD-art-old-100-expired}}
+
+
+[[Category:Portrait of Monsieur de Lavoisier and his Wife (Jacques-Louis David)]]
+[[Category:Historical laboratory equipment]]
+[[Category:Royal Commission on Animal Magnetism]]

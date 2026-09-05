@@ -1,0 +1,14 @@
+{
+  "id": "galileo-galilei",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei_(Uffizi).jpg",
+  "author": "Justus Sustermans / The Uffizi",
+  "licenseName": "Public domain (PD-old-100)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "en": "Portrait of Galileo Galilei by Justus Sustermans, dated 1635 by the Uffizi Galleries (inventory 1890 no. 745). A reproduction of an oil painting, not a photograph.",
+  "zh": "Justus Sustermans 绘制的伽利略·伽利莱肖像。乌菲齐美术馆将其纪年列为 1635 年（馆藏编号 1890 no. 745）。这是油画的复制图，并非照片。",
+  "position": "center",
+  "dateReview": "Verified directly against the Uffizi object page: artist Justus Sustermans; date 1635; oil on canvas; inventory 1890 no. 745. Commons date agrees.",
+  "supportingSource": "https://www.uffizi.it/en/artworks/portrait-galileo-galilei-by-justus-sustermans",
+  "checked": "2026-09-05",
+  "visualReview": "Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified."
+}

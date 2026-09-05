@@ -1,0 +1,123 @@
+{
+  "id": "erwin-schrodinger",
+  "retrievedAt": "2026-09-05T00:34:14.4700994+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erwin_Schrödinger_(1933).jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AErwin_Schr%C3%B6dinger_%281933%29.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2023-01-19T13:43:55Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Erwin_Schrödinger_(1933).jpg",
+          "to": "File:Erwin Schrödinger (1933).jpg"
+        }
+      ],
+      "pages": {
+        "6209244": {
+          "pageid": 6209244,
+          "ns": 6,
+          "title": "File:Erwin Schrödinger (1933).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Erwin_Schr%C3%B6dinger_%281933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erwin_Schr%C3%B6dinger_(1933).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6209244",
+              "sha1": "dc3bd1f2b158f8b929613d5968d602e156c70edd",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-01-19 19:06:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Erwin Schrödinger (1933)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Erwin Schrödinger|Dublin Institute for Advanced Studies|PD Sweden|Black and white portrait photographs of male scientists|Scientists in 1933|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Erwin Schrödinger",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1933",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://nobelprize.org/nobel_prizes/physics/laureates/1933/schrodinger-bio.html\">http://nobelprize.org/nobel_prizes/physics/laureates/1933/schrodinger-bio.html</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Nobel foundation",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This Swedish photograph is in the <b><a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"w:Public domain\">public domain</a></b> in Sweden because one of the following applies:\n<ul><li>The photograph does not reach the Swedish threshold of originality (common for snapshots and journalistic photos) and was created before 1 January 1976 (SFS 1960:729, § 49a).</li>\n<li>The photograph was published anonymously before 1 January 1956 and the author did not reveal their identity during the following 70 years (SFS 1960:729, § 44).</li></ul>\n<p>For photos in the first category created before 1969, also <a href=\"//commons.wikimedia.org/wiki/Template:PD-1996\" title=\"Template:PD-1996\">{{PD-1996}}</a> usually applies. For photos in the second category published before 1931, also <a href=\"//commons.wikimedia.org/wiki/Template:PD-US-expired\" title=\"Template:PD-US-expired\">{{PD-US-expired}}</a> usually applies.\n</p>\nIf the photographer died before 1956, <a href=\"//commons.wikimedia.org/wiki/Template:PD-old-70\" title=\"Template:PD-old-70\"><span style=\"font-family:monospace,monospace;\">{{PD-old-70}}</span></a> should be used instead of this tag. If the author died before 1926, also <a href=\"//commons.wikimedia.org/wiki/Template:PD-1996\" title=\"Template:PD-1996\">{{PD-1996}}</a> usually applies.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "{{Information\n|Description={{en|1=Erwin Schrödinger}}\n|Source=http://nobelprize.org/nobel_prizes/physics/laureates/1933/schrodinger-bio.html\n|Author=Nobel foundation\n|Date=1933\n|Permission={{PD-Sweden-photo}}\n|other_versions=\n}}\n\n[[Category:Erwin Schrödinger|1933]]\n[[Category:Black and white portrait photographs of male scientists]]\n[[Category:Scientists in 1933]]\n[[Category:Dublin Institute for Advanced Studies]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

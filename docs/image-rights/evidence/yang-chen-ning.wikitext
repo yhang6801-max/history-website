@@ -1,0 +1,15 @@
+== {{int:filedesc}} ==
+{{Information
+| Description = Group photo of Nobel laureates in Physics. Standing from left: {{w|Val Logsdon Fitch}}, {{w|James Cronin|James Watson Cronin}}, {{w|Samuel C. C. Ting|Samuel Chao Chung Ting}}. Seated from left: {{w|Chen-Ning Yang}} and {{w|Isidor Isaac Rabi}}.
+| Source      = [https://www.flickr.com/photos/departmentofenergy/11086446676/ HD.3F.010]
+| Date        = 
+| Author      = [https://www.flickr.com/people/37916456@N02 ENERGY.GOV]
+| Permission  = 
+| other_versions={{Extracted from|1=HD.3F.010 (11086446676).jpg}}
+}}
+
+== {{int:license-header}} ==
+{{PD-USGov-DOE}}
+
+[[Category:Chen Ning Yang]]
+[[Category:Photographs by the U.S. Department of Energy]]

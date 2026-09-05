@@ -1,0 +1,111 @@
+{
+  "id": "archimedes",
+  "retrievedAt": "2026-09-05T00:35:13.0424359+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archimedes_Siracus._Photogravure_by_R._Paulussen_after_N._Barabino.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AArchimedes_Siracus._Photogravure_by_R._Paulussen_after_N._Barabino.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Archimedes_Siracus._Photogravure_by_R._Paulussen_after_N._Barabino.jpg",
+          "to": "File:Archimedes Siracus. Photogravure by R. Paulussen after N. Barabino.jpg"
+        }
+      ],
+      "pages": {
+        "36382065": {
+          "pageid": 36382065,
+          "ns": 6,
+          "title": "File:Archimedes Siracus. Photogravure by R. Paulussen after N. Barabino.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Archimedes_Siracus._Photogravure_by_R._Paulussen_after_N._Barabino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Archimedes_Siracus._Photogravure_by_R._Paulussen_after_N._Barabino.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36382065",
+              "sha1": "7d4bd9643b65e59a7ab94189e0331b6fe6235ce2",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-10-25 11:26:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nArchimedes Siracus. Photogravure by R. Paulussen after N. Ba</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|Photogravure|Images uploaded by Fæ|Artworks without Wikidata item|Files from Wellcome Images|Portraits in the Wellcome Collection|Archimedes death|Archimedes by Nicolò Barabino",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Archimedes Siracus. Photogravure by R. Paulussen after N. Barabino.\n</p>\n<p>Iconographic Collections</p>\nKeywords: archimedes, c.287-212 b.c.; portrait prints; Archimedes; photogravures</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/7a/53/4a54e1d0c6465a0c9ebbb014299d.jpg\">https://wellcomeimages.org/indexplus/obf_images/7a/53/4a54e1d0c6465a0c9ebbb014299d.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/V0000194.html\">https://wellcomeimages.org/indexplus/image/V0000194.html</a></li>\n<li>Wellcome Collection gallery (2018-03-23): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/vehyr7qj\">https://wellcomecollection.org/works/vehyr7qj</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Artwork\n|artist             =\n|author             =\n|title              = Archimedes Siracus. Photogravure by R. Paulussen after N. Ba\n|description        = Archimedes Siracus. Photogravure by R. Paulussen after N. Barabino.\n<p>Iconographic Collections</p>\nKeywords: archimedes, c.287-212 b.c.; portrait prints; Archimedes; photogravures\n|date               =\n|medium             =\n|dimensions         =\n|institution        =\n|department         =\n|references         = \n* Library reference: ICV No 376\n* Photo number: V0000194\n* Full Bibliographic Record: http://catalogue.wellcomelibrary.org/record=b1169141\n|object history     =\n|exhibition history =\n|credit line        = {{Wellcome Images}}\n|other_versions     =\n|source             = https://wellcomeimages.org/indexplus/obf_images/7a/53/4a54e1d0c6465a0c9ebbb014299d.jpg\n* Gallery: https://wellcomeimages.org/indexplus/image/V0000194.html\n* Wellcome Collection gallery (2018-03-23): https://wellcomecollection.org/works/vehyr7qj [https://creativecommons.org/licenses/by/4.0/ CC-BY-4.0]\n|inscriptions       =\n|notes              =\n|permission         =\n|accession number   =\n}}\n\n=={{int:license-header}}==\n{{cc-by-4.0}}\n\n[[Category:Images uploaded by Fæ|Wellcome V0000194.jpg]]\n[[Category:Archimedes death|Paulussen after N. Barabino]]\n[[Category:Photogravure]]\n[[Category:Portraits in the Wellcome Collection]]\n[[Category:Archimedes by Nicolò Barabino]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

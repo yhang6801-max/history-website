@@ -1,0 +1,115 @@
+{
+  "id": "emperor-taizong-of-tang",
+  "retrievedAt": "2026-09-05T00:36:04.8758053+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:TangTaizong_(cropped).jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3ATangTaizong_%28cropped%29.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:TangTaizong_(cropped).jpg",
+          "to": "File:TangTaizong (cropped).jpg"
+        }
+      ],
+      "pages": {
+        "113441078": {
+          "pageid": 113441078,
+          "ns": 6,
+          "title": "File:TangTaizong (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/TangTaizong_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:TangTaizong_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113441078",
+              "sha1": "7a9adcd8ab1094d8eed7ca74a0cc15802b9e9c4c",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-12-17 18:21:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nStanding Portrait of Emperor Tang Taizong  (I)<br>唐太宗立像（一）　</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Emperor Taizong of Tang|Artworks without Wikidata item|PD-Art (PD-old-100)|Artworks with known accession number|Extracted images|Template Unknown (artist)|CC-PD-Mark|National Palace Museum Open Data|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Figure paintings in the National Palace Museum|Dragon robes of the Tang Dynasty",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nThis depicts Emperor Taizong of Tang (唐太宗).</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Tang dynasty",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Cropped (removed mount) and converted from original .tif file located at <br> <a rel=\"nofollow\" class=\"external text\" href=\"https://theme.npm.edu.tw/opendata/DigitImageSets.aspx?sNo=04014280&amp;lang=2\">唐太宗立像（一）　軸</a>. National Palace Museum Open Data. Taipei: National Palace Museum.",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Artwork\n |artist             = {{unknown|artist}}\n |author             =\n |title              = Standing Portrait of Emperor Tang Taizong  (I)<br/>唐太宗立像（一）　\n |description        = This depicts Emperor Taizong of Tang (唐太宗).\n |date               = Tang dynasty\n |medium             = Hanging scroll, color on silk\n |dimensions         = 271 x 126.8 cm (height x width)\n |institution        = National Palace Museum, Taipei\n |department         =\n |place of discovery =\n |object history     =\n |exhibition history =\n |credit line        =\n |inscriptions       =\n |notes              =\n |accession number   = [http://painting.npm.gov.tw/Painting_Page.aspx?dep=P&PaintingId=1825 中-畫-000263-00000]\n |place of creation  = China\n |source             = Cropped (removed mount) and converted from original .tif file located at <br/> [https://theme.npm.edu.tw/opendata/DigitImageSets.aspx?sNo=04014280&lang=2 唐太宗立像（一）　軸]. National Palace Museum Open Data. Taipei: National Palace Museum.\n |permission         = \n |other_versions     ={{Extracted from|1=TangTaizong.jpg}}\n |references         = * [https://theme.npm.edu.tw/opendata/DigitImageSets.aspx?sNo=04014280&lang=2 唐太宗立像（一）　軸]. National Palace Museum Open Data. Taipei: National Palace Museum.\n* [http://painting.npm.gov.tw/Painting_Page.aspx?dep=P&PaintingId=1825  唐太宗立像（一）　軸]. 書畫典藏資料檢索系統. Taipei: National Palace Museum.\n |wikidata           =\n}}\n\n== {{int:license-header}} ==\n{{PD-art-old-100}}\n\n[[Category:Figure paintings in the National Palace Museum]]\n[[Category:Emperor Taizong of Tang]]\n[[Category:National Palace Museum Open Data]]\n[[Category:Dragon robes of the Tang Dynasty]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

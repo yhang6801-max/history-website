@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=[[w:Srinivasa Ramanujan|Srinivasa Ramanujan]]}}
+|date={{Other date|?}}
+|source=https://opc.mfo.de/detail?photoID=2328
+|author=Konrad Jacobs
+|permission=
+|other versions=
+}}
+{{Retouched picture |1=Removed border. Manually remove some noise. Convert to black and white. Some minor level adjustments.|editor=User:Auguel|orig=Srinivasa Ramanujan - OPC - 2.jpg}}
+
+=={{int:license-header}}==
+{{PD-India}}
+{{PD-US-expired}}
+
+[[Category:Pictures from Oberwolfach Photo Collection]]
+[[Category:Srinivasa Ramanujan]]
+[[Category:Black and white portrait photographs of male scientists]]

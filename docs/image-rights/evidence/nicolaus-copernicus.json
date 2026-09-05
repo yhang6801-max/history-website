@@ -1,0 +1,123 @@
+{
+  "id": "nicolaus-copernicus",
+  "retrievedAt": "2026-09-05T00:35:18.5455077+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3ANikolaus_Kopernikus.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2024-04-15T18:55:41Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Nikolaus_Kopernikus.jpg",
+          "to": "File:Nikolaus Kopernikus.jpg"
+        }
+      ],
+      "pages": {
+        "113500": {
+          "pageid": 113500,
+          "ns": 6,
+          "title": "File:Nikolaus Kopernikus.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nikolaus_Kopernikus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113500",
+              "sha1": "b5887818e4cdcfe071bc21b681707a1445b53e91",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-04-15 22:18:09",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Nikolaus Kopernikus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-Art (PD-old-100)|Artworks with Wikidata item|Files with derivative versions|Template Unknown (author)|CC-PD-Mark|Artworks with Wikidata item missing medium|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|Artworks with digital representation of different depicts|Portrait of Nicolaus Copernicus in the District Museum in Toruń",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/Nicolaus_Copernicus\" title=\"Nicolaus Copernicus\">Nicolaus Copernicus</a> portrait from Town Hall in <a href=\"//commons.wikimedia.org/wiki/Toru%C5%84\" title=\"Toruń\">Toruń</a> - 1580)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 1580<div style=\"display: none;\">date QS:P,+1580-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<ul><li><a rel=\"nofollow\" class=\"external free\" href=\"http://www.frombork.art.pl/Ang10.htm\">http://www.frombork.art.pl/Ang10.htm</a></li>\n<li><a rel=\"nofollow\" class=\"external free\" href=\"https://www.welt.de/img/kultur/mobile152954235/1212503297-ci102l-w1024/Kopernikus-Gemaelde-in-Krakau.jpg\">https://www.welt.de/img/kultur/mobile152954235/1212503297-ci102l-w1024/Kopernikus-Gemaelde-in-Krakau.jpg</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "AuthorCount": {
+                  "value": 2,
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Information\n|Description    = {{de|1=Nicolaus Copernicus (Porträt aus dem Rathaus in [[:de:Thorn|Thorn]], um 1580)}}\n{{en|1=[[Nicolaus Copernicus]] portrait from Town Hall in [[Toruń]] - 1580)}}\n{{eo|1=Nikolao Koperniko (Portreto el [[Toruń]] – 1580)}}\n{{pl|1=Mikołaj Kopernik (portret z Sali Mieszczańskiej w Ratuszu Staromiejskim w [[Toruń|Toruniu]] – 1580 r.)}}\n{{fr|1=[[:fr:Nicolas Copernic|Nicolas Copernic]], (anonyme, 1580),portrait exposé au musée de Toruń}}\n{{es|1=Nicolás Copérnico (retrato en el ayuntamiento de Toruń, c. 1580)}}\n|Source         = \n* http://www.frombork.art.pl/Ang10.htm\n* https://www.welt.de/img/kultur/mobile152954235/1212503297-ci102l-w1024/Kopernikus-Gemaelde-in-Krakau.jpg\n|Date           = {{Complex date|circa|1580}}\n|Author         = {{unknown|Author}}\n|Permission     = \n|Other_versions = [[File:Nikolaus KopernikusFXD.jpg|thumb|none|upright=.5|Remastered color]] [[File:Nikolaus Kopernikus MOT.jpg|thumb]]\n}}\n{{Artwork\n|Title={{de|1= [[:de:Nicolaus Copernicus|Nicolaus Copernicus]]}}\n|Technique={{de|1= Tempera und Öl auf Holz}}{{pl|1=Olej i tempera na desce}}{{es|1=Óleo y témpera sobre tabla}} {{Technique|tempera}} {{Technique|oil}} {{Technique|wood}}\n|Dimensions= {{Size|cm|50.8 | 40.5 }}\n|Location= [[Toruń]], Poland\n|Institution={{Institution:District Museum in Toruń}}{{en|1=Regional Museum in Toruń}}{{pl|1=Muzeum Okręgowe w Toruniu, Ratusz Staromiejski, Sala Mieszczańska}}\n|Notes={{en|1580}}{{pl|1=Data powstania: 1580}}\n|Source=http://www.frombork.art.pl/Ang10.htm\n|Artist={{de|1=Unbekannt}}{{en|1=Unknown}}{{pl|1=Nieznany}}{{es|1=Desconocido}} {{unknown|Author}}\n|wikidata=Q105296737\n|Other versions={{Derivative versions|Kopernikus, Gilbert, Galilee, Kepler.jpg|display=60}}\n}}\n{{PD-art-100}}\n\n[[Category:Portrait of Nicolaus Copernicus in the District Museum in Toruń]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

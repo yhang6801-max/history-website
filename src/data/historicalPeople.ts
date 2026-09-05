@@ -1,3 +1,4 @@
+import { additionalPeople } from './additionalPeople.ts'
 import marieCurieImage from '../assets/people/marie-curie.webp'
 import isaacNewtonImage from '../assets/people/isaac-newton.webp'
 import abrahamLincolnImage from '../assets/people/abraham-lincoln.webp'
@@ -15,26 +16,26 @@ import emperorTaizongOfTangImage from '../assets/people/emperor-taizong-of-tang.
 import qinShiHuangImage from '../assets/people/qin-shi-huang.webp'
 import confuciusImage from '../assets/people/confucius.webp'
 import albertEinsteinImage from '../assets/people/albert-einstein.webp'
-import alexanderTheGreatImage from '../assets/people/alexander-the-great.webp'
+import { person as stalinPerson } from './additions/joseph-stalin.ts'
 import juliusCaesarImage from '../assets/people/julius-caesar.webp'
 import napoleonBonaparteImage from '../assets/people/napoleon-bonaparte.webp'
 import type { HistoricalPerson } from '../types/historicalPerson'
 
 export const historicalPeople: readonly HistoricalPerson[] = [
+  ...additionalPeople,
   {
     id: 'napoleon-bonaparte',
     name: 'Napoleon Bonaparte',
     image: napoleonBonaparteImage,
     imageAttribution: {
-      sourceUrl:
-        'https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Portrait_of_General_Bonaparte_-_WGA06077.jpg',
-      author: 'Jacques-Louis David',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes:
-        '“Portrait of General Bonaparte”, image source: Web Gallery of Art. Commons identifies it as public domain under PD-Art (PD-old-100): the artist died in 1825, beyond the life-plus-100-year term; faithful reproductions of two-dimensional public-domain works are also considered public domain in the United States.',
-      changes: 'Cropped, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Portrait_of_General_Bonaparte_-_WGA06077.jpg",
+  "author": "Jacques-Louis David",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "“Portrait of General Bonaparte”, image source: Web Gallery of Art. Commons identifies it as public domain under PD-Art (PD-old-100): the artist died in 1825, beyond the life-plus-100-year term; faithful reproductions of two-dimensional public-domain works are also considered public domain in the United States.",
+  "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+  "title": "Portrait of General Bonaparte"
+},
     lifespan: '1769–1821',
     summary:
       'A revolutionary general who became emperor, reshaped the French state, and brought much of Europe under French power before his final defeat.',
@@ -155,16 +156,15 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     name: 'Julius Caesar',
     image: juliusCaesarImage,
     imageAttribution: {
-      sourceUrl:
-        'https://commons.wikimedia.org/wiki/File:Bust_of_Julius_Caesar.jpg',
-      author: 'Wilfredor',
-      authorUrl: 'https://commons.wikimedia.org/wiki/User:Wilfredor',
-      licenseName: 'CC0 1.0 Universal',
-      licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/legalcode',
-      notes:
-        '“Bust of Julius Caesar”. The photographer dedicated the work to the public domain under CC0 1.0.',
-      changes: 'Cropped, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre_MR1798.jpg",
+  "author": "Nicolas Coustou (sculpture); Marie-Lan Nguyen / Jastrow (photograph, 2006)",
+  "authorUrl": "https://commons.wikimedia.org/wiki/User:Jastrow",
+  "licenseName": "Public-domain sculpture; PD-self (photograph)",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+  "notes": "Jules César, a later commemorative sculpture by Nicolas Coustou (1658–1733), Louvre MR 1798. The museum dates the marble to 1696–1722; 1696 refers to the model, while the statue bears a 1722 signature. It is not a portrait made during Caesar's lifetime. Marie-Lan Nguyen made the photograph in 2006 and released it under PD-self, separately from the expired rights in the sculpture.",
+  "changes": "Cropped from the full sculpture photograph, resized to 900 × 1200, and converted to WebP.",
+  "title": "Jules César"
+},
     lifespan: '100–44 BCE',
     summary:
       'A Roman general, politician, and author whose conquests and dictatorship transformed the late Republic and prepared the way for imperial rule.',
@@ -280,153 +280,20 @@ export const historicalPeople: readonly HistoricalPerson[] = [
       },
     ],
   },
-  {
-    id: 'alexander-the-great',
-    name: 'Alexander the Great',
-    image: alexanderTheGreatImage,
-    imageAttribution: {
-      sourceUrl:
-        'https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg',
-      author: 'Unknown mosaic artist; photograph: DEA / G. NIMATALLAH',
-      licenseName: 'Public domain (Commons PD-Art)',
-      licenseUrl:
-        'https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg#Licensing',
-      notes:
-        'Detail of “Alexander the Great mosaic”, sourced from The Guardian. Original photographic credit and copyright metadata: De Agostini/Getty Images. Commons considers it public domain in the United States because the anonymous ancient work is out of copyright (PD-anon-expired) and this is a faithful reproduction of a two-dimensional work (PD-Art); rights in reproductions may differ elsewhere.',
-      changes:
-        'Cropped to retain Alexander on the left, enlarged to 900 × 1200, and converted to WebP.',
-    },
-    lifespan: '356–323 BCE',
-    summary:
-      'The Macedonian king who conquered the Achaemenid Persian Empire and created a vast, short-lived realm linking the Mediterranean and Asia.',
-    sections: [
-      {
-        title: 'Overview',
-        paragraphs: [
-          'Alexander III of Macedon inherited the strongest army in the Greek world and used it to destroy the Achaemenid Persian Empire. In little more than a decade he campaigned from the Balkans and Egypt to Central Asia and the Punjab, founding cities and claiming the authority of both Macedonian king and Asian monarch. He never established a stable succession, and his empire fractured soon after his death. Even so, the kingdoms created by his successors carried Greek language and institutions across a broad region, while local traditions reshaped the resulting Hellenistic cultures. His reputation combines tactical brilliance with the violence and instability of conquest.',
-        ],
-      },
-      {
-        title: 'Early life and background',
-        paragraphs: [
-          'Alexander was born in 356 BCE at Pella to King Philip II of Macedon and Olympias of Epirus. Philip transformed Macedonia through diplomacy, conquest, and a professional army built around the long-piked phalanx and elite cavalry. Alexander received an aristocratic education; Aristotle was among his tutors, although later stories about their relationship are often embellished. As a teenager Alexander served as regent and gained military experience, and he fought in Philip’s decisive victory over Athens and Thebes at Chaeronea in 338 BCE. His achievements therefore rested on formidable institutions and plans developed before he became king.',
-        ],
-      },
-      {
-        title: 'Rise to power',
-        paragraphs: [
-          'Philip was assassinated in 336 BCE, and the twenty-year-old Alexander secured the throne amid a dangerous succession. He eliminated or neutralized rivals, won recognition from the League of Corinth, and campaigned north of Macedonia to restore authority in the Balkans. When Thebes revolted in 335, he captured and destroyed most of the city, killing or enslaving many inhabitants. The severity discouraged further resistance in Greece and allowed him to resume Philip’s planned invasion of Persian territory. Antipater remained in Macedonia to manage European affairs while Alexander crossed the Hellespont into Asia in spring 334 BCE.',
-        ],
-      },
-      {
-        title: 'Conquest of the Persian Empire',
-        paragraphs: [
-          'Alexander defeated Persian satrapal forces at the Granicus in 334 and King Darius III at Issus in 333. He then secured the eastern Mediterranean coast, taking Tyre after a seven-month siege and capturing Gaza before entering Egypt, where he was recognized as pharaoh and founded Alexandria. At Gaugamela in 331 his smaller army broke Darius’s forces, opening Babylon, Susa, and the Persian heartland. Persepolis was looted and its palace complex burned in 330, an act whose purpose remains debated. After Darius was killed by his own officers, Alexander presented himself as his avenger and successor. Resistance continued for years in Bactria and Sogdiana; Alexander combined harsh counterinsurgency with alliances, including his marriage to Roxane.',
-        ],
-      },
-      {
-        title: 'Leadership and rule',
-        paragraphs: [
-          'Alexander led from the front, adapted formations quickly, and coordinated infantry, cavalry, engineers, and siegecraft with exceptional skill. His personal courage strengthened loyalty but also exposed the army to the risk of losing its king. Governing conquest proved harder. He retained parts of the Achaemenid provincial system, appointed some Iranian elites, adopted elements of Persian royal dress and ceremony, and recruited Asian troops. These policies may have been pragmatic efforts to rule a diverse empire, but many Macedonians saw them as rejection of customary kingship. The executions of Philotas and Parmenion, the killing of Cleitus during a quarrel, and the attempted introduction of proskynesis deepened fears of autocracy.',
-        ],
-      },
-      {
-        title: 'India, final years, and death',
-        paragraphs: [
-          'In 326 BCE Alexander crossed into the Punjab and defeated King Porus at the Hydaspes, then restored Porus as a subordinate ruler. At the Hyphasis his exhausted troops refused to march farther east, forcing a return. Part of the army sailed down the Indus, while a difficult march through the Gedrosian desert caused severe losses. Back in the imperial center, Alexander staged mass marriages at Susa, confronted a mutiny at Opis, and prepared new campaigns, including one toward Arabia. He died at Babylon in June 323 BCE, aged thirty-two, after a sudden illness. Ancient accounts do not establish a certain cause, and modern diagnoses remain speculative.',
-        ],
-      },
-      {
-        title: 'Legacy and controversies',
-        paragraphs: [
-          'Alexander’s generals and family could not preserve a unified succession. Their wars divided his conquests into major Hellenistic kingdoms, including the Ptolemaic and Seleucid realms. New and expanded cities connected trade, administration, scholarship, and migration, helping Greek become a common language across much of the eastern Mediterranean and Near East. This exchange was never simply one-way: Egyptian, Iranian, Mesopotamian, Central Asian, and South Asian traditions shaped the new societies. Heroic traditions celebrate an undefeated commander and cultural bridge, but that image can conceal massacres, enslavement, forced settlement, and the destruction of communities from Thebes to Tyre and the Persian heartland. Iranian and other regional memories have therefore judged him very differently from many Greek and European narratives.',
-        ],
-      },
-    ],
-    timeline: [
-      {
-        date: '356 BCE',
-        event: 'Born at Pella to Philip II of Macedon and Olympias.',
-      },
-      {
-        date: '336–335 BCE',
-        event:
-          'Succeeded Philip, secured Greece and the Balkans, and destroyed Thebes after its revolt.',
-      },
-      {
-        date: '334 BCE',
-        event:
-          'Crossed into Asia and won his first major victory over Persian forces at the Granicus.',
-      },
-      {
-        date: '333–332 BCE',
-        event:
-          'Defeated Darius III at Issus, captured Tyre and Gaza, and entered Egypt.',
-      },
-      {
-        date: '331–330 BCE',
-        event:
-          'Won at Gaugamela, occupied the Persian capitals, and advanced after the death of Darius.',
-      },
-      {
-        date: '329–327 BCE',
-        event:
-          'Fought prolonged resistance in Central Asia and married Roxane.',
-      },
-      {
-        date: '326 BCE',
-        event:
-          'Defeated Porus at the Hydaspes; his troops then refused to advance beyond the Hyphasis.',
-      },
-      {
-        date: '325–324 BCE',
-        event:
-          'Returned through the Indus and Gedrosia, reorganized the empire, and faced the mutiny at Opis.',
-      },
-      {
-        date: '323 BCE',
-        event:
-          'Died in Babylon without a settled adult successor; his empire soon divided.',
-      },
-    ],
-    sources: [
-      {
-        title: 'Alexander the Great',
-        publisher: 'Encyclopaedia Britannica',
-        url: 'https://www.britannica.com/biography/Alexander-the-Great',
-      },
-      {
-        title: 'Alexander the Great',
-        publisher: 'Encyclopaedia Iranica',
-        url: 'https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/',
-      },
-      {
-        title: 'Alexander the Great',
-        publisher: 'Livius',
-        url: 'https://www.livius.org/articles/person/alexander-the-great/',
-      },
-      {
-        title: 'Art of the Hellenistic Age and the Hellenistic Tradition',
-        publisher: 'The Metropolitan Museum of Art',
-        url: 'https://www.metmuseum.org/essays/art-of-the-hellenistic-age-and-the-hellenistic-tradition',
-      },
-    ],
-  },
+  stalinPerson,
   {
     id: 'albert-einstein',
     name: 'Albert Einstein',
     image: albertEinsteinImage,
     imageAttribution: {
-      sourceUrl:
-        'https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg',
-      author: 'Ferdinand Schmutzer; restoration: Adam Cuerden',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes:
-        'Photograph taken in Vienna in 1921. Original image source: Bern Historical Museum; photographic studies held by the Austrian National Library. Commons cites PD-Austria and expiration of the author’s copyright term (Schmutzer died in 1928). The restorer also grants an irrevocable license for unrestricted use if needed and requests attribution.',
-      changes:
-        'Commons restoration, proportionally resized to 1200 × 1576 through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+  "author": "Ferdinand Schmutzer; restoration: Adam Cuerden",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "Photograph taken in Vienna in 1921. Original image source: Bern Historical Museum; photographic studies held by the Austrian National Library. Commons cites PD-Austria and expiration of the author’s copyright term (Schmutzer died in 1928). The restorer also grants an irrevocable license for unrestricted use if needed and requests attribution.",
+  "changes": "Commons restoration, proportionally resized to 1200 × 1576 through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
+  "title": "Einstein 1921 by F Schmutzer - restoration"
+},
     lifespan: '1879–1955',
     summary:
       'A theoretical physicist who transformed ideas of space, time, gravity, and light, while using his international fame to speak on war, persecution, and intellectual freedom.',
@@ -564,14 +431,15 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '551–479 BCE (traditional dates)',
     summary: 'A teacher and philosopher whose ideas about humane conduct, learning, and responsible government shaped Chinese civilization and intellectual life across East Asia.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Confucius_Portrait,_Kongzi_(Confucius)_Family_Mansion,_Qufu_(13044335945).jpg',
-      author: 'Unknown Ming-dynasty artist; photograph by Gary Todd',
-      authorUrl: 'https://www.flickr.com/people/101561334@N08/',
-      licenseName: 'CC0 1.0 Universal (photograph)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
-      notes: 'Portrait of Confucius at Leisure, photographed at the Kong Family Mansion in Qufu in 2014; collection of the Confucius Museum. This Ming-dynasty painting is a later representation, not a contemporary likeness. Commons records Gary Todd\'s photograph as CC0, verified against its Flickr source.',
-      changes: 'Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confucius_Portrait,_Kongzi_(Confucius)_Family_Mansion,_Qufu_(13044335945).jpg",
+  "author": "Unknown Ming-dynasty artist; photograph by Gary Todd",
+  "authorUrl": "https://www.flickr.com/people/101561334@N08/",
+  "licenseName": "CC0 1.0 Universal (photograph)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "notes": "Portrait of Confucius at Leisure, photographed at the Kong Family Mansion in Qufu in 2014; collection of the Confucius Museum. This Ming-dynasty painting is a later representation, not a contemporary likeness. Commons records Gary Todd's photograph as CC0, verified against its Flickr source.",
+  "changes": "Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
+  "title": "Portrait of Confucius at Leisure"
+},
     sections: [
       {
         title: 'Overview',
@@ -655,13 +523,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '259–210 BCE',
     summary: 'The first emperor of a unified China, whose administrative institutions and standards for writing, money, weights, and measures influenced later dynasties.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Qinshihuang.jpg',
-      author: 'Unknown artist',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes: 'A later portrait, dated circa 1850 on Commons, reproduced in Yuan Zhongyi\'s China\'s Terracotta Army and the First Emperor\'s Mausoleum (2010), p. 140. Commons applies PD-Art / PD-old-100-expired: the artwork\'s term has expired and it was published before 1931. The Commons version includes earlier color adjustments and cropping; this is not a contemporary likeness.',
-      changes: 'Source proportionally resized through an image proxy, then cropped with the upper portion retained, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qinshihuang.jpg",
+  "author": "Unknown artist",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "A later portrait, dated circa 1850 on Commons, reproduced in Yuan Zhongyi's China's Terracotta Army and the First Emperor's Mausoleum (2010), p. 140. Commons applies PD-Art / PD-old-100-expired: the artwork's term has expired and it was published before 1931. The Commons version includes earlier color adjustments and cropping; this is not a contemporary likeness.",
+  "changes": "Source proportionally resized through an image proxy, then cropped with the upper portion retained, resized to 900 × 1200, and converted to WebP.",
+  "title": "Qinshihuang"
+},
     sections: [
       {
         title: 'Overview',
@@ -749,13 +618,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '598–649',
     summary: 'Li Shimin, the second Tang emperor, helped establish the dynasty and became an influential model of attentive government, capable administration, and cultural patronage.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:TangTaizong_(cropped).jpg',
-      author: 'Unknown artist',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes: 'Detail of Standing Portrait of Emperor Tang Taizong (I), National Palace Museum, Taipei, accession 中-畫-000263-00000, sourced from the museum\'s Open Data. The parent file identifies this as a Ming-dynasty commemorative painting, not a portrait made during Taizong\'s lifetime. Commons applies PD-Art / PD-old-100 to the faithful reproduction of the public-domain painting.',
-      changes: 'Commons supplied an existing crop of the painting. Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:TangTaizong_(cropped).jpg",
+  "author": "Unknown artist",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "Detail of Standing Portrait of Emperor Tang Taizong (I), National Palace Museum, Taipei, accession 中-畫-000263-00000, sourced from the museum's Open Data. The parent file identifies this as a Ming-dynasty commemorative painting, not a portrait made during Taizong's lifetime. Commons applies PD-Art / PD-old-100 to the faithful reproduction of the public-domain painting.",
+  "changes": "Commons supplied an existing crop of the painting. Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
+  "title": "Standing Portrait of Emperor Tang Taizong (I)"
+},
     sections: [
       {
         title: 'Overview',
@@ -843,13 +713,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '156–87 BCE',
     summary: 'Liu Che, the long-reigning Han emperor, strengthened imperial institutions, supported classical scholarship, and expanded connections between China and Central Asia.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:三才圖會_漢武帝劉徹相.jpg',
-      author: 'Wang Qi (Sancai Tuhui)',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes: 'Later printed portrait of Emperor Wu of Han from the Ming-dynasty encyclopedia Sancai Tuhui, credited on Commons to Wang Qi. The file cites a Baidu reproduction. Commons applies PD-old-70-expired, including publication before 1931 in the United States. The 2023 file date is the upload date, not the date of the historical portrait; this is not a contemporary likeness.',
-      changes: 'Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:三才圖會_漢武帝劉徹相.jpg",
+  "author": "Wang Qi (Sancai Tuhui compiler); original engraver not identified",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "Later printed portrait of Emperor Wu of Han from the Ming-dynasty encyclopedia Sancai Tuhui, credited on Commons to Wang Qi. The file cites a Baidu reproduction. Commons applies PD-old-70-expired, including publication before 1931 in the United States. The 2023 file date is the upload date, not the date of the historical portrait; this is not a contemporary likeness.",
+  "changes": "Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
+  "title": "三才圖會 漢武帝劉徹相"
+},
     sections: [
       {
         title: 'Overview',
@@ -885,7 +756,7 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     timeline: [
       {
         date: '156 BCE',
-        event: 'Born Liu Che, son of the future Emperor Jing.',
+        event: 'Born Liu Che, son of Emperor Jing.',
       },
       {
         date: '141 BCE',
@@ -933,13 +804,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '1328–1398',
     summary: 'Zhu Yuanzhang, founder of the Ming dynasty, rebuilt central government after the fall of the Yuan and made agricultural recovery and official responsibility priorities of his reign.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hongwu_(closeup).jpg',
-      author: 'Unknown Ming-dynasty court artist',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes: 'Detail of A Seated Portrait of Ming Emperor Taizu, National Palace Museum, Taipei; sourced from the museum\'s 2019 Oversize Scrolls of Painting and Calligraphy exhibition. Commons identifies the faithful reproduction as PD-Art / PD-old-100. This is a historical court painting, not a photograph of the emperor.',
-      changes: 'Commons supplied a close-up crop. Source proportionally resized through an image proxy, then resized to 900 × 1200 with a slight aspect-ratio crop and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongwu_(closeup).jpg",
+  "author": "Unknown Ming-dynasty court artist",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "Detail of A Seated Portrait of Ming Emperor Taizu, National Palace Museum, Taipei; sourced from the museum's 2019 Oversize Scrolls of Painting and Calligraphy exhibition. Commons identifies the faithful reproduction as PD-Art / PD-old-100. This is a historical court painting, not a photograph of the emperor.",
+  "changes": "Commons supplied a close-up crop. Source proportionally resized through an image proxy, then resized to 900 × 1200 with a slight aspect-ratio crop and converted to WebP.",
+  "title": "A Seated Portrait of Ming Emperor Taizu"
+},
     sections: [
       {
         title: 'Overview',
@@ -1027,13 +899,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '1360–1424',
     summary: 'Zhu Di, the third Ming emperor, established Beijing as the imperial capital, commissioned the Yongle Encyclopedia, and sponsored Zheng He\'s maritime expeditions.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Yongle_(closeup).jpg',
-      author: 'Unknown Ming-dynasty artist',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes: 'Close-up of Seated Portrait of Ming Emperor Chengzu, National Palace Museum, Taipei. Commons applies PD-Art / PD-old-70 to this faithful reproduction of the public-domain Ming painting. This is a historical painted representation, not a photograph of the emperor.',
-      changes: 'Commons supplied a close-up crop. Source proportionally resized through an image proxy, then resized to 900 × 1200 with a slight aspect-ratio crop and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongle_(closeup).jpg",
+  "author": "Unknown Ming-dynasty artist",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "Close-up of Seated Portrait of Ming Emperor Chengzu, National Palace Museum, Taipei. Commons applies PD-Art / PD-old-70 to this faithful reproduction of the public-domain Ming painting. This is a historical painted representation, not a photograph of the emperor.",
+  "changes": "Commons supplied a close-up crop. Source proportionally resized through an image proxy, then resized to 900 × 1200 with a slight aspect-ratio crop and converted to WebP.",
+  "title": "Seated Portrait of Ming Emperor Chengzu"
+},
     sections: [
       {
         title: 'Overview',
@@ -1122,13 +995,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '1866–1925',
     summary: 'A physician, revolutionary organizer, and advocate of republican government whose political ideas and international networks helped shape the emergence of modern China.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:孙中山肖像.jpg',
-      author: 'Boer Photographic Studio, Shanghai',
-      licenseName: 'Public domain (PD-China; US copyright expired)',
-      licenseUrl: 'https://commons.wikimedia.org/wiki/Template:PD-China',
-      notes: 'Portrait taken on 15 November 1922 at Shanghai\'s Boer Photographic Studio; Commons cites the Sun Yat-sen Memorial Hall as its source. The individual photographer is not identified. Commons marks the photograph PD-China and public domain in the United States through publication before 1931. The file\'s history includes earlier cropping.',
-      changes: 'Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:孙中山肖像.jpg",
+  "author": "Boer Photographic Studio, Shanghai",
+  "licenseName": "Public domain (PD-China; US copyright expired)",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-China",
+  "notes": "Portrait taken on 15 November 1922 at Shanghai's Boer Photographic Studio; Commons cites the Sun Yat-sen Memorial Hall as its source. The individual photographer is not identified. Commons marks the photograph PD-China and public domain in the United States through publication before 1931. The file's history includes earlier cropping.",
+  "changes": "Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
+  "title": "孙中山肖像"
+},
     sections: [
       {
         title: 'Overview',
@@ -1221,13 +1095,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '701–762',
     summary: 'A major Tang poet whose vivid imagination, musical language, and poems of friendship, travel, and the natural world became enduring models of Chinese lyric poetry.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:LiBai.jpg',
-      author: 'Liang Kai',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes: 'Li Bai in Stroll, a 13th-century ink painting by Liang Kai, Tokyo National Museum, accession TA-164. Commons cites the museum\'s image archive and applies PD-Art / PD-old-100-expired. This Southern Song painting was made centuries after Li Bai\'s lifetime and is an imaginative representation, not a contemporary likeness.',
-      changes: 'Commons supplied a crop of the painting. Source proportionally resized through an image proxy, then cropped with the upper portion retained, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:LiBai.jpg",
+  "author": "Liang Kai",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "Li Bai in Stroll, a 13th-century ink painting by Liang Kai, Tokyo National Museum, accession TA-164. Commons cites the museum's image archive and applies PD-Art / PD-old-100-expired. This Southern Song painting was made centuries after Li Bai's lifetime and is an imaginative representation, not a contemporary likeness.",
+  "changes": "Commons supplied a crop of the painting. Source proportionally resized through an image proxy, then cropped with the upper portion retained, resized to 900 × 1200, and converted to WebP.",
+  "title": "Li Bai In Stroll"
+},
     sections: [
       {
         title: 'Overview',
@@ -1315,13 +1190,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '712–770',
     summary: 'A master of Tang poetry whose precise language joined family life, the natural world, and concern for ordinary people, giving personal experience an enduring place in the record of his age.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dufu.jpg',
-      author: 'Unknown Qing-dynasty artist',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes: 'Portrait from the former Qing palace collection, now in the National Museum of China. Commons identifies the faithful reproduction as PD-Art / PD-old-100 and records Zhejiang Library as a source for the higher-resolution image. This later portrait is not a contemporary likeness of Du Fu.',
-      changes: 'Source proportionally resized through an image proxy, slightly cropped to the portrait ratio, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dufu.jpg",
+  "author": "Artist not identified / former Qing palace collection",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "Portrait of Du Fu from the former Qing palace collection. The exact creation date and artist are not identified in the source. The Commons file marks the historical painting and its faithful reproduction as PD-Art / PD-old-100. It is a later representation, not a contemporary likeness of Du Fu.",
+  "changes": "Source proportionally resized through an image proxy, slightly cropped to the portrait ratio, resized to 900 × 1200, and converted to WebP.",
+  "title": "唐名臣像-唐劍南節度參謀檢校工部員外杜甫"
+},
     sections: [
       {
         title: 'Overview',
@@ -1410,13 +1286,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '1881–1936',
     summary: 'A foundational writer of modern Chinese literature whose fiction, essays, translations, and support for young artists expanded the possibilities of cultural expression and public reflection.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Lu_Xun_1936.jpg',
-      author: 'Sha Fei (1912–1950)',
-      licenseName: 'Public domain (PD-China / PD-1996)',
-      licenseUrl: 'https://commons.wikimedia.org/wiki/Template:PD-China',
-      notes: 'Photographed at a woodcut exhibition in Shanghai on 8 October 1936; Commons cites Fotomen\'s retrospective on Sha Fei. The file is tagged PD-China for expired photographic copyright and PD-1996 for its United States public-domain status under the stated publication and URAA conditions.',
-      changes: 'Source proportionally resized through an image proxy, cropped with the upper portion retained, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lu_Xun_1936.jpg",
+  "author": "Sha Fei (1912–1950)",
+  "licenseName": "Public domain (PD-China / PD-1996)",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-China",
+  "notes": "Photographed at a woodcut exhibition in Shanghai on 8 October 1936; Commons cites Fotomen's retrospective on Sha Fei. The file is tagged PD-China for expired photographic copyright and PD-1996 for its United States public-domain status under the stated publication and URAA conditions.",
+  "changes": "Source proportionally resized through an image proxy, cropped with the upper portion retained, resized to 900 × 1200, and converted to WebP.",
+  "title": "Lu Xun 1936"
+},
     sections: [
       {
         title: 'Overview',
@@ -1509,14 +1386,16 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '1911–2009',
     summary: 'An aerodynamicist and engineering scientist who contributed to early rocket research, developed engineering cybernetics, and helped establish China\'s aerospace research and training institutions.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hsue-shen_Tsien_at_his_deportation_hearing_(cropped).jpg',
-      author: 'Los Angeles Times / UCLA Library',
-      authorUrl: 'https://digital.library.ucla.edu/catalog/ark:/21198/zz0002r6xw',
-      licenseName: 'CC BY 4.0',
-      licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
-      notes: 'Portrait detail from a photograph taken on 16 November 1950. Credit: Los Angeles Times Photographic Collection, UCLA Library; the individual photographer is not identified. Commons records that copyright was deeded to UCLA and the photograph released under CC BY 4.0. The Commons crop was made by Artem.G.',
-      changes: 'Commons supplied a portrait crop. Source proportionally resized through an image proxy, cropped further to 3:4, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hsue-shen_Tsien_at_his_deportation_hearing_(cropped).jpg",
+  "author": "Los Angeles Times / UCLA Library",
+  "authorUrl": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002r6xw",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "notes": "Portrait detail from a photograph taken on 16 November 1950. Credit: Los Angeles Times Photographic Collection, UCLA Library; the individual photographer is not identified. Commons records that copyright was deeded to UCLA and the photograph released under CC BY 4.0. The Commons crop was made by Artem.G.",
+  "changes": "Commons supplied a portrait crop. Source proportionally resized through an image proxy, cropped further to 3:4, resized to 900 × 1200, and converted to WebP.",
+  "title": "Hsue-shen Tsien at his deportation hearing (cropped)",
+  "credit": "Los Angeles Times Photographic Collection, UCLA Library"
+},
     sections: [
       {
         title: 'Overview',
@@ -1609,14 +1488,15 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '1922–2025',
     summary: 'A theoretical physicist whose work on parity, gauge theory, and statistical mechanics reshaped modern physics, and whose teaching and academic exchanges connected generations of researchers.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:HD.3F.010_(11086446676)(Chen_Ning_Yang).jpg',
-      author: 'U.S. Department of Energy (individual photographer unidentified)',
-      authorUrl: 'https://www.flickr.com/photos/departmentofenergy/11086446676/',
-      licenseName: 'Public domain (U.S. government work)',
-      licenseUrl: 'https://commons.wikimedia.org/wiki/Template:PD-USGov-DOE',
-      notes: 'Portrait extracted from the Department of Energy group photograph HD.3F.010, identifying Yang as the seated figure at left. Commons applies PD-USGov-DOE; its review of the original Flickr upload confirmed the United States Government Work designation. The photograph\'s date is not specified.',
-      changes: 'Commons supplied a portrait crop. Source proportionally resized through an image proxy, resized to 900 × 1200 with a minimal aspect-ratio adjustment, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:HD.3F.010_(11086446676)(Chen_Ning_Yang).jpg",
+  "author": "U.S. Department of Energy (individual photographer unidentified)",
+  "authorUrl": "https://www.flickr.com/photos/departmentofenergy/11086446676/",
+  "licenseName": "Public domain (U.S. government work)",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-DOE",
+  "notes": "Portrait extracted from the Department of Energy group photograph HD.3F.010, identifying Yang as the seated figure at left. Commons applies PD-USGov-DOE; its review of the original Flickr upload confirmed the United States Government Work designation. The photograph's date is not specified.",
+  "changes": "Commons supplied a portrait crop. Source proportionally resized through an image proxy, resized to 900 × 1200 with a minimal aspect-ratio adjustment, and converted to WebP.",
+  "title": "HD.3F.010 (Chen Ning Yang)"
+},
     sections: [
       {
         title: 'Overview',
@@ -1709,13 +1589,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '1732–1799',
     summary: 'Commander of the Continental Army and the first president of the United States, Washington helped secure independence and establish enduring practices for constitutional government and the transfer of power.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:George_Washington_Portrait_(3x4_cropped).jpg',
-      author: 'Gilbert Stuart (1755–1828)',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes: 'George Washington, 1803, Clark Art Institute, accession 1955.16. This posthumous version is based on Stuart\'s earlier Athenaeum portrait painted from life. Commons cites the Clark scan and applies PD-Art / PD-old-100-expired, with pre-1931 publication documented.',
-      changes: 'Commons supplied a portrait crop by Wabbuh. Source proportionally resized through an image proxy, resized to 900 × 1200 with a minimal aspect-ratio crop, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Washington_Portrait_(3x4_cropped).jpg",
+  "author": "Gilbert Stuart (1755–1828)",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "George Washington, 1803, Clark Art Institute, accession 1955.16. This posthumous version is based on Stuart's earlier Athenaeum portrait painted from life. Commons cites the Clark scan and applies PD-Art / PD-old-100-expired, with pre-1931 publication documented.",
+  "changes": "Commons supplied a portrait crop by Wabbuh. Source proportionally resized through an image proxy, resized to 900 × 1200 with a minimal aspect-ratio crop, and converted to WebP.",
+  "title": "George Washington"
+},
     sections: [
       {
         title: 'Overview',
@@ -1803,13 +1684,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '1809–1865',
     summary: 'The sixteenth president of the United States led the Union through the Civil War, advanced emancipation, and gave lasting expression to the responsibilities of democratic government.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_by_Gardner,_1863.jpg',
-      author: 'Alexander Gardner (1821–1882); digital adjustments by Scewing',
-      licenseName: 'Public domain (PD-US)',
-      licenseUrl: 'https://commons.wikimedia.org/wiki/Template:PD-US',
-      notes: 'Photographed in Washington, D.C., on 8 November 1863; Library of Congress, item scsm000793. Commons identifies the photograph as public domain in the United States. Scewing desaturated the scan, adjusted levels, removed minor artifacts, and corrected an artificial vertical elongation.',
-      changes: 'Used the Commons-adjusted version. Source proportionally resized through an image proxy, cropped to 3:4, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_by_Gardner,_1863.jpg",
+  "author": "Alexander Gardner (1821–1882); digital adjustments by Scewing",
+  "licenseName": "Public domain (PD-US)",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-US",
+  "notes": "Photographed in Washington, D.C., on 8 November 1863; Library of Congress, item scsm000793. Commons identifies the photograph as public domain in the United States. Scewing desaturated the scan, adjusted levels, removed minor artifacts, and corrected an artificial vertical elongation.",
+  "changes": "Used the Commons-adjusted version. Source proportionally resized through an image proxy, cropped to 3:4, resized to 900 × 1200, and converted to WebP.",
+  "title": "Abraham Lincoln O-77 by Gardner, 1863"
+},
     sections: [
       {
         title: 'Overview',
@@ -1898,13 +1780,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '1642–1727',
     summary: 'A mathematician and natural philosopher whose laws of motion, theory of universal gravitation, work on calculus, and experiments with light became foundations of modern physical science.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg',
-      author: 'Godfrey Kneller (1646–1723)',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes: 'Portrait of Isaac Newton, 1689, painted during his lifetime. Commons cites Cambridge University Library\'s Lines of Thought exhibition and applies PD-Art / PD-old-100-expired: Kneller died in 1723 and the work was published before 1931.',
-      changes: 'Source proportionally resized through an image proxy, cropped to 3:4, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+  "author": "Godfrey Kneller (1646–1723)",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "Portrait of Isaac Newton, 1689, painted during his lifetime. Commons cites Cambridge University Library's Lines of Thought exhibition and applies PD-Art / PD-old-100-expired: Kneller died in 1723 and the work was published before 1931.",
+  "changes": "Source proportionally resized through an image proxy, cropped to 3:4, resized to 900 × 1200, and converted to WebP.",
+  "title": "Portrait of Isaac Newton (1642-1727)"
+},
     sections: [
       {
         title: 'Overview',
@@ -2001,13 +1884,14 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     lifespan: '1867–1934',
     summary: 'A Polish-born physicist and chemist whose research on radioactivity, discovery of polonium and radium, and development of scientific institutions earned Nobel Prizes in two sciences.',
     imageAttribution: {
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg',
-      author: 'Henri Manuel (1874–1947); restoration by FMSky and Bammesk',
-      licenseName: 'Public domain (Public Domain Mark 1.0)',
-      licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
-      notes: 'Portrait dated circa 1920 on Commons. The file records Henri Manuel as photographer and FMSky and Bammesk as restorers, and links to the unretouched original. Commons applies PD-old-75-expired: Manuel died in 1947 and the photograph was published before 1931.',
-      changes: 'Used the Commons-restored version. Source proportionally resized through an image proxy, slightly cropped to 3:4, resized to 900 × 1200, and converted to WebP.',
-    },
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
+  "author": "Henri Manuel (1874–1947); restoration by FMSky and Bammesk",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "notes": "Portrait dated circa 1920 on Commons. The file records Henri Manuel as photographer and FMSky and Bammesk as restorers, and links to the unretouched original. Commons applies PD-old-75-expired: Manuel died in 1947 and the photograph was published before 1931.",
+  "changes": "Used the Commons-restored version. Source proportionally resized through an image proxy, slightly cropped to 3:4, resized to 900 × 1200, and converted to WebP.",
+  "title": "Marie Curie c. 1920s"
+},
     sections: [
       {
         title: 'Overview',

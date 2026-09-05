@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Artwork
+|wikidata=Q107153335
+|description={{de|1=Jugendbildnis Fermats im Kunstmuseum von Narbonne so hoch gehängt (über der Durchgangstür zwischen zwei Sälen), dass niemand es richtig fotografieren kann}}
+|date=
+|source={{own}}, [[User:Klaus Barner|Klaus Barner]], 2005
+|author=
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{Licensed-PD-Art|PD-old-auto-1996|deathyear=1677|rawphotolicense={{self|cc-by-sa-3.0}}}}
+
+[[Category:Pierre de Fermat]]
+[[Category:17th-century portrait paintings in Musée des Beaux-Arts de Narbonne]]
+[[Category:Rolland Lefebvre]]
+[[Category:Scanned with unidentified Fujifilm Frontier]]
+[[Category:Photographs of paintings]]

@@ -1,0 +1,21 @@
+=={{int:filedesc}}==
+{{Superseded|File:Srinivasa_Ramanujan_Cleanup.jpg|reason=Source scan is not good enough to fix, until a higher scan can be found it is recommended to use this alternative.}}
+
+{{Information
+|Description=[[w:Srinivasa Ramanujan|Srinivasa Ramanujan]]
+|Source=[https://opc.mfo.de/detail?photo_id=3436 Oberwolfach Photo Collection]
+|Date={{other date|before|1920}}
+|Author={{unknown|author}}
+|permission={{PermissionTicket|id=2008042410024381}} Public domain
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{PD-UK-Unknown}}
+{{PD-1923}}
+
+{{DEFAULTSORT:Ramanujan, Srinivasa}}
+[[Category:Pictures from Oberwolfach Photo Collection]]
+[[Category:Black and white portrait photographs of male scientists]]
+[[Category:Srinivasa Ramanujan]]
+[[Category:Corrected by Jacek Halicki]]

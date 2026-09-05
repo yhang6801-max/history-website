@@ -1,0 +1,12 @@
+{
+  "id": "werner-heisenberg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Werner_Heisenberg_Portrait.jpg",
+  "author": "Bundesarchiv, Bild 183-R57262 / Unknown author",
+  "licenseName": "CC BY-SA 3.0 DE",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+  "en": "Portrait photograph of Werner Heisenberg, dated 1933 in the archive caption. Credit: Bundesarchiv, Bild 183-R57262 / Unknown author / CC-BY-SA 3.0. This cropped version is shared under the same license.",
+  "zh": "维尔纳·海森堡的肖像照片，档案图注标注拍摄于 1933 年。署名：Bundesarchiv, Bild 183-R57262 / Unknown author / CC-BY-SA 3.0。本裁剪版本沿用相同许可。",
+  "position": "center",
+  "checked": "2026-09-04",
+  "visualReview": "Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified."
+}

@@ -1,0 +1,12 @@
+== {{int:filedesc}} ==
+{{information
+|description={{en|[[:en:Niels Bohr|Niels Bohr]], physicist.}}{{cs|{{Wc|Niels Bohr}}, fyzik.}}
+|author=The American Institute of Physics credits the photo [http://photos.aip.org/quickSearch.jsp?qsearch=Lagrelius+&group=10&Submit=GO] to [http://www.tremil.se/pls/hborg/rigby.VisaObjekt?pin_masidn=319177 AB Lagrelius & Westphal], which is the Swedish company used by the Nobel Foundation for most photos of its book series ''Les Prix Nobel''.
+|source=Niels Bohr's [http://nobelprize.org/physics/laureates/1922/bohr-bio.html Nobel Prize biography], from 1922
+|date={{other date|~|1922}}
+}}
+
+== {{int:license-header}} == {{PD-Sweden-photo}}{{PD-US-expired}}
+
+[[Category:Niels Bohr]]
+[[Category:Black and white portrait photographs of male scientists]]

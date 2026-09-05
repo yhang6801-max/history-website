@@ -1,0 +1,258 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 3,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "36320399": {
+        "pageid": 36320399,
+        "ns": 6,
+        "title": "File:Euclid Wellcome M0004267.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Euclid_Wellcome_M0004267.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Euclid_Wellcome_M0004267.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36320399",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-10-22 20:30:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nEuclid</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with no machine-readable author|Images uploaded by Fæ|Artworks without Wikidata item|Files from Wellcome Images|Portraits in the Wellcome Collection|Portraits of Euclid",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Euclid\n</p>\n<p>Wellcome Images</p>\nKeywords: Euclid; mathematician, greek</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/41/2d/9dcf8eb812d1eadd5de16cdfa941.jpg\">https://wellcomeimages.org/indexplus/obf_images/41/2d/9dcf8eb812d1eadd5de16cdfa941.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/M0004267.html\">https://wellcomeimages.org/indexplus/image/M0004267.html</a></li>\n<li>Wellcome Collection gallery (2018-03-29): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/yv4nzh83\">https://wellcomecollection.org/works/yv4nzh83</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "116873322": {
+        "pageid": 116873322,
+        "ns": 6,
+        "title": "File:Euclid by Andre Thevet 1584.webp",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Euclid_by_Andre_Thevet_1584.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Euclid_by_Andre_Thevet_1584.webp",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116873322",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-04-14 06:42:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Euclid by Andre Thevet 1584",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-Art (PD-old-70)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Portraits of Euclid",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "portret of Euclid by Andre Thevet, 1584",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1584",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "britanika",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Andre Thevet, 1584",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "35992409": {
+        "pageid": 35992409,
+        "ns": 6,
+        "title": "File:Portrait of Euclid Wellcome L0019815.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Portrait_of_Euclid_Wellcome_L0019815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Euclid_Wellcome_L0019815.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35992409",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-10-08 20:34:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nPortrait of Euclid</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with no machine-readable author|Images uploaded by Fæ|Artworks without Wikidata item|Files from Wellcome Images|Portraits in the Wellcome Collection|Portraits of Euclid",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Portrait of Euclid, in oval cartouche on pedestal\n</p>\n<p>Iconographic Collections</p>\nKeywords: mathematician, greek; Euclid</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/f5/7f/013dabe1cbf11326b20f54a7edd0.jpg\">https://wellcomeimages.org/indexplus/obf_images/f5/7f/013dabe1cbf11326b20f54a7edd0.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/L0019815.html\">https://wellcomeimages.org/indexplus/image/L0019815.html</a></li>\n<li>Wellcome Collection gallery (2018-04-01): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/cbf9mgrv\">https://wellcomecollection.org/works/cbf9mgrv</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

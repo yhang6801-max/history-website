@@ -1,0 +1,364 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 4,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "35060562": {
+        "pageid": 35060562,
+        "ns": 6,
+        "title": "File:Hunan International Economics University20.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hunan_International_Economics_University20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hunan_International_Economics_University20.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35060562",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-09-01 11:58:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hunan International Economics University20",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon Digital IXUS 105|Liu Hui (mathematician)|De minimis|Hunan International Economics University|Self-published work|FoP-China|Busts in Changsha",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bust of Liu Hui in Hunan International Economics University. The Bust of Liu Hui is an important part of the sculpture group of renowned scientists at Hunan International Economics University. It is a bronze bust with a simple and realistic style that recreates the image of Liu Hui as an ancient scholar. The pedestal is made of gray stone, with the following inscriptions: On the front: the golden regular script \"Liu Hui\", along with the modern sans-serif birth-death years \"(225~295)\" and a brief introduction: \"A great mathematician in the history of mathematics.\" Below: the classic exposition of Liu Hui's circle-cutting method: \"The more finely we cut, the smaller the loss; cutting again and again until no more cuts can be made, it will merge with the circle without any loss.\" Liu Hui (225 - 295) was a Chinese mathematician in the Wei and Jin dynasties. <b>Note: The calligraphic artworks of the name, the birth-death years, the introductory text, and the classic exposition of Liu Hui's circle-cutting method on the pedestal are not in the public domain.</b>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-08-25 14:23:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Huangdan2060\" title=\"User:Huangdan2060\">Huangdan2060</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "3134581": {
+        "pageid": 3134581,
+        "ns": 6,
+        "title": "File:Les Neuf Chapitres sur l'art mathématique.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Les_Neuf_Chapitres_sur_l%27art_math%C3%A9matique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Les_Neuf_Chapitres_sur_l%27art_math%C3%A9matique.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3134581",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-11-23 20:03:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Les Neuf Chapitres sur l'art mathématique",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Book covers|Liu Hui (mathematician)|PD Old|CC-PD-Mark",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Représentation du livre de mathématiques chinoises : Les neuf chapitres",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-11-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Wikipedia anglaise",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jean-Luc_W\" title=\"User:Jean-Luc W\">User:Jean-Luc W</a> utilisateur travaillant sur le compte <a href=\"https://en.wikipedia.org/wiki/fr:Utilisateur:Jean-Luc_W\" class=\"extiw\" title=\"w:fr:Utilisateur:Jean-Luc W\">Jean-Luc W</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Domaine publique depuis plus de 100 ans",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "130481910": {
+        "pageid": 130481910,
+        "ns": 6,
+        "title": "File:Liu hui.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Liu_hui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Liu_hui.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130481910",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-04-08 09:17:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Liu hui",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Liu Hui (mathematician)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Lui Hui",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-02-13 14:36:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "\"Liu Hui (220 - 280) - Biography - MacTutor History of Mathematics\" <a rel=\"nofollow\" class=\"external free\" href=\"https://mathshistory.st-andrews.ac.uk/Biographies/Liu_Hui/\">https://mathshistory.st-andrews.ac.uk/Biographies/Liu_Hui/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "3419637": {
+        "pageid": 3419637,
+        "ns": 6,
+        "title": "File:Sea island survey.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sea_island_survey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sea_island_survey.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3419637",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-01-19 12:55:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sea island survey",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Drawings of China|Liu Hui (mathematician)|Author died more than 100 years ago public domain images|CC-PD-Mark|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sea Island survey diagram 窥望海岛之图, first written of by the Chinese mathematician Liu Hui during the Three Kingdoms era (220–280 CE).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1726",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "1726 <i>Tu Shu Ji Cheng</i> 窥望海岛之图",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Liu Hui",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

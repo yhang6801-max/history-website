@@ -1,0 +1,118 @@
+{
+  "id": "lu-xun",
+  "retrievedAt": "2026-09-05T00:39:48.3052235+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lu_Xun_1936.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3ALu_Xun_1936.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2006-10-19T06:57:06Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Lu_Xun_1936.jpg",
+          "to": "File:Lu Xun 1936.jpg"
+        }
+      ],
+      "pages": {
+        "1290041": {
+          "pageid": 1290041,
+          "ns": 6,
+          "title": "File:Lu Xun 1936.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lu_Xun_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lu_Xun_1936.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1290041",
+              "sha1": "f9f33b6ef3adac62a2c7830e3e55a7028e2e818d",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-04-10 01:08:09",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Lu Xun 1936",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "People of China in 1936|PD China|PD-1996|PD-old missing SDC copyright status|PD-US missing SDC copyright status|Portraits of Lu Xun|Lu Xun in 1936|Photographs by Sha Fei",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Lu Xun on 8 October 1936, 11 days before his death, attending the Second Woodcarving Exhibition in Baxianqiao, Shanghai. Photograph by Sha Fei.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1936-10-08",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://fotomen.cn/2005/08/ji-nian-sha-fei/\">http://fotomen.cn/2005/08/ji-nian-sha-fei/</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Sha_Fei\" class=\"extiw\" title=\"w:en:Sha Fei\"><span title=\"Chinese photojournalist\">Sha Fei</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Lu Xun on 8 October 1936, 11 days before his death, attending the Second Woodcarving Exhibition in Baxianqiao, Shanghai. Photograph by Sha Fei.}}\n{{zh|1=1936年10月8日（去世前11天），鲁迅在上海八仙桥第二届木刻展览会上。}}\n|date=1936-10-08\n|source=http://fotomen.cn/2005/08/ji-nian-sha-fei/\n|author={{Creator:Sha Fei}}\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{PD-China}}\n{{PD-1996}}\n[[Category:Photographs by Sha Fei]]\n[[Category:People of China in 1936]]\n[[Category:Lu Xun in 1936]]\n[[Category:Portraits of Lu Xun]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+== {{int:filedesc}} ==
+{{Artwork
+ |artist             = {{unknown|artist}}
+ |author             =
+ |title              = A Seated Portrait of Ming Emperor Taizu <br/>明太祖坐像
+ |description        = This painting depicts Zhu Yuanzhang (朱元璋), Emperor Taizu of the Ming dynasty (明太祖), who reigned from 1368 to 1398. Hongwu (洪武) was the title of his reign period.
+ |date               = Ming dynasty
+ |medium             = {{technique|silk}}
+ |dimensions         = 291.4x 162.8 cm
+ |institution        = National Palace Museum
+ |department         =
+ |place of discovery =
+ |object history     =
+ |exhibition history =
+ |credit line        =
+ |inscriptions       =
+ |notes              =
+ |accession number   = [http://painting.npm.gov.tw/Painting_Page.aspx?dep=P&PaintingId=1873 中-畫-000311-00000]
+ |place of creation  = China
+ |source             = [https://theme.npm.edu.tw/exh108/oversized10807/en/index.html Oversize Scrolls of Painting and Calligraphy] (2019 exhibit). Taipei: National Palace Museum.<br/>[https://theme.npm.edu.tw/exh108/oversized10807/ch/index.html 巨幅書畫] (2019年展覽). 臺北: 國立故宮博物院.
+ |permission         =
+ |other_versions     = {{Extracted from|1=A Seated Portrait of Ming Emperor Taizu.jpg}}<gallery>
+File:A Seated Portrait of Ming Emperor Taizu.jpg
+File:Hongwu1.jpg
+File:Hongwu1_crop.jpg
+File:Hongwu2.jpg
+</gallery>
+ |references         = [https://theme.npm.edu.tw/exh108/oversized10807/en/index.html Oversize Scrolls of Painting and Calligraphy] (2019 exhibit). Taipei: National Palace Museum.<br/>[https://theme.npm.edu.tw/exh108/oversized10807/ch/index.html 巨幅書畫] (2019年展覽). 臺北: 國立故宮博物院.
+ |wikidata           =
+}}
+
+== {{int:license-header}} ==
+{{PD-Art-100}}
+[[Category:Portraits of Hongwu Emperor]]
+[[Category:Yishanguan in art]]
+[[Category:Dragon robes of the Ming Dynasty]]

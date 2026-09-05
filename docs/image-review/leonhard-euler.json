@@ -1,0 +1,12 @@
+{
+  "id": "leonhard-euler",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leonhard_Euler.jpg",
+  "author": "Jakob Emanuel Handmann / Kunstmuseum Basel",
+  "licenseName": "Public domain (PD-Art; PD-old-100-expired)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "en": "Portrait of Leonhard Euler painted by Jakob Emanuel Handmann in 1753, in the Kunstmuseum Basel collection. A reproduction of a historical painting, not a photograph of Euler.",
+  "zh": "Jakob Emanuel Handmann 于 1753 年绘制的莱昂哈德·欧拉肖像，藏于巴塞尔美术馆。这是历史画作的复制图，并非欧拉的照片。",
+  "position": "center",
+  "checked": "2026-09-04",
+  "visualReview": "Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified."
+}

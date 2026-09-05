@@ -1,0 +1,9 @@
+{
+  "checks": 80,
+  "errors": [],
+  "connected": 19,
+  "visualReview": false,
+  "scope": "20 new people; cards and details; widths 1440/320; en/zh-CN",
+  "visualBlock": "view_image: windows sandbox failed: helper_unknown_error: setup refresh had errors",
+  "sourceResultModified": "2026-09-04T16:24:50.151Z"
+}

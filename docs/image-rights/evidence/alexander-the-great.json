@@ -1,0 +1,115 @@
+{
+  "id": "alexander-the-great",
+  "retrievedAt": "2026-09-05T00:36:01.7647674+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AAlexander_the_Great_mosaic.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Alexander_the_Great_mosaic.jpg",
+          "to": "File:Alexander the Great mosaic.jpg"
+        }
+      ],
+      "pages": {
+        "35067658": {
+          "pageid": 35067658,
+          "ns": 6,
+          "title": "File:Alexander the Great mosaic.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alexander_the_Great_mosaic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35067658",
+              "sha1": "86e14f2f5dcbda0dbdecc894d544eabe93bc08ca",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-09-01 16:12:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Alexander the Great mosaic",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Featured pictures on Wikipedia, English|PD-Art (PD-anon-expired)|Images with extracted images|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Spanish|Template Unknown (author)|Files with Assessments template missing SDC Commons no value quality assessment|Featured pictures on Wikipedia, Arabic|Battle of Issus mosaic (from Pompeii) - Details",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/en:Alexander_Mosaic\" class=\"extiw\" title=\"w:en:Alexander Mosaic\"><span title=\"Roman mosaic of Pompeii\">Alexander Mosaic</span></a> (detail), <a href=\"https://en.wikipedia.org/wiki/en:House_of_the_Faun\" class=\"extiw\" title=\"w:en:House of the Faun\"><span title=\"Roman domus in Pompeii, perhaps the largest in the city at the time of its destruction\">House of the Faun</span></a>, <a href=\"https://en.wikipedia.org/wiki/en:Pompeii\" class=\"extiw\" title=\"w:en:Pompeii\"><span title=\"ancient Roman city near modern Naples, Italy\">Pompeii</span></a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 100 <a href=\"https://en.wikipedia.org/wiki/en:Ante_Christum_Natum\" class=\"extiw\" title=\"w:en:Ante Christum Natum\">BC</a>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/8/12/1407837792117/Mosaic-of-Alexander-the-G-014.jpg\"><i>The Guardian</i> (DEA/G Nimatallah/De Agostini/Getty Images)</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "{{Assessments|enwiki=1|fawiki=1|fawiki-nom=Alexander the Great mosaic.jpg|enwiki-nom=Alexander Mosaic|eswiki=1|arwiki=1|arwiki-nom=فسيفساء الإسكندر الأكبر}}\n== {{int:filedesc}} ==\n{{Information\n | Description = {{label|Q841762}} ({{detail}}), {{label|Q1547308}}, {{city|Q43332}}\n | Source = [https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/8/12/1407837792117/Mosaic-of-Alexander-the-G-014.jpg ''The Guardian'' (DEA/G Nimatallah/De Agostini/Getty Images)]\n | Date = {{complex date|circa|100|era=BC}} \n | Author = {{unknown|author}}\n | Permission=\n | other_versions = {{Image extracted|Alexander the Great mosaic (cropped).jpg}}\n<gallery>\nFile:Battle of Issus mosaic - Museo Archeologico Nazionale - Naples 2013-05-16 16-25-06 BW.jpg\nAlexander and Bucephalus - Battle of Issus mosaic - Museo Archeologico Nazionale - Naples BW.jpg\n</gallery>\n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-anon-expired|country=it}}\n;mhuionnujiyh7t\n[[Category:Battle of Issus mosaic (from Pompeii) - Details]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

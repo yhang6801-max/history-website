@@ -1,0 +1,306 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 3,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "5454132": {
+        "pageid": 5454132,
+        "ns": 6,
+        "title": "File:Bundesarchiv B 145 Bild-F027450-0008, Göttingen, Gebäude der Max-Planck-Gesellschaft.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bundesarchiv_B_145_Bild-F027450-0008%2C_G%C3%B6ttingen%2C_Geb%C3%A4ude_der_Max-Planck-Gesellschaft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_B_145_Bild-F027450-0008,_G%C3%B6ttingen,_Geb%C3%A4ude_der_Max-Planck-Gesellschaft.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5454132",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-06 11:28:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div class=\"language de\" style=\"display:inline;font-weight:bold;\">Göttingen, Gebäude der Max-Planck-Gesellschaft</div> <abbr class=\"BArchtooltips\" title=\"Short title assigned by the archive\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/20px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"62\" data-file-height=\"62\"></span></span></abbr></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Buildings in Göttingen|Max Planck Society|Images from the German Federal Archive|Göttingen in the 1960s|Photographs by Ludwig Wegmann|Files with coordinates missing SDC location of creation (51° N, 9° E)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "51.528861",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.932144",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q109374788\" class=\"extiw\" title=\"d:Q109374788\"><span title=\"German photographer\">Ludwig Wegmann</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<div style=\"background:var(--background-color-neutral, #eaecf0); color:inherit; font-size:86%; direction:ltr;\">For documentary purposes the German Federal Archive often retained the <b>original image captions</b>, which may be <b>erroneous, biased, obsolete or politically extreme</b>. <abbr class=\"BArchtooltips\" title=\"Files from the inventories “Bild 101 Propagandakompanien der Wehrmacht” and “Bild 183 ADN” may have particularly biased or politically extreme descriptions.\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/20px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"62\" data-file-height=\"62\"></span></span></abbr></div><div class=\"language de\">1.8.1968<br>\n<p>Göttingen<br>\n<br>\nHaus der Max-Planck-Gesellschaft<br>\n</p>\nBunsenstr.</div></div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1 August 1968<div style=\"display: none;\">date QS:P571,+1968-08-01T00:00:00Z/11</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv/en\" title=\"Logo Bundesarchiv\"><img alt=\"Logo Bundesarchiv\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/120px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"83\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/250px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"240\" data-file-height=\"200\"></a></span>\n</td>\n<td>This image was provided to Wikimedia Commons by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bundesarchiv.de/\">German Federal Archive</a> (Deutsches Bundesarchiv) as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv\" title=\"Commons:Bundesarchiv\">cooperation project</a>. The German Federal Archive guarantees an authentic representation only using the originals (negative and/or positive), resp. the digitalization of the originals as provided by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bild.bundesarchiv.de\">Digital Image Archive</a>.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Bundesarchiv, B 145 Bild-F027450-0008 / Wegmann, Ludwig / CC-BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "5345843": {
+        "pageid": 5345843,
+        "ns": 6,
+        "title": "File:Bundesarchiv Bild 183-1987-0203-021, Berlin, Physikalischen Gesellschaft, Planck-Nachlass.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bundesarchiv_Bild_183-1987-0203-021%2C_Berlin%2C_Physikalischen_Gesellschaft%2C_Planck-Nachlass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1987-0203-021,_Berlin,_Physikalischen_Gesellschaft,_Planck-Nachlass.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5345843",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-12-04 10:03:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bundesarchiv Bild 183-1987-0203-021, Berlin, Physikalischen Gesellschaft, Planck-Nachlass",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Magnushaus|Images with borders|Images from the German Federal Archive|Peter Zimmermann|Images from the German Federal Archive with borders|Max Planck documents|Photographs by Peter Zimmermann",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nZimmermann, Peter</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<div style=\"background:var(--background-color-neutral, #eaecf0); color:inherit; font-size:86%; direction:ltr;\">For documentary purposes the German Federal Archive often retained the <b>original image captions</b>, which may be <b>erroneous, biased, obsolete or politically extreme</b>. <abbr class=\"BArchtooltips\" title=\"Files from the inventories “Bild 101 Propagandakompanien der Wehrmacht” and “Bild 183 ADN” may have particularly biased or politically extreme descriptions.\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/20px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"62\" data-file-height=\"62\"></span></span></abbr></div><div class=\"language de\"><b>Berlin, Physikalischen Gesellschaft, Planck-Nachlass</b>\nADN-ZB Zimmermann 3.2.87 Berlin: Jubiläum-Max Planck-Vor 75 Jahren, am 23.Mai 1912, wurde der berühmte deutsche Physiker und Philosoph Max Planck zum Sekretär der Berliner Akademie der Wissenschaften gewählt. Der Name des Begründers der Quantentheorie und sein umfangreiches geistiges Erbe sind in der DDR unvergessen. Erhalten gebliebene Teile der Privat-Bibliothek von Max Planck werden im Magnus-Haus, dem Sitz der Physikalischen Gesellschaft der DDR, Am Kupfergraben aufbewahrt. Die kurz vor Kriegsende ausgelagerte Sammlung war 1958 von der Akademie der Wissenschaften der UdSSR an die Gesellschaft übergeben worden. - siehe auch 1987-0203-22, 23N, R 91226 und ADN-Beitrag -</div></div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "3 February 1987<div style=\"display: none;\">date QS:P571,+1987-02-03T00:00:00Z/11</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv/en\" title=\"Logo Bundesarchiv\"><img alt=\"Logo Bundesarchiv\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/120px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"83\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/250px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"240\" data-file-height=\"200\"></a></span>\n</td>\n<td>This image was provided to Wikimedia Commons by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bundesarchiv.de/\">German Federal Archive</a> (Deutsches Bundesarchiv) as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv\" title=\"Commons:Bundesarchiv\">cooperation project</a>. The German Federal Archive guarantees an authentic representation only using the originals (negative and/or positive), resp. the digitalization of the originals as provided by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bild.bundesarchiv.de\">Digital Image Archive</a>.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Bundesarchiv, Bild 183-1987-0203-021 / CC-BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "5436000": {
+        "pageid": 5436000,
+        "ns": 6,
+        "title": "File:Bundesarchiv Bild 183-R0116-504, Max Planck.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_183-R0116-504%2C_Max_Planck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R0116-504,_Max_Planck.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5436000",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-07-14 22:12:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div class=\"language de\" style=\"display:inline;font-weight:bold;\">Max Planck</div> <abbr class=\"BArchtooltips\" title=\"Short title assigned by the archive\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/20px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"62\" data-file-height=\"62\"></span></span></abbr></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "People of Germany in 1901|Max Planck|Images from the German Federal Archive|Template Unknown (author)|Black and white portrait photographs of male scientists",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<div style=\"background:var(--background-color-neutral, #eaecf0); color:inherit; font-size:86%; direction:ltr;\">For documentary purposes the German Federal Archive often retained the <b>original image captions</b>, which may be <b>erroneous, biased, obsolete or politically extreme</b>. <abbr class=\"BArchtooltips\" title=\"Files from the inventories “Bild 101 Propagandakompanien der Wehrmacht” and “Bild 183 ADN” may have particularly biased or politically extreme descriptions.\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/20px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"62\" data-file-height=\"62\"></span></span></abbr></div><div class=\"language de\">Scherl Bilderdienst:<br>\n<p>Berliner Nobelpreisträger. Professor Dr. Max Planck erhielt den Nobelpreis 1918 für Chemie<br>\n<br>\nADN-ZB<br>\nPlanck, Max<br>\ntheoretischer Physiker, geb. 23.4.1858 in Kiel, gest. 4.10.1947 in Göttingen, seit 1885 Professor in Kiel, seit 1889 in Berlin, 1930/37 Präsident der Kaiser-Wilhelm-Gesellschaft zur Förderung der Wissenschaften. Er erhielt 1918 den Nobelpreis.<br>\n</p>\n21015-01</div></div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1901 (fraglich, siehe Diskussionsseite)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv/en\" title=\"Logo Bundesarchiv\"><img alt=\"Logo Bundesarchiv\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/120px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"83\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/250px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"240\" data-file-height=\"200\"></a></span>\n</td>\n<td>This image was provided to Wikimedia Commons by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bundesarchiv.de/\">German Federal Archive</a> (Deutsches Bundesarchiv) as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv\" title=\"Commons:Bundesarchiv\">cooperation project</a>. The German Federal Archive guarantees an authentic representation only using the originals (negative and/or positive), resp. the digitalization of the originals as provided by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bild.bundesarchiv.de\">Digital Image Archive</a>.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Bundesarchiv, Bild 183-R0116-504 / CC-BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

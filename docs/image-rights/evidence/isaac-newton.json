@@ -1,0 +1,118 @@
+{
+  "id": "isaac-newton",
+  "retrievedAt": "2026-09-05T00:39:53.6152109+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3APortrait_of_Sir_Isaac_Newton%2C_1689.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2021-03-15T08:21:07Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+          "to": "File:Portrait of Sir Isaac Newton, 1689.jpg"
+        }
+      ],
+      "pages": {
+        "101534333": {
+          "pageid": 101534333,
+          "ns": 6,
+          "title": "File:Portrait of Sir Isaac Newton, 1689.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101534333",
+              "sha1": "e50a1e9f033d605bc14372cacb35ab42d7355e9e",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-01-05 07:10:06",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Portrait of <a href=\"//commons.wikimedia.org/wiki/Isaac_Newton\" title=\"Isaac Newton\">Isaac Newton</a> (1642-1727)</i></div></div><div style=\"display: none;\">label QS:Len,\"Portrait of <a href=\"//commons.wikimedia.org/wiki/Isaac_Newton\" title=\"Isaac Newton\">Isaac Newton</a> (1642-1727)\"</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|17th-century portrait paintings of men, location missing|CC-PD-Mark|17th-century oil portraits of men at half length|Scientists in 1689|1689 portrait paintings of men|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|Artworks with digital representation of different depicts|Male portrait paintings by Godfrey Kneller|Portrait paintings of Isaac Newton|46-year-old human males",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Godfrey_Kneller\" class=\"extiw\" title=\"w:en:Godfrey Kneller\"><span title=\"German-born British painter (1646–1723)\">Godfrey Kneller</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nPortrait of <a href=\"//commons.wikimedia.org/wiki/Isaac_Newton\" title=\"Isaac Newton\">Isaac Newton</a> (1642-1727)</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1689<div style=\"display: none;\">date QS:P571,+1689-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://exhibitions.lib.cam.ac.uk/linesofthought/artifacts/newton-by-kneller/\">https://exhibitions.lib.cam.ac.uk/linesofthought/artifacts/newton-by-kneller/</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Artwork\n |wikidata           = Q121411536\n |artist             = {{Creator:Godfrey Kneller}}\n |author             = \n |title              = {{title|en={{Portrait of male|[[Isaac Newton]] (1642-1727)}} }}\n |description        = {{Portrait of male|[[Isaac Newton]] (1642-1727)}}\n |object type        = painting\n |date               = 1689\n |medium             = {{Technique|oil|canvas}}\n |dimensions         = \n |institution        = \n |department         = \n |accession number   = \n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = https://exhibitions.lib.cam.ac.uk/linesofthought/artifacts/newton-by-kneller/\n |permission         = \n |other_versions     = <gallery>\nPortrait of Sir Isaac Newton, 1689FXD.jpg|Remastered color\nGodfreyKneller-IsaacNewton-1689.jpg\nSir Isaac Newton (1643-1727).jpg\n</gallery>\n |other_fields       = \n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1723|country=UK}}\n\n{{DEFAULTSORT:1689; Isaac Newton}}\n[[Category:46-year-old human males|Newton, Isaac]]\n[[Category:Male portrait paintings by Godfrey Kneller]]\n[[Category:17th-century portrait paintings of men, location missing]]\n[[Category:Portrait paintings of Isaac Newton]]\n[[Category:1689 portrait paintings of men|Male]]\n[[Category:17th-century oil portraits of men at half length]]\n[[Category:Scientists in 1689]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

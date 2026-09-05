@@ -1,0 +1,167 @@
+import portrait from '../../assets/people/stephen-hawking.webp'
+import type { HistoricalPerson } from '../../types/historicalPerson'
+import type { PersonTranslation } from '../personTranslations'
+export const person: HistoricalPerson = { image: portrait, ...{
+  "id": "stephen-hawking",
+  "name": "Stephen Hawking",
+  "lifespan": "1942–2018",
+  "summary": "British theoretical physicist whose research on black holes and cosmology, and books for general readers, helped bring fundamental questions about the universe into public life.",
+  "sections": [
+    {
+      "title": "From Oxford to Cambridge",
+      "paragraphs": [
+        "Stephen William Hawking was born in Oxford on 8 January 1942. After studying natural sciences at Oxford, he moved to Cambridge in 1962 to pursue cosmology under Dennis Sciama. His questions concerned the structure and history of the universe, rather than the discovery of a particular star or planet. This introduction focuses on his research and communication of science, not on a complete account of his private life."
+      ]
+    },
+    {
+      "title": "Singularities and the limits of classical gravity",
+      "paragraphs": [
+        "Hawking and Roger Penrose developed mathematical results about singularities, including a joint paper in 1970. Under specified physical and geometrical assumptions, general relativity leads to a breakdown in the ordinary description of spacetime. These results identify limits of the classical theory; they do not by themselves supply a complete quantum account of the universe's beginning. With George Ellis, Hawking published The Large Scale Structure of Space-Time in 1973, a substantial treatment of relativistic cosmology."
+      ]
+    },
+    {
+      "title": "Black holes, temperature and information",
+      "paragraphs": [
+        "In 1974 Hawking proposed that quantum effects allow black holes to emit thermal radiation. His calculation linked gravity, quantum theory and thermodynamics, changing the classical picture of a black hole that only absorbs. Jacob Bekenstein's earlier work on black-hole entropy was an important part of this scientific setting. Hawking radiation is a theoretical prediction, not a claim that Hawking photographed radiation from an astronomical black hole. The possibility of evaporation also sharpened the question of what happens to information, generating research far beyond his own papers."
+      ]
+    },
+    {
+      "title": "A proposal for quantum cosmology",
+      "paragraphs": [
+        "In 1983 James Hartle and Hawking published a proposal for the wave function of the universe. Their no-boundary approach sought a quantum description that would not require an ordinary initial boundary in time. It was a model to investigate, not an observationally settled account of creation. The joint authorship matters: this work grew through collaboration and continued debate about how quantum theory should apply to the universe as a whole."
+      ]
+    },
+    {
+      "title": "Making difficult ideas accessible",
+      "paragraphs": [
+        "Hawking held Cambridge's Lucasian professorship from 1979 to 2009. A Brief History of Time, published in 1988, introduced a broad audience to time, gravity and the origin of the universe. Its success gave cosmology a place in everyday conversation, while popular explanations necessarily simplified difficult and sometimes unsettled theories.",
+        "Living with motor neurone disease, he relied on extensive personal support and communication technology, including a speech synthesiser after losing his natural voice. His public career showed how assistive technology and support could sustain participation in intellectual life; it should not obscure the people who made that possible or turn disability into a simple story of willpower. He died in Cambridge on 14 March 2018."
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1942",
+      "event": "Born in Oxford on 8 January."
+    },
+    {
+      "date": "1962",
+      "event": "Moves from Oxford to Cambridge to study cosmology."
+    },
+    {
+      "date": "1970",
+      "event": "Publishes a joint singularity paper with Roger Penrose."
+    },
+    {
+      "date": "1973",
+      "event": "Publishes The Large Scale Structure of Space-Time with George Ellis."
+    },
+    {
+      "date": "1974",
+      "event": "Publishes his prediction of black-hole radiation and is elected a Fellow of the Royal Society."
+    },
+    {
+      "date": "1979–2009",
+      "event": "Holds the Lucasian professorship at Cambridge."
+    },
+    {
+      "date": "1983",
+      "event": "Publishes the no-boundary wave-function proposal with James Hartle."
+    },
+    {
+      "date": "1988",
+      "event": "Publishes A Brief History of Time for general readers."
+    },
+    {
+      "date": "2018",
+      "event": "Dies in Cambridge on 14 March."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Biography",
+      "publisher": "Stephen Hawking Estate",
+      "url": "https://www.hawking.org.uk/biography"
+    },
+    {
+      "title": "Professor Stephen Hawking",
+      "publisher": "University of Cambridge",
+      "url": "https://www.cam.ac.uk/stories/stephen-hawking"
+    },
+    {
+      "title": "An account of everything",
+      "publisher": "Cambridge University Library",
+      "url": "https://exhibitions.lib.cam.ac.uk/linesofthought/artifacts/hawking/"
+    },
+    {
+      "title": "Black hole explosions?",
+      "publisher": "S. W. Hawking; Nature 248 (1974)",
+      "url": "https://www.nature.com/articles/248030a0"
+    },
+    {
+      "title": "Wave function of the Universe",
+      "publisher": "J. B. Hartle and S. W. Hawking; Physical Review D 28 (1983)",
+      "url": "https://doi.org/10.1103/PhysRevD.28.2960"
+    }
+  ],
+  "imageAttribution": {
+    "title": "Relative time — Stephen Hawking (detail)",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relative_time_(2886233692)_(Stephen_Hawking_cropped).jpg",
+    "author": "Tanya Hart",
+    "authorUrl": "https://www.flickr.com/people/27466406@N00",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "notes": "Stephen Hawking at the Corpus Clock unveiling in Cambridge. The original file records 20 September 2008; this is the photographer's file date, not a newly verified date of the ceremony. The parent photograph identifies Hawking on the right and has a passed Flickr licence review. Photography is credited to Tanya Hart, not NASA.",
+    "changes": "Uses the Commons single-person crop of Relative time; further cropped centrally, resized to 900 × 1200 and converted to WebP. This adaptation is available under CC BY-SA 2.0."
+  }
+} }
+export const zh: PersonTranslation = {
+  "name": "斯蒂芬·霍金",
+  "summary": "英国理论物理学家，以黑洞与宇宙学研究及面向普通读者的著作，让有关宇宙的基本问题走进公众生活。",
+  "sections": [
+    {
+      "title": "从牛津到剑桥",
+      "paragraphs": [
+        "斯蒂芬·威廉·霍金于 1942 年 1 月 8 日出生于牛津。在牛津学习自然科学后，他于 1962 年前往剑桥，在丹尼斯·夏迈指导下研究宇宙学。他关注的是宇宙的结构与历史，而非发现某一颗恒星或行星。本文着重介绍他的科研与科学传播，并非对其私人生活的完整叙述。"
+      ]
+    },
+    {
+      "title": "奇点与经典引力理论的边界",
+      "paragraphs": [
+        "霍金与罗杰·彭罗斯发展了有关奇点的数学成果，并于 1970 年发表合作论文。在特定物理与几何假设下，广义相对论会导向常规时空描述失效的情形。这些结果指出经典理论的适用边界，本身并未给出宇宙起源的完整量子解释。1973 年，霍金与乔治·埃利斯合作出版《时空的大尺度结构》，系统探讨相对论宇宙学。"
+      ]
+    },
+    {
+      "title": "黑洞、温度与信息",
+      "paragraphs": [
+        "1974 年，霍金提出量子效应可使黑洞发出热辐射。他的计算联系了引力、量子理论与热力学，改变了黑洞只能吸收的经典图景。雅各布·贝肯斯坦此前关于黑洞熵的工作，也是这一研究的重要背景。霍金辐射属于理论预言，不能理解为霍金拍摄到了天体黑洞发出的这种辐射。黑洞可能蒸发的推论还使信息去向问题更加突出，推动了远超其本人论文范围的后续研究。"
+      ]
+    },
+    {
+      "title": "量子宇宙学的探索",
+      "paragraphs": [
+        "1983 年，詹姆斯·哈特尔与霍金发表关于宇宙波函数的方案。其无边界思路试图建立一种不需要通常意义上时间初始边界的量子描述。这是有待研究的模型，而非已经由观测确定的创生解释。合作署名很重要：这项工作形成于合作之中，也伴随着如何把量子理论应用于整个宇宙的持续讨论。"
+      ]
+    },
+    {
+      "title": "让艰深的问题走近公众",
+      "paragraphs": [
+        "霍金于 1979 至 2009 年担任剑桥大学卢卡斯数学教授。1988 年出版的《时间简史》向广泛的读者介绍时间、引力与宇宙起源，使宇宙学进入日常讨论。与此同时，通俗解释不可避免地简化了复杂、有时尚未定论的理论。",
+        "霍金患有运动神经元病，长期依靠照护支持与通信技术；失去自然发声能力后，他使用语音合成器交流。他的公众生涯展示了辅助技术与支持如何帮助人们持续参与学术生活，不能忽略提供支持者的贡献，也不宜把残障经历简化为仅凭意志取胜的故事。2018 年 3 月 14 日，他在剑桥去世。"
+      ]
+    }
+  ],
+  "timelineEvents": [
+    "1 月 8 日出生于牛津。",
+    "从牛津前往剑桥研究宇宙学。",
+    "与罗杰·彭罗斯发表有关奇点的合作论文。",
+    "与乔治·埃利斯合作出版《时空的大尺度结构》。",
+    "发表黑洞辐射预言，并当选英国皇家学会会士。",
+    "担任剑桥大学卢卡斯数学教授。",
+    "与詹姆斯·哈特尔发表无边界宇宙波函数方案。",
+    "出版面向普通读者的《时间简史》。",
+    "3 月 14 日在剑桥去世。"
+  ],
+  "imageNotes": "霍金参加剑桥科珀斯钟揭幕活动时的照片。原文件记录日期为 2008 年 9 月 20 日；此处沿用摄影文件日期，不将其当作重新核实的典礼日期。母图明确指出霍金位于右侧，并留有 Flickr 许可复核通过记录。摄影者为 Tanya Hart，并非 NASA。",
+  "imageChanges": "使用 Commons 对《Relative time》的单人裁切版，再作居中裁切，调整为 900 × 1200 并转为 WebP。本改编版本按 CC BY-SA 2.0 提供。"
+}

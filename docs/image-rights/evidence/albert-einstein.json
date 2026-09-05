@@ -1,0 +1,123 @@
+{
+  "id": "albert-einstein",
+  "retrievedAt": "2026-09-05T00:36:02.5127538+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AEinstein_1921_by_F_Schmutzer_-_restoration.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2023-01-19T12:48:45Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+          "to": "File:Einstein 1921 by F Schmutzer - restoration.jpg"
+        }
+      ],
+      "pages": {
+        "34239518": {
+          "pageid": 34239518,
+          "ns": 6,
+          "title": "File:Einstein 1921 by F Schmutzer - restoration.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34239518",
+              "sha1": "37be0bd3158f0e2268c00a574e337fcdbaa5b368",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-01-19 19:04:09",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Einstein 1921 by F Schmutzer - restoration",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD Austria|Artworks without Wikidata item|Featured pictures on Wikipedia, English|Images with extracted images|Picture of week on the Czech Wikipedia|Information field template with formatting|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Malay|CC-PD-Mark|Adam Cuerden's restorations|PD-old-95-expired|Featured pictures on Wikipedia, Bengali|Files with Assessments template missing SDC Commons no value quality assessment|Albert Einstein by Schmutzer (1921)|Illustrations used in Salute, Jonathan!",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ferdinand_Schmutzer\" class=\"extiw\" title=\"w:en:Ferdinand Schmutzer\"><span title=\"Austrian photographer and artist (1870-1928)\">Ferdinand Schmutzer</span></a></bdi> / <bdi><a href=\"https://en.wikipedia.org/wiki/User:Adam_Cuerden\" class=\"extiw\" title=\"en:User:Adam Cuerden\">Adam Cuerden</a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nAlbert Einstein during a lecture in Vienna in 1921</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1921 (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20071026151415/http://www.anzenbergergallery.com/en/article/134.html\">ref.</a>)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.bhm.ch/de/news_04a.cfm?bid=4&amp;jahr=2006\">http://www.bhm.ch/de/news_04a.cfm?bid=4&amp;jahr=2006</a> <sup class=\"noprint Inline-Template\"><span style=\"white-space: nowrap;\">[<span style=\"font-style:italic;\"><span title=\"\" class=\"plainlinks\"><a class=\"external text\" href=\"https://en.wikipedia.org/wiki/Wikipedia:Link_rot\">dead link</a></span></span>]</span></sup>, <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20070211064905/http://www.bhm.ch/de/news_04a.cfm?bid=4&amp;jahr=2006\">archived copy</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20071025130813/http://www.bhm.ch/downloads/11_Einstein_1921.jpg\">image</a>)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "Public Domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Artwork\n|Description=Albert Einstein during a lecture in Vienna in 1921\n|Source=http://www.bhm.ch/de/news_04a.cfm?bid=4&jahr=2006 {{Dead link}}, [https://web.archive.org/web/20070211064905/http://www.bhm.ch/de/news_04a.cfm?bid=4&jahr=2006 archived copy] ([https://web.archive.org/web/20071025130813/http://www.bhm.ch/downloads/11_Einstein_1921.jpg image])\n|Date=1921 ([https://web.archive.org/web/20071026151415/http://www.anzenbergergallery.com/en/article/134.html ref.])\n|Author={{Creator:Ferdinand Schmutzer}}\nRestored by:\n{{Creator:Adam Cuerden}}\n|Permission=Public Domain\n|Notes = *[https://www.bildarchivaustria.at/Pages/Search/Result.aspx?p_eBildansicht=2&p_ItemID=1 Info at National Library of Austria]\n|other_versions={{Image extracted|1=Einstein 1921 by F Schmutzer - restoration (cropped).jpg}}\n* [[:File:Einstein 1921 by F Schmutzer - restoration.jpg]] - Restoration (JPEG)\n* [[:File:Einstein 1921 by F Schmutzer - restoration.png]] - Restoration (PNG)\n* [[:File:Einstein 1921 by F Schmutzer.jpg]] - Original (JPEG)\n\nCrops and other variants (not of the restoration)\n<gallery>\nFile:Einstein1921 by F Schmutzer 2.jpg|[[:File:Einstein1921 by F Schmutzer 2.jpg]]\nFile:Einstein1921 by F Schmutzer 3.jpg|[[:File:Einstein1921 by F Schmutzer 3.jpg]]\nFile:Einstein1921 by F Schmutzer 4.jpg|[[:File:Einstein1921 by F Schmutzer 4.jpg]]\nFile:Einstein 1921 portrait2.jpg|[[:File:Einstein 1921 portrait2.jpg]]\nFile:Albert Einstein 1921 by F Schmutzer.jpg|[[:File:Albert Einstein 1921 by F Schmutzer.jpg]]\n</gallery>\n}}\n\n== {{int:license-header}} ==\nRegarding the origin and copyright status of this image it is a study by [https://www.galerie-fach.de/index.php/en/schmutzer-f the portraitist F. Schmutzer]{{Dead link|date=November 2023 |bot=InternetArchiveBot |fix-attempted=yes }}, a member of the [[Wikipedia:Vienna Secession]] and its president from 1914 to 1917. Schmutzer did not intend his studies to be published, [http://www.donau-uni.ac.at/imperia/md/content/studium/kultur/zbw/eshph/photoresearcher/photoresearcher_no8.pdf they were for his own private use] {{Wayback|url=http://www.donau-uni.ac.at/imperia/md/content/studium/kultur/zbw/eshph/photoresearcher/photoresearcher_no8.pdf |date=20120904052800 }}. His studies were discovered in 2001 and sold to the Austrian National Library. It follows that this image could not have been published before 2001 and thus not within 70 years of its creation (1921). The image was the subject of a nomination for deletion and [[Commons:Deletion requests/File:Einstein 1921 by F Schmutzer.jpg |the result was a '''keep''']].\n{{PD-Austria}}\n{{PD-old-auto-expired|1928}}\n\n== {{Assessment}} ==\n{{Assessments|fawiki=1|fawiki-nom=Einstein 1921 by F Schmutzer - restoration.jpg|enwiki=1|enwiki-nom=Einstein, hopefully now copyright-problems free|mswiki=1|mswiki-nom=Calon gambar pilihan/2017#Minggu 13}}\n{{POTD bnwiki}}\n{{Picture of week on the Czech Wikipedia|týden-en=11th |týden=11 |rok=2017}}\n\n[[Category:Albert Einstein by Schmutzer (1921)|1921]]\n[[Category:Adam Cuerden's restorations]]\n[[Category:Illustrations used in Salute, Jonathan!]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

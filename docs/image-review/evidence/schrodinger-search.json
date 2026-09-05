@@ -1,0 +1,261 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 3,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "174964061": {
+        "pageid": 174964061,
+        "ns": 6,
+        "title": "File:Erwin Schrodinger.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Erwin_Schrodinger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erwin_Schrodinger.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=174964061",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-09-13 09:02:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Erwin Schrodinger",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Attribution only license|Unknown date|Erwin Schrodinger",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Erwin Schrodinger",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://repository.aip.org/informal-portrait-erwin-schrodinger-3\">https://repository.aip.org/informal-portrait-erwin-schrodinger-3</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Photograph by Francis Simon, courtesy of AIP Emilio Segrè Visual Archives",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Attribution",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"https://en.wikipedia.org/wiki/en:American_Institute_of_Physics\" class=\"extiw\" title=\"w:en:American Institute of Physics\"><span title=\"American association of physical science societies\">American Institute of Physics</span></a></b> (AIP)",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "6209244": {
+        "pageid": 6209244,
+        "ns": 6,
+        "title": "File:Erwin Schrödinger (1933).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Erwin_Schr%C3%B6dinger_%281933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erwin_Schr%C3%B6dinger_(1933).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6209244",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-19 19:06:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Erwin Schrödinger (1933)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Erwin Schrödinger|Dublin Institute for Advanced Studies|PD Sweden|Black and white portrait photographs of male scientists|Scientists in 1933|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Erwin Schrödinger",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1933",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://nobelprize.org/nobel_prizes/physics/laureates/1933/schrodinger-bio.html\">http://nobelprize.org/nobel_prizes/physics/laureates/1933/schrodinger-bio.html</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Nobel foundation",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This Swedish photograph is in the <b><a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"w:Public domain\">public domain</a></b> in Sweden because one of the following applies:\n<ul><li>The photograph does not reach the Swedish threshold of originality (common for snapshots and journalistic photos) and was created before 1 January 1976 (SFS 1960:729, § 49a).</li>\n<li>The photograph was published anonymously before 1 January 1956 and the author did not reveal their identity during the following 70 years (SFS 1960:729, § 44).</li></ul>\n<p>For photos in the first category created before 1969, also <a href=\"//commons.wikimedia.org/wiki/Template:PD-1996\" title=\"Template:PD-1996\">{{PD-1996}}</a> usually applies. For photos in the second category published before 1931, also <a href=\"//commons.wikimedia.org/wiki/Template:PD-US-expired\" title=\"Template:PD-US-expired\">{{PD-US-expired}}</a> usually applies.\n</p>\nIf the photographer died before 1956, <a href=\"//commons.wikimedia.org/wiki/Template:PD-old-70\" title=\"Template:PD-old-70\"><span style=\"font-family:monospace,monospace;\">{{PD-old-70}}</span></a> should be used instead of this tag. If the author died before 1926, also <a href=\"//commons.wikimedia.org/wiki/Template:PD-1996\" title=\"Template:PD-1996\">{{PD-1996}}</a> usually applies.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "6863996": {
+        "pageid": 6863996,
+        "ns": 6,
+        "title": "File:Erwin Schrödinger profile.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Erwin_Schr%C3%B6dinger_profile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erwin_Schr%C3%B6dinger_profile.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6863996",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-10-20 10:07:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Erwin Schrödinger profile",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Erwin Schrödinger|Smithsonian Institution|Flickr images reviewed by trusted users|Files from Flickr's 'The Commons'|Black and white portrait photographs of male scientists",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<b>Creator/Photographer</b>: Robertson\n<p><b>Medium</b>: Medium unknown\n</p><p><b>Date</b>:  prior to 1961\n</p><p><br>\n<b>Collection</b>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.sil.si.edu/digitalcollections/hst/scientific-identity/intro.htm\">Scientific Identity: Portraits from the Dibner Library of the History of Science and Technology</a> - As a supplement to the Dibner Library for the History of Science and Technology's collection of written works by scientists, engineers, natural philosophers, and inventors, the library also has a collection of thousands of portraits of these individuals. The portraits come in a variety of formats: drawings, woodcuts, engravings, paintings, and photographs, all collected by donor Bern Dibner. Presented here are a few photos from the collection, from the late 19th and early 20th century.\n</p><p><b>Persistent URL</b>: <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://photography.si.edu/SearchImage.aspx?t=5&amp;id=3628&amp;q=SIL14-S002-11\">[1]</a>\n</p><p><b>Repository</b>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.sil.si.edu/imagegalaxy/\">Smithsonian Institution Libraries</a>\n</p><p><br>\n</p>\n<b>Accession number</b>: SIL14-S002-11",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "before 1961<div style=\"display: none;\">date QS:P,+1961-00-00T00:00:00Z/7,P1326,+1961-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/25053835@N03/2551920224/\">Portrait of Erwin Schrödinger (1887-1961), Physicist</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Robertson. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/25053835@N03\">Smithsonian Institution</a> from United States",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.si.edu/copyright/\">http://www.si.edu/copyright/</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "No restrictions",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "No known copyright restrictions",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://www.flickr.com/commons/usage/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

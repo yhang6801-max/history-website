@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "defaultEnglishWithChineseBrowserLocale": true,
+  "refreshAndNewTabLanguage": true,
+  "readingAnchors": 16,
+  "widths": [
+    1440,
+    320
+  ],
+  "browserProcessRestart": "not tested",
+  "visualReview": false
+}

@@ -1,0 +1,38 @@
+=={{int:filedesc}}==
+{{Artwork
+|artist             =
+|author             =
+|title              = Archimedes Siracus. Photogravure by R. Paulussen after N. Ba
+|description        = Archimedes Siracus. Photogravure by R. Paulussen after N. Barabino.
+<p>Iconographic Collections</p>
+Keywords: archimedes, c.287-212 b.c.; portrait prints; Archimedes; photogravures
+|date               =
+|medium             =
+|dimensions         =
+|institution        =
+|department         =
+|references         = 
+* Library reference: ICV No 376
+* Photo number: V0000194
+* Full Bibliographic Record: http://catalogue.wellcomelibrary.org/record=b1169141
+|object history     =
+|exhibition history =
+|credit line        = {{Wellcome Images}}
+|other_versions     =
+|source             = https://wellcomeimages.org/indexplus/obf_images/7a/53/4a54e1d0c6465a0c9ebbb014299d.jpg
+* Gallery: https://wellcomeimages.org/indexplus/image/V0000194.html
+* Wellcome Collection gallery (2018-03-23): https://wellcomecollection.org/works/vehyr7qj [https://creativecommons.org/licenses/by/4.0/ CC-BY-4.0]
+|inscriptions       =
+|notes              =
+|permission         =
+|accession number   =
+}}
+
+=={{int:license-header}}==
+{{cc-by-4.0}}
+
+[[Category:Images uploaded by Fæ|Wellcome V0000194.jpg]]
+[[Category:Archimedes death|Paulussen after N. Barabino]]
+[[Category:Photogravure]]
+[[Category:Portraits in the Wellcome Collection]]
+[[Category:Archimedes by Nicolò Barabino]]

@@ -1,0 +1,36 @@
+=={{int:filedesc}}==
+{{Artwork
+|artist             =
+|author             =
+|title              = Michael Faraday. Photograph by John Watkins.
+|description        = Michael Faraday. Photograph by John Watkins.
+<p>Iconographic Collections</p>
+Keywords: portrait photographs
+|date               =
+|medium             =
+|dimensions         =
+|institution        =
+|department         =
+|references         = 
+* Library reference: ICV No 26799
+* Photo number: V0026346
+* Full Bibliographic Record: http://catalogue.wellcomelibrary.org/record=b1160915
+|object history     =
+|exhibition history =
+|credit line        = {{Wellcome Images}}
+|other_versions     =
+|source             = https://wellcomeimages.org/indexplus/obf_images/c9/d3/124d830a7a4bc9cdb0500be22adf.jpg
+* Gallery: https://wellcomeimages.org/indexplus/image/V0026346.html
+* Wellcome Collection gallery (2018-03-31): https://wellcomecollection.org/works/nzt3mvvr [https://creativecommons.org/licenses/by/4.0/ CC-BY-4.0]
+|inscriptions       =
+|notes              =
+|permission         =
+|accession number   =
+}}
+
+=={{int:license-header}}==
+{{cc-by-4.0}}
+
+[[Category:Images uploaded by Fæ|Wellcome V0026346.jpg]]
+[[Category:Michael Faraday by John Watkins]]
+[[Category:Portraits in the Wellcome Collection]]

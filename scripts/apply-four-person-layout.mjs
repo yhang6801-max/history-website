@@ -1,0 +1,14 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';
+const root='docs/four-person-replacement/';const mapping={euclid:'stephen-hawking',archimedes:'mahatma-gandhi','zu-chongzhi':'winston-churchill','alexander-the-great':'joseph-stalin'};
+const original=JSON.parse(fs.readFileSync(root+'baseline.json','utf8'));const ids=original.map(p=>mapping[p.id]||p.id);
+const planFile='docs/expansion-plan.json';const previous=fs.readFileSync(planFile,'utf8');if(!fs.existsSync(root+'previous-expansion-plan.json'))fs.writeFileSync(root+'previous-expansion-plan.json',previous);
+const plan=JSON.parse(previous);plan.ids=ids.slice(20);plan.planned=ids.slice(0,20);plan.currentIds=ids;plan.futureExpansion={status:'Awaiting a new user-approved list; no additions in this task',target:60,candidates:[],historicalPlan:'four-person-replacement/previous-expansion-plan.json'};
+for(const [from,to]of Object.entries(mapping)){if(!plan.replacements.some(r=>r.to===to))plan.replacements.push({position:ids.indexOf(to)+1,from,to,date:'2026-09-05',reason:'User-directed replacement; independent identity and reviewed portrait.'});}
+fs.writeFileSync(planFile,JSON.stringify(plan,null,2)+'\n');
+let file='src/components/HistoricalPersonCard.tsx';let text=fs.readFileSync(file,'utf8');text=text.replace('    <div className="person-card-entry">\r\n','').replace('    <div className="person-card-entry">\n','').replace(/    <Link className="person-card__credits"[\s\S]*?    <\/Link>\r?\n    <\/div>\r?\n/,'');assert.ok(!text.includes('person-card__credits'));fs.writeFileSync(file,text);
+file='src/components/HistoricalPersonCard.css';text=fs.readFileSync(file,'utf8');text=text.replace(/\r?\n\.person-card-entry[\s\S]*$/,'\n');fs.writeFileSync(file,text);
+file='src/pages/HistoricalPersonDetailPage.tsx';text=fs.readFileSync(file,'utf8');text=text.replace('<p className="person-detail__summary" data-reading-anchor>{person.summary}</p>','<p className="person-detail__summary" data-reading-anchor>{person.summary}</p>\n            <a className="page-link person-detail__credits-link" href="#image-credits">{t.imageCredits}</a>');fs.writeFileSync(file,text);
+file='test/language.test.mjs';text=fs.readFileSync(file,'utf8').replace(/const completedIds = \[[^\n]+\]/,'const completedIds = plan.ids');fs.writeFileSync(file,text);
+for(const f of ['test/bilingual-browser.mjs','test/bilingual-reading-browser.mjs']){text=fs.readFileSync(f,'utf8').replaceAll('alexander-the-great','joseph-stalin').replaceAll('/people/euclid','/people/stephen-hawking');if(f.includes('reading'))text=text.replaceAll('[a.textContent, a.href]','a.href');fs.writeFileSync(f,text);}
+fs.writeFileSync(root+'current-ids.json',JSON.stringify(ids,null,2)+'\n');
+console.log('Saved 40-person plan, four exact replacement slots, clean homepage card and detail credit jump link.');

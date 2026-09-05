@@ -1,0 +1,36 @@
+{
+  "id": "galileo-galilei",
+  "person": "伽利略·伽利莱",
+  "localFile": "src/assets/people/galileo-galilei.webp",
+  "localSha256": "81d4f52354454369ec7bd39cf2bc493dd8ee714ce29c4d7ee735e8a8589bf8fe",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei_(Uffizi).jpg",
+  "sourceEvidenceFile": "docs/image-rights/evidence/galileo-galilei.wikitext",
+  "sourceEvidenceSha256": "c61c6f6725e497dd3166b0bba6f2151fd2f005227098e231ff2b5a079f541bef",
+  "additionalPrimarySources": [
+    "https://www.uffizi.it/en/artworks/portrait-galileo-galilei-by-justus-sustermans"
+  ],
+  "workType": "油画及二维复制",
+  "creator": "Justus Sustermans / The Uffizi",
+  "creationDate": "1635；Justus Sustermans（1681 年卒）",
+  "licenseName": "Public domain (PD-old-100)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "sourceSupports": "乌菲齐原页确认作者、1635、油画、1890 no.745；Commons PD-old-100，source 指向同一馆藏。",
+  "originalAndDigitalRights": "原作作者期限已满；使用 Commons 提供的画作复制版本，不把乌菲齐整站的图片一概视为自由许可。",
+  "requiredUseConditions": "依来源列明的公有领域、期限或专门权利依据；PDM 本身不是新授权。虽未统一要求署名，本站仍保留原题、作者、来源、状态链接及实际修改。",
+  "siteImplementation": {
+    "title": "Portrait of Galileo Galilei",
+    "credit": null,
+    "author": "Justus Sustermans / The Uffizi",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "homepageCreditLink": "/people/galileo-galilei#image-credits",
+    "detailsAnchor": "image-credits",
+    "adaptationNotice": false
+  },
+  "beforeStatus": "按列明依据使用；本轮重新复核并补全记录",
+  "currentStatus": "依据明确，网站已满足使用条件（限本记录所列依据及当前用途）",
+  "limits": "纪年已与馆方直接核对，不杜撰 1636 等其他年份。",
+  "visualReview": "未完成；现有本地图片查看工具沙箱初始化失败，不能宣称裁切通过",
+  "reviewedAt": "2026-09-05",
+  "verifiedImplementation": "2026-09-05 浏览器验证：标题、作者、指定署名、许可及来源链接、双语修改说明；首页链接直达此图署名区。"
+}

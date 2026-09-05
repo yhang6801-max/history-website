@@ -1,0 +1,12 @@
+{
+  "id": "carl-friedrich-gauss",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
+  "author": "Christian Albrecht Jensen",
+  "licenseName": "Public domain (PD-Art; PD-old-auto-expired)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "en": "Portrait of Carl Friedrich Gauss painted by Christian Albrecht Jensen in 1840. This is a reproduction of Jensen's painting, not the later copy by Gottlieb Biermann.",
+  "zh": "Christian Albrecht Jensen 于 1840 年绘制的卡尔·弗里德里希·高斯肖像。本图复制自 Jensen 的画作，并非 Gottlieb Biermann 后来绘制的临摹本。",
+  "position": "center",
+  "checked": "2026-09-04",
+  "visualReview": "Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified."
+}

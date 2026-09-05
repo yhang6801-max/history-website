@@ -1,0 +1,36 @@
+{
+  "id": "robert-boyle",
+  "person": "罗伯特·波义耳",
+  "localFile": "src/assets/people/robert-boyle.webp",
+  "localSha256": "28f243d4e5ed71b618db19d5b7df83e2fef52e8bec158762f83962b736e37222",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
+  "sourceEvidenceFile": "docs/image-review/evidence/robert-boyle.txt",
+  "sourceEvidenceSha256": "921c4deb660caafa5d15c177b309b5e75a5dffb9a488b24777c74b35c378b136",
+  "additionalPrimarySources": [
+    "https://digital.sciencehistory.org/works/3r074v879"
+  ],
+  "workType": "油画及机构数字复制",
+  "creator": "Johann Kerseboom / Science History Institute",
+  "creationDate": "1689；Johann Kerseboom（1708 年卒）",
+  "licenseName": "CC BY 3.0 (digital reproduction); public-domain painting",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "sourceSupports": "Commons 有 Science History Institute-cooperation 与 Licensed-PD-Art，指定 cc-by-3.0 和机构署名；机构原页另列当前 BY 4.0 及 Courtesy of Science History Institute。",
+  "originalAndDigitalRights": "保留当前采用文件明确授予的 CC BY 3.0 数字复制许可；不以其原画公共领域状态忽略数字许可。机构原页新增的 4.0 作为另一个可选授权，不擅自改写旧授权。",
+  "requiredUseConditions": "允许网站展示和改编；保留原题、作者、指定机构署名、原来源及具体版本许可链接；说明修改、不暗示背书；BY-SA 图的本站改编版按相同版本许可。",
+  "siteImplementation": {
+    "title": "The Shannon Portrait of the Hon. Robert Boyle F. R. S. (1627-1691)",
+    "credit": "Courtesy of Science History Institute",
+    "author": "Johann Kerseboom / Science History Institute",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "homepageCreditLink": "/people/robert-boyle#image-credits",
+    "detailsAnchor": "image-credits",
+    "adaptationNotice": true
+  },
+  "beforeStatus": "依据明确，但需要补充署名或许可说明",
+  "currentStatus": "依据明确，网站已满足使用条件（限本记录所列依据及当前用途）",
+  "limits": "本站补齐原题与 Courtesy of Science History Institute。",
+  "visualReview": "未完成；现有本地图片查看工具沙箱初始化失败，不能宣称裁切通过",
+  "reviewedAt": "2026-09-05",
+  "verifiedImplementation": "2026-09-05 浏览器验证：标题、作者、指定署名、许可及来源链接、双语修改说明；首页链接直达此图署名区。"
+}

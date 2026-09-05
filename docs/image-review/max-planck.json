@@ -1,0 +1,12 @@
+{
+  "id": "max-planck",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R0116-504,_Max_Planck.jpg",
+  "author": "Bundesarchiv, Bild 183-R0116-504 / Photographer not identified",
+  "licenseName": "CC BY-SA 3.0 DE",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+  "en": "Photograph of Max Planck supplied by the German Federal Archive. Credit: Bundesarchiv, Bild 183-R0116-504 / CC-BY-SA 3.0. The historical archive caption contains an erroneous reference to a chemistry prize; it is not reproduced as biographical fact. This cropped version is shared under the same license.",
+  "zh": "德国联邦档案馆提供的马克斯·普朗克照片。署名：Bundesarchiv, Bild 183-R0116-504 / CC-BY-SA 3.0。原始档案图注误提化学奖，这里不将该文字作为生平事实引用。本裁剪版本沿用相同许可。",
+  "position": "center",
+  "checked": "2026-09-04",
+  "visualReview": "Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified."
+}

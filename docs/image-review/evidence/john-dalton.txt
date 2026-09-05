@@ -1,0 +1,31 @@
+{{Artwork
+ |object type = painting
+ |artist             = {{Creator:Thomas Phillips}}
+ |author             =
+ |title              =
+ |wikidata           = 
+ |description        = John Dalton <br> {{oil on canvas}} <br> {{Size|cm|91.4|71.4}}
+ |date               = 1835
+ |medium             =
+ |dimensions         =
+ |institution        =
+ |department         =
+ |place of discovery =
+ |place of creation  =
+ |object history     =
+ |exhibition history =
+ |credit line        =
+ |inscriptions       =
+ |notes              =
+ |references         =
+ |accession number   =
+ |source             = National Portrait Gallery, London
+ |permission         = 
+ |other_versions     = http://www.npg.org.uk/collections/search/portrait/mw07266
+ |other_fields       =  
+}}
+{{PD-Art|PD-old-auto-expired|deathyear=1845}}
+
+[[Category:John Dalton in art]]
+[[Category:Male portrait paintings by Thomas Phillips]]
+[[Category:1835 portrait paintings of men]]

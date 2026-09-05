@@ -1,0 +1,12 @@
+{
+  "id": "nicolaus-copernicus",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus.jpg",
+  "author": "Artist not identified / District Museum in Toruń",
+  "licenseName": "Public domain (PD-Art; PD-art-100)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "en": "Anonymous portrait of Nicolaus Copernicus, circa 1580, from the Town Hall collection in Toruń. Painted after his death in 1543, it is a later representation, not a reliably documented portrait made during his lifetime.",
+  "zh": "托伦市政厅馆藏的尼古拉·哥白尼肖像，作者未详，约绘于 1580 年。画作晚于他于 1543 年去世的时间，属于后世形象，并非有可靠记录的生前肖像。",
+  "position": "center",
+  "checked": "2026-09-04",
+  "visualReview": "Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified."
+}

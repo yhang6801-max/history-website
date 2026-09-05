@@ -1,0 +1,279 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 3,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "140591051": {
+        "pageid": 140591051,
+        "ns": 6,
+        "title": "File:Robert Boyle Portrait (cropped).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Robert_Boyle_Portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Robert_Boyle_Portrait_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=140591051",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-11-11 13:35:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Robert Boyle Portrait (cropped)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Robert Boyle|Extracted images",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Robert Boyle Portrait",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-08-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/193673378@N02/51376300970/\">https://www.flickr.com/photos/193673378@N02/51376300970/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://pixel17.com\">https://pixel17.com</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "41445018": {
+        "pageid": 41445018,
+        "ns": 6,
+        "title": "File:Robert Boyle portrait shifted.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Robert_Boyle_portrait_shifted.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Robert_Boyle_portrait_shifted.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41445018",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2015-07-08 15:03:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Robert Boyle portrait shifted",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Robert Boyle|Royal Society of Chemistry art collection|Self-published work|Art in the City of Westminster|Images modified by Andy Mabbett|Royal Society of Chemistry - Burlington House|Paintings in the City of Westminster|Male portrait paintings by Jonathan Richardson",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Portrait of Robert Boyle attributed to <a href=\"https://en.wikipedia.org/wiki/Jonathan_Richardson\" class=\"extiw\" title=\"en:Jonathan Richardson\">Jonathan Richardson</a> (died 1745)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-01-16 13:29:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Eowyn041084&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Eowyn041084 (page does not exist)\">Eowyn041084</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27091904": {
+        "pageid": 27091904,
+        "ns": 6,
+        "title": "File:The Shannon Portrait of the Hon Robert Boyle.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27091904",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-04-01 17:44:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<i>The Shannon Portrait of the Hon. Robert Boyle F. R. S. (1627-1691)</i>.",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Robert Boyle|Images from the Science History Institute|Johann Kerseboom|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|Pages with complex technique templates|CC-PD-Mark|Artworks with accession number from Wikidata|17th-century portrait paintings in the United States|17th-century oil portraits of sitting men at three-quarter length|Alchemists in art|1689 oil on canvas paintings in the United States|Cravats in portrait paintings|Jabots in portrait paintings|Portrait paintings of sitting men with right arm resting on chair arm|Portrait paintings of men holding open books|Portrait paintings of sitting men with left hand holding books on tables|1689 portrait paintings of men|Museum collections, Science History Institute|17th-century portrait paintings with red drapery|1680s furniture in art|Artworks digital representation of 2D work|Draped columns on pedestals in portrait paintings|Tablecloths in art|Portrait paintings of men with black allonge wigs|Art in the Science History Institute|Portraits, Science History Institute",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johann_Kerseboom\" class=\"extiw\" title=\"w:en:Johann Kerseboom\"><span title=\"German painter\">Johann Kerseboom</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p><a href=\"https://en.wikipedia.org/wiki/Robert_Boyle\" class=\"extiw\" title=\"w:Robert Boyle\">Robert Boyle</a> (1627–1691), an Irish-born English scientist, was an early supporter of the scientific method and founder of modern chemistry. Boyle is known for his pioneering experiments on the physical properties of gases, his authorship of the <i>Sceptical Chymist</i>, his role in creating the <a href=\"https://en.wikipedia.org/wiki/Royal_Society_of_London\" class=\"extiw\" title=\"w:Royal Society of London\">Royal Society of London</a>, and his philanthropy in the American colonies.\n</p>\nIn the painting, Boyle is shown in long curled wig, white neck cravat, and sleeves, and black coat; seated facing right with head turned three quarters left, looking out; turns page of book with left hand and gestures toward book with right; upholstered chair and tablecloth in silver brocade.</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1689 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q36688079#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://digital.sciencehistory.org/works/3r074v879\">https://digital.sciencehistory.org/works/3r074v879</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This file was provided to Wikimedia Commons by the <a href=\"https://en.wikipedia.org/wiki/Science_History_Institute\" class=\"extiw\" title=\"en:Science History Institute\">Science History Institute</a> as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:Science_History_Institute\" title=\"Commons:Science History Institute\">cooperation project</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

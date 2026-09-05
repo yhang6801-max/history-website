@@ -1,0 +1,262 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 3,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "36313129": {
+        "pageid": 36313129,
+        "ns": 6,
+        "title": "File:Dmitri Mendeleev. Photograph. Wellcome M0002600.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Dmitri_Mendeleev._Photograph._Wellcome_M0002600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dmitri_Mendeleev._Photograph._Wellcome_M0002600.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36313129",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-10-22 14:30:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nDmitri Mendeleev. Photograph.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with no machine-readable author|Images uploaded by Fæ|Artworks without Wikidata item|Files from Wellcome Images|Portrait photographs of sitting men at three-quarter length|Portraits in the Wellcome Collection|Portrait photographs of Dmitri Mendeleev",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Dmitri Mendeleev. Photograph.\n</p>\n<p>Iconographic Collections</p></div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/e1/79/4834f6faadb407e94425cdc5cedd.jpg\">https://wellcomeimages.org/indexplus/obf_images/e1/79/4834f6faadb407e94425cdc5cedd.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/M0002600.html\">https://wellcomeimages.org/indexplus/image/M0002600.html</a></li>\n<li>Wellcome Collection gallery (2018-03-29): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/pd3rcn7v\">https://wellcomecollection.org/works/pd3rcn7v</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "32692107": {
+        "pageid": 32692107,
+        "ns": 6,
+        "title": "File:Dmitri Mendeleev.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dmitri_Mendeleev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dmitri_Mendeleev.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32692107",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-25 18:20:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dmitri Mendeleev",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images with extracted images|PD-anon-expired|Template Unknown (author)|Portrait photographs of bearded men|Portrait photographs of Dmitri Mendeleev|Template Unknown (source)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "드미트리 멘델레예프(1834~1907), 주기율표를 처음 발견하였다.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "10 May 2014, 12:44:43 (upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<ul><li><b>Original: </b> Unknown author<span style=\"display: none;\">Unknown author</span></li>\n<li><b>Upload: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:Germansociety2014&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Germansociety2014 (page does not exist)\">Germansociety2014</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "58273409": {
+        "pageid": 58273409,
+        "ns": 6,
+        "title": "File:Dmitri Mendeleev 1890s.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dmitri_Mendeleev_1890s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dmitri_Mendeleev_1890s.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58273409",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-04-24 05:29:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dmitri Mendeleev 1890s",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-RusEmpire|Template Unknown (author)|Portrait photographs of Dmitri Mendeleev",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Dmitri Mendeleev, Frontispiece from \"Fundamentals of Chemistry\" (1897)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1890s<div style=\"display: none;\">date QS:P,+1890-00-00T00:00:00Z/8</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.runivers.ru/Runivers/calendar2.php?ID=394291&amp;month=&amp;year=\">[1]</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.gettyimages.co.uk/detail/news-photo/portrait-of-the-russian-chemist-dmitrij-ivanovic-mendeleev-news-photo/141553128#portrait-of-the-russian-chemist-dmitrij-ivanovic-mendeleev-1900s-picture-id141553128\">[2]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description=[[w:Srinivasa Ramanujan|Srinivasa Ramanujan]]
+|date={{other date|<|1920}}
+|source=[[:File:Srinivasa_Ramanujan_-_OPC_-_1.jpg|Oberwolfach Photo Collection]]
+|author={{unknown|author}}
+|permission=
+|other versions= {{Retouched picture |orig=File:Srinivasa Ramanujan - OPC - 1.jpg}}
+}}
+
+
+=={{int:license-header}}==
+{{PD-US-expired}}
+
+[[Category:Srinivasa Ramanujan]]
+[[Category:Black and white portrait photographs of male scientists]]

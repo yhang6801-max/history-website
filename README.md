@@ -70,3 +70,12 @@ For each new person, prefer a real photograph from Wikimedia Commons when one ex
 Before downloading, check the Commons file description for the actual creator, original source, license or public-domain basis, and required credits (including restorers). Do not infer rights from the subject, age, or uploader. Record the file-page URL, rights information, credits, and actual edits in `imageAttribution`. Review both the source and processed image. Use limited download retries and try another suitable source before changing the image tool.
 
 Image discovery, rights verification, biography research, and data entry are separate editorial steps; `prepare-person-image` only processes an input image.
+
+## Language support / 中英文试点
+
+The public UI and all 40 biographies support English and Simplified Chinese. English is the first-visit default, and the browser remembers language choices. New people must be prepared in both languages; incomplete translations safely fall back to English with a notice.
+
+See [双语内容维护与验收说明](docs/bilingual-pilot.md) for data organization, preview and acceptance steps. Run `npm run test:language` with Node 24 for language data checks.
+
+
+当前40人：霍金、甘地、丘吉尔、斯大林分别位于12、13、15、23位，费马保留第14位。图片署名在人物详情页统一展示。[本轮验收与逐图依据](docs/four-person-replacement/README.md)。后续扩充名单待另行安排。

@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{zh-hans|1=祖冲之铜像。}}
+|date=2016-12-31 14:44:48
+|source={{own}}
+|author=[[User:三猎|三猎]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Collections of ChaoTianGong]]
+[[Category:Bronze statues in Jiangsu]]
+[[Category:Zu Chongzhi]]

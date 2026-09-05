@@ -1,0 +1,37 @@
+=={{int:filedesc}}==
+{{Artwork
+|wikidata         = Q36688079
+|title            = {{en|''The Shannon Portrait of the Hon. Robert Boyle F. R. S. (1627-1691)''.}}
+|description      = {{w|Robert Boyle}} (1627–1691), an Irish-born English scientist, was an early supporter of the scientific method and founder of modern chemistry. Boyle is known for his pioneering experiments on the physical properties of gases, his authorship of the ''Sceptical Chymist'', his role in creating the {{w|Royal Society of London}}, and his philanthropy in the American colonies.
+
+In the painting, Boyle is shown in long curled wig, white neck cravat, and sleeves, and black coat; seated facing right with head turned three quarters left, looking out; turns page of book with left hand and gestures toward book with right; upholstered chair and tablecloth in silver brocade.
+|object history   =  <!-- preferred practice of the FA archivist is to NOT include this -->
+|notes            = Image downloaded with permission from the Science History Institute, as part of the {{w|Wikipedian in Residence}} initiative.
+|source           = https://digital.sciencehistory.org/works/3r074v879
+|permission       = {{Science History Institute-cooperation}} {{Licensed-PD-Art|PD-old-100-1923|cc-by-3.0|attribution=Science History Institute}}
+|other versions   = 
+}}
+=={{int:license-header}}==
+{{PD-Art-old-100-1923}}
+
+
+[[Category:Johann Kerseboom]]
+[[Category:Robert Boyle|*kerseboom]]
+[[Category:Museum collections, Science History Institute]]
+[[Category:Art in the Science History Institute]]
+[[Category:1689 oil on canvas paintings in the United States|P]]
+[[Category:1689 portrait paintings of men]]
+[[Category:17th-century oil portraits of sitting men at three-quarter length|1689]]
+[[Category:17th-century portrait paintings in the United States|1689]]
+[[Category:Alchemists in art]]
+[[Category:Draped columns on pedestals in portrait paintings|1689]]
+[[Category:Jabots in portrait paintings|1689]]
+[[Category:Portrait paintings of men holding open books|1689]]
+[[Category:Portrait paintings of men with black allonge wigs|1689]]
+[[Category:Portrait paintings of sitting men with left hand holding books on tables|1689]]
+[[Category:Portrait paintings of sitting men with right arm resting on chair arm|1689]]
+[[Category:Portraits, Science History Institute]]
+[[Category:17th-century portrait paintings with red drapery|1689]]
+[[Category:Tablecloths in art]]
+[[Category:1680s furniture in art]]
+[[Category:Cravats in portrait paintings]]

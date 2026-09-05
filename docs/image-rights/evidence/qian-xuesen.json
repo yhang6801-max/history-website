@@ -1,0 +1,119 @@
+{
+  "id": "qian-xuesen",
+  "retrievedAt": "2026-09-05T00:39:49.1103550+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hsue-shen_Tsien_at_his_deportation_hearing_(cropped).jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AHsue-shen_Tsien_at_his_deportation_hearing_%28cropped%29.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Hsue-shen_Tsien_at_his_deportation_hearing_(cropped).jpg",
+          "to": "File:Hsue-shen Tsien at his deportation hearing (cropped).jpg"
+        }
+      ],
+      "pages": {
+        "133992562": {
+          "pageid": 133992562,
+          "ns": 6,
+          "title": "File:Hsue-shen Tsien at his deportation hearing (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hsue-shen_Tsien_at_his_deportation_hearing_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hsue-shen_Tsien_at_his_deportation_hearing_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133992562",
+              "sha1": "451ff3dbf98896c72684f4284e3e2fe6f686d162",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-07-05 19:04:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hsue-shen Tsien at his deportation hearing (cropped)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Deportation|Qian Xuesen|Extracted images|Los Angeles Times, 1950|Los Angeles Times Photographic Collection at UCLA",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Deportation hearing for California Institute of Technology scientist, Dr. Hsue-shen Tsien. Original caption: RED ISSUE—Scene at Department of Immigration hearing to determine whether Dr. Hsue-shen Tsien, Caltech scientist, should be deported as an alien belonging to the Communist Party. Others, from left, are Grant B. Cooper, Dr. Tsien's attorney; a hearing reporter, Albert Del Guercio, examining officer, and Ray Waddell, hearing officer.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1950-11-16",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://digital.library.ucla.edu/catalog/ark:/21198/zz0002r6xw\">https://digital.library.ucla.edu/catalog/ark:/21198/zz0002r6xw</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Los Angeles Times",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Deportation hearing for California Institute of Technology scientist, Dr. Hsue-shen Tsien. Original caption: RED ISSUE&mdash;Scene at Department of Immigration hearing to determine whether Dr. Hsue-shen Tsien, Caltech scientist, should be deported as an alien belonging to the Communist Party. Others, from left, are Grant B. Cooper, Dr. Tsien's attorney; a hearing reporter, Albert Del Guercio, examining officer, and Ray Waddell, hearing officer.}}\n|date=1950-11-16\n|source=https://digital.library.ucla.edu/catalog/ark:/21198/zz0002r6xw\n|author=Los Angeles Times\n|permission=\n|other versions={{Extracted from|1=Hsue-shen Tsien at his deportation hearing.jpg}}\n}}\n\n=={{int:license-header}}==\n{{LATimes UCLA}}\n\n[[Category:Qian Xuesen]]\n[[Category:Los Angeles Times, 1950]]\n[[Category:Deportation]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

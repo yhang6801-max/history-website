@@ -1,0 +1,36 @@
+=={{int:filedesc}}==
+{{Artwork
+|artist             =
+|author             =
+|title              = Dmitri Mendeleev. Photograph.
+|description        = Dmitri Mendeleev. Photograph.
+<p>Iconographic Collections
+|date               =
+|medium             =
+|dimensions         =
+|institution        =
+|department         =
+|references         = 
+* Library reference: ICV No 26572
+* Photo number: M0002600
+* Full Bibliographic Record: http://catalogue.wellcomelibrary.org/record=b1160642
+|object history     =
+|exhibition history =
+|credit line        = {{Wellcome Images}}
+|other_versions     =
+|source             = https://wellcomeimages.org/indexplus/obf_images/e1/79/4834f6faadb407e94425cdc5cedd.jpg
+* Gallery: https://wellcomeimages.org/indexplus/image/M0002600.html
+* Wellcome Collection gallery (2018-03-29): https://wellcomecollection.org/works/pd3rcn7v [https://creativecommons.org/licenses/by/4.0/ CC-BY-4.0]
+|inscriptions       =
+|notes              =
+|permission         =
+|accession number   =
+}}
+
+=={{int:license-header}}==
+{{cc-by-4.0}}
+
+[[Category:Images uploaded by Fæ|Wellcome M0002600.jpg]]
+[[Category:Portrait photographs of Dmitri Mendeleev]]
+[[Category:Portraits in the Wellcome Collection]]
+[[Category:Portrait photographs of sitting men at three-quarter length]]

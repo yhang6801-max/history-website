@@ -1,0 +1,14 @@
+{{information
+| Description =
+{{de|[[:de:Stephen Hawking|Stephen Hawking]], bei der [[:de:NASA|NASA]]}}
+{{en|NASA StarChild image of [[:en:Stephen Hawking|Stephen Hawking]], the cosmologist and divulging scientist, who was elected a member of the  [[:en:Royal Society|Royal Society]] in 1974.}}
+{{es|El cosmólogo y divulgador científico [[:es:Stephen Hawking|Stephen Hawking]] fue elegido miembro de la [[:es:Royal Society|Royal Society]] en 1974.}}
+| Source = [http://starchild.gsfc.nasa.gov/Images/StarChild/scientists/hawking.jpg Original]. [http://starchild.gsfc.nasa.gov/docs/StarChild/StarChild.html Source] (StarChild Learning Center). {{wayback|http://starchild.gsfc.nasa.gov/images/StarChild/scientists/|Archived directory listing|20110616061515}}.
+| Date = ≈ 1980 (photograph), 1999-01-03 (file's timestamp at starchild.gsfc.nasa.gov)
+| Author = [[w:NASA|NASA]]
+| Permission = {{PD-USGov-NASA}}
+| other versions = {{Image extracted|1=Stephen Hawking.StarChild (cropped).jpg}} Colorized version: [[:File:Stephen Hawking.StarChild colorized.jpg|Stephen Hawking.StarChild colorized.jpg]]
+}}
+
+[[Category:Files of Stephen Hawking with unknown dates]]
+[[Category:Men smiling]]

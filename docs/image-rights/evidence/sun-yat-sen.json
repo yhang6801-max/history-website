@@ -1,0 +1,117 @@
+{
+  "id": "sun-yat-sen",
+  "retrievedAt": "2026-09-05T00:36:36.9670149+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:孙中山肖像.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3A%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2024-03-17T06:36:49Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "pages": {
+        "2109692": {
+          "pageid": 2109692,
+          "ns": 6,
+          "title": "File:孙中山肖像.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2109692",
+              "sha1": "fabe4bf1243a6bfb72700b6bec8c8cd1403aa7ea",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-03-17 07:04:01",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "孙中山肖像",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD China|PD US expired|Portraits of Sun Yat-sen",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Portrait of Sun Yat-sen",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1922年11月15日",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "孙中山纪念馆 <a rel=\"nofollow\" class=\"external free\" href=\"http://cyc7.cycnet.com:8091/leaders/szs/content.jsp?id=6936&amp;s_code=1103\">http://cyc7.cycnet.com:8091/leaders/szs/content.jsp?id=6936&amp;s_code=1103</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "上海波尔照相馆",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "Public domain works must be out of copyright in both the United States and in the source country of the work in order to be hosted on the Commons. If the work is not a U.S. work, the file <b>must</b> have an additional <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags\" title=\"Commons:Copyright tags\">copyright tag</a> indicating the copyright status in the source country.<br><b>Note:</b> This tag should <i>not</i> be used for sound recordings.<span style=\"display:none;\"><span class=\"licensetpl_short\">PD-1923</span><span class=\"licensetpl_long\"><a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">Public domain</a> in the United States</span><span class=\"licensetpl_link\">//commons.wikimedia.org/wiki/File:%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg</span></span>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "{{Information\n|Description= 本图为1922年11月15日，孙中山在上海波尔照相馆拍摄的肖像照，也是广为使用的孙中山标准像。\n{{en|1=Portrait of Sun Yat-sen}}\n{{zh-cn|1=孙中山标准像}}\n|Source= 孙中山纪念馆 http://cyc7.cycnet.com:8091/leaders/szs/content.jsp?id=6936&s_code=1103\n|Date=1922年11月15日\n|Author= 上海波尔照相馆\n|Permission= {{PD-China}} {{PD-US-expired}}\n|other_versions=\n}}\n[[Category:Portraits of Sun Yat-sen]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

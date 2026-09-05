@@ -9,7 +9,8 @@
     "lint": "oxlint",
     "prepare-person-image": "node scripts/prepare-person-image.mjs",
     "preview": "vite preview",
-    "test:prepare-person-image": "node --test test/prepare-person-image.test.mjs"
+    "test:prepare-person-image": "node --test test/prepare-person-image.test.mjs",
+    "test:language": "node --test test/language.test.mjs"
   },
   "dependencies": {
     "react": "^19.2.8",

@@ -1,0 +1,17 @@
+
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Copy passport photograph of Srinivasa Ramanujan}}
+|date=1913
+|source=https://mss-cat.trin.cam.ac.uk/manuscripts/uv/view.php?n=Add.Ms.a.94.7#?c=0&m=0&s=0&cv=1&xywh=-2607%2C-3%2C8685%2C4700
+|author={{unknown|author}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-UK-unknown}}
+
+
+[[Category:Srinivasa Ramanujan]]
+[[Category:Fellows of Trinity College, Cambridge]]

@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Artwork
+|wikidata=Q132559242
+| Description = Qufu, Shandong Province. Complete indexed photo collection at WorldHistoryPics.com.
+| Source      = [https://www.flickr.com/photos/101561334@N08/13044335945/ Confucius Portrait, Kongzi (Confucius) Family Mansion, Qufu]<br>{{taken by|[https://www.flickr.com/people/101561334@N08 Gary Todd] from Xinzheng, China}}
+| Date        = {{taken on|2014-03-09 08:55}}
+| other_versions=<gallery>
+File:Cropped version of Confucius Portrait, Kongzi (Confucius) Family Mansion, Qufu (13044335945).jpg
+孔子燕居像.jpg
+</gallery>
+}}
+{{Location dec|35.597486|116.985920|source:Flickr}}
+
+=={{int:license-header}}==
+{{cc-zero}}
+{{FlickreviewR|status=passed|author=Gary Lee Todd, Ph.D.|sourceurl=https://flickr.com/photos/101561334@N08/13044335945|archive=|reviewdate=2024-04-13 13:55:46|reviewlicense=cc-zero|reviewer=FlickreviewR 2}}
+[[Category:Kong Family Mansion]]
+[[Category:Portrait paintings of Confucius in the Confucius Museum]]

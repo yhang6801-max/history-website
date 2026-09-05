@@ -1,0 +1,30 @@
+== {{int:filedesc}} ==
+{{BArch-image
+|wiki description =
+|short title      = Max Planck
+|archive title    = Aufnahme ca. 1918 (lt. Bildbeschreibung Bundesarchiv)
+|original title   = Scherl Bilderdienst:<br/>
+Berliner Nobelpreisträger. Professor Dr. Max Planck erhielt den Nobelpreis 1918 für Chemie<br/>
+<br/>
+ADN-ZB<br/>
+Planck, Max<br/>
+theoretischer Physiker, geb. 23.4.1858 in Kiel, gest. 4.10.1947 in Göttingen, seit 1885 Professor in Kiel, seit 1889 in Berlin, 1930/37 Präsident der Kaiser-Wilhelm-Gesellschaft zur Förderung der Wissenschaften. Er erhielt 1918 den Nobelpreis.<br/>
+21015-01
+|biased           = <!-- if the original description text is biased, write here why! -->
+|depicted people  = 
+* [[:de:Max Planck|Planck, Max Karl Ernst Ludwig Prof. Dr.]]: Physiker, Kaiser-Wilhelm-Gesellschaft, Nobelpreis für Physik 1918, Deutschland  ({{PND-link|118594818|118594818}})
+|depicted place   =
+|photographer     = {{unknown|author}}
+|date             = 1901 (fraglich, siehe Diskussionsseite)
+|year             = 1901
+|ID               = Bild 183-R0116-504
+|inventory        = Bild 183
+|other versions   = 
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0-de|attribution=Bundesarchiv, Bild 183-R0116-504 / CC-BY-SA 3.0}}
+
+[[Category:Max Planck|1927]]
+[[Category:Black and white portrait photographs of male scientists]]
+[[Category:People of Germany in 1901]]

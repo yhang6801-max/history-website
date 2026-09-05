@@ -1,0 +1,118 @@
+{
+  "id": "niels-bohr",
+  "retrievedAt": "2026-09-05T00:34:13.0217668+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3ANiels_Bohr.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2011-10-22T23:16:09Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Niels_Bohr.jpg",
+          "to": "File:Niels Bohr.jpg"
+        }
+      ],
+      "pages": {
+        "288274": {
+          "pageid": 288274,
+          "ns": 6,
+          "title": "File:Niels Bohr.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Niels_Bohr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=288274",
+              "sha1": "8ea6b3b58e6de0f489e744054c6bd5f7957bc3f1",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-07-26 22:11:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Niels Bohr",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Niels Bohr|PD Sweden|PD US expired|Black and white portrait photographs of male scientists|PD-old missing SDC copyright status|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/Niels_Bohr\" class=\"extiw\" title=\"en:Niels Bohr\">Niels Bohr</a>, physicist.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 1922<div style=\"display: none;\">date QS:P,+1922-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Niels Bohr's <a rel=\"nofollow\" class=\"external text\" href=\"http://nobelprize.org/physics/laureates/1922/bohr-bio.html\">Nobel Prize biography</a>, from 1922",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "The American Institute of Physics credits the photo <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://photos.aip.org/quickSearch.jsp?qsearch=Lagrelius+&amp;group=10&amp;Submit=GO\">[1]</a> to <a rel=\"nofollow\" class=\"external text\" href=\"http://www.tremil.se/pls/hborg/rigby.VisaObjekt?pin_masidn=319177\">AB Lagrelius &amp; Westphal</a>, which is the Swedish company used by the Nobel Foundation for most photos of its book series <i>Les Prix Nobel</i>.",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{information\n|description={{en|[[:en:Niels Bohr|Niels Bohr]], physicist.}}{{cs|{{Wc|Niels Bohr}}, fyzik.}}\n|author=The American Institute of Physics credits the photo [http://photos.aip.org/quickSearch.jsp?qsearch=Lagrelius+&group=10&Submit=GO] to [http://www.tremil.se/pls/hborg/rigby.VisaObjekt?pin_masidn=319177 AB Lagrelius & Westphal], which is the Swedish company used by the Nobel Foundation for most photos of its book series ''Les Prix Nobel''.\n|source=Niels Bohr's [http://nobelprize.org/physics/laureates/1922/bohr-bio.html Nobel Prize biography], from 1922\n|date={{other date|~|1922}}\n}}\n\n== {{int:license-header}} == {{PD-Sweden-photo}}{{PD-US-expired}}\n\n[[Category:Niels Bohr]]\n[[Category:Black and white portrait photographs of male scientists]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+=={{int:filedesc}}==
+{{Artwork
+|artist             =
+|author             =
+|title              = Euclid
+|description        = Euclid
+<p>Wellcome Images</p>
+Keywords: Euclid; mathematician, greek
+|date               =
+|medium             =
+|dimensions         =
+|institution        =
+|department         =
+|references         = 
+* Photo number: M0004267
+|object history     =
+|exhibition history =
+|credit line        = {{Wellcome Images}}
+|other_versions     =
+|source             = https://wellcomeimages.org/indexplus/obf_images/41/2d/9dcf8eb812d1eadd5de16cdfa941.jpg
+* Gallery: https://wellcomeimages.org/indexplus/image/M0004267.html
+* Wellcome Collection gallery (2018-03-29): https://wellcomecollection.org/works/yv4nzh83 [https://creativecommons.org/licenses/by/4.0/ CC-BY-4.0]
+|inscriptions       =
+|notes              =
+|permission         =
+|accession number   =
+}}
+
+=={{int:license-header}}==
+{{cc-by-4.0}}
+
+[[Category:Images uploaded by Fæ|Wellcome M0004267.jpg]]
+
+[[Category:Portraits of Euclid]]
+[[Category:Portraits in the Wellcome Collection]]

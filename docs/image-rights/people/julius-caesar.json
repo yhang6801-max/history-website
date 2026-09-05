@@ -1,0 +1,36 @@
+{
+  "id": "julius-caesar",
+  "person": "尤利乌斯·恺撒",
+  "localFile": "src/assets/people/julius-caesar.webp",
+  "localSha256": "ea1825d94ad776c0db1af74c2b8dd000a43f3b680389279158fd49a707e7ff81",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre_MR1798.jpg",
+  "sourceEvidenceFile": "docs/image-review/evidence/caesar-coustou-rights.txt",
+  "sourceEvidenceSha256": "d12f0a03d99cab45bfde9c14a6fed148b30c39dccdaffb72bf20d79c96f6837a",
+  "additionalPrimarySources": [
+    "https://collections.louvre.fr/ark:/53355/cl010091988"
+  ],
+  "workType": "后世纪念雕塑及独立摄影",
+  "creator": "Nicolas Coustou (sculpture); Marie-Lan Nguyen / Jastrow (photograph, 2006)",
+  "creationDate": "雕塑 1696—1722；Nicolas Coustou（1733 年卒）；照片 Marie-Lan Nguyen，2006",
+  "licenseName": "Public-domain sculpture; PD-self (photograph)",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+  "sourceSupports": "卢浮宫 MR 1798 原页确认雕塑与作者，并给出 1722 铭文；Commons source=Marie-Lan Nguyen(2006)，许可 PD-self。",
+  "originalAndDigitalRights": "雕塑作者期限届满；摄影者另行作 PD-self 贡献及允许广泛使用的声明。不是依据照片里人物是恺撒就宣称照片公共领域。",
+  "requiredUseConditions": "依来源列明的公有领域、期限或专门权利依据；PDM 本身不是新授权。虽未统一要求署名，本站仍保留原题、作者、来源、状态链接及实际修改。",
+  "siteImplementation": {
+    "title": "Jules César",
+    "credit": null,
+    "author": "Nicolas Coustou (sculpture); Marie-Lan Nguyen / Jastrow (photograph, 2006)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "changes": "Cropped from the full sculpture photograph, resized to 900 × 1200, and converted to WebP.",
+    "homepageCreditLink": "/people/julius-caesar#image-credits",
+    "detailsAnchor": "image-credits",
+    "adaptationNotice": false
+  },
+  "beforeStatus": "按列明依据使用；本轮重新复核并补全记录",
+  "currentStatus": "依据明确，网站已满足使用条件（限本记录所列依据及当前用途）",
+  "limits": "旧 Wilfredor 2024 胸像照片的 CC0 只解决摄影层，雕塑具体制作依据未充分建立，已停用。新照片没有沿用旧 CC0 名称。",
+  "visualReview": "未完成；现有本地图片查看工具沙箱初始化失败，不能宣称裁切通过",
+  "reviewedAt": "2026-09-05",
+  "verifiedImplementation": "2026-09-05 浏览器验证：标题、作者、指定署名、许可及来源链接、双语修改说明；首页链接直达此图署名区。"
+}

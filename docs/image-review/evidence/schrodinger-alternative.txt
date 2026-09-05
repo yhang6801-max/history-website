@@ -1,0 +1,13 @@
+{{Information
+|Description={{en|1=Erwin Schrödinger}}
+|Source=http://nobelprize.org/nobel_prizes/physics/laureates/1933/schrodinger-bio.html
+|Author=Nobel foundation
+|Date=1933
+|Permission={{PD-Sweden-photo}}
+|other_versions=
+}}
+
+[[Category:Erwin Schrödinger|1933]]
+[[Category:Black and white portrait photographs of male scientists]]
+[[Category:Scientists in 1933]]
+[[Category:Dublin Institute for Advanced Studies]]

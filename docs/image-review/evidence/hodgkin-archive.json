@@ -1,0 +1,506 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "147415589": {
+        "pageid": 147415589,
+        "ns": 6,
+        "title": "File:20. Tagung 1970 Chemiker; Maikäferrede Dorothy Hodgkin, Harold C. Urey - W134Nr.092470e - Willy Pragher.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/20._Tagung_1970_Chemiker%3B_Maik%C3%A4ferrede_Dorothy_Hodgkin%2C_Harold_C._Urey_-_W134Nr.092470e_-_Willy_Pragher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:20._Tagung_1970_Chemiker;_Maik%C3%A4ferrede_Dorothy_Hodgkin,_Harold_C._Urey_-_W134Nr.092470e_-_Willy_Pragher.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147415589",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-15 20:10:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n20. Tagung 1970 Chemiker; Maikäferrede: Dorothy Hodgkin, Harold C. Urey</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Dorothy Hodgkin|Harold Urey|1970 Photographs by Willy Pragher of Nobel Laureates",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q2571685\" class=\"extiw\" title=\"d:Q2571685\"><span title=\"German photographer (1908–1992)\">Willy Pragher</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Photograph by Willy Pragher",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1970<div style=\"display: none;\">date QS:P571,+1970-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/plink/?f=5-678337-1\">Landesarchiv Baden-Württemberg, Abt. Staatsarchiv Freiburg, W 134 Nr. 092470e</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/de/recherche/rechtsgrundlagen---nutzungsbedingungen/auf-einen-blick/46047\">Nutzungsbedingungen</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Landesarchiv Baden-Württemberg, Fotograf: Willy Pragher",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147415564": {
+        "pageid": 147415564,
+        "ns": 6,
+        "title": "File:33. Tagung 1983 Chemiker Dorothy Hodgkin - W134Nr.120813b - Willy Pragher.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/33._Tagung_1983_Chemiker_Dorothy_Hodgkin_-_W134Nr.120813b_-_Willy_Pragher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:33._Tagung_1983_Chemiker_Dorothy_Hodgkin_-_W134Nr.120813b_-_Willy_Pragher.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147415564",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-15 20:10:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n33. Tagung 1983 Chemiker: Dorothy Hodgkin</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Dorothy Hodgkin|1983 Photographs by Willy Pragher of Nobel Laureates",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q2571685\" class=\"extiw\" title=\"d:Q2571685\"><span title=\"German photographer (1908–1992)\">Willy Pragher</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Photograph by Willy Pragher",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1983<div style=\"display: none;\">date QS:P571,+1983-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/plink/?f=5-707789-1\">Landesarchiv Baden-Württemberg, Abt. Staatsarchiv Freiburg, W 134 Nr. 120813b</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/de/recherche/rechtsgrundlagen---nutzungsbedingungen/auf-einen-blick/46047\">Nutzungsbedingungen</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Landesarchiv Baden-Württemberg, Fotograf: Willy Pragher",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147415572": {
+        "pageid": 147415572,
+        "ns": 6,
+        "title": "File:33. Tagung 1983 Chemiker Dorothy Hodgkin - W134Nr.120813c - Willy Pragher.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/33._Tagung_1983_Chemiker_Dorothy_Hodgkin_-_W134Nr.120813c_-_Willy_Pragher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:33._Tagung_1983_Chemiker_Dorothy_Hodgkin_-_W134Nr.120813c_-_Willy_Pragher.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147415572",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-15 20:10:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n33. Tagung 1983 Chemiker: Dorothy Hodgkin</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Dorothy Hodgkin|1983 Photographs by Willy Pragher of Nobel Laureates",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q2571685\" class=\"extiw\" title=\"d:Q2571685\"><span title=\"German photographer (1908–1992)\">Willy Pragher</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Photograph by Willy Pragher",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1983<div style=\"display: none;\">date QS:P571,+1983-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/plink/?f=5-707790-1\">Landesarchiv Baden-Württemberg, Abt. Staatsarchiv Freiburg, W 134 Nr. 120813c</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/de/recherche/rechtsgrundlagen---nutzungsbedingungen/auf-einen-blick/46047\">Nutzungsbedingungen</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Landesarchiv Baden-Württemberg, Fotograf: Willy Pragher",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147415581": {
+        "pageid": 147415581,
+        "ns": 6,
+        "title": "File:33. Tagung 1983 Chemiker Pressekonferenz mit Linus C. Pauling, Christian Anfinsen, Dorothy Hodgkin, Walter Gilbert, Sir Derek H. R. Barton - W134Nr.120817b - Willy Pragher.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/33._Tagung_1983_Chemiker_Pressekonferenz_mit_Linus_C._Pauling%2C_Christian_Anfinsen%2C_Dorothy_Hodgkin%2C_Walter_Gilbert%2C_Sir_Derek_H._R._Barton_-_W134Nr.120817b_-_Willy_Pragher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:33._Tagung_1983_Chemiker_Pressekonferenz_mit_Linus_C._Pauling,_Christian_Anfinsen,_Dorothy_Hodgkin,_Walter_Gilbert,_Sir_Derek_H._R._Barton_-_W134Nr.120817b_-_Willy_Pragher.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147415581",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-15 20:10:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n33. Tagung 1983 Chemiker: Pressekonferenz mit Linus C. Pauling, Christian Anfinsen, Dorothy Hodgkin, Walter Gilbert, Sir Derek H. R. Barton</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Linus Pauling|Walter Gilbert (biochemist)|Christian B. Anfinsen|Dorothy Hodgkin|Derek Barton|1983 Photographs by Willy Pragher of Nobel Laureates",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q2571685\" class=\"extiw\" title=\"d:Q2571685\"><span title=\"German photographer (1908–1992)\">Willy Pragher</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Photograph by Willy Pragher",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1983<div style=\"display: none;\">date QS:P571,+1983-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/plink/?f=5-707808-1\">Landesarchiv Baden-Württemberg, Abt. Staatsarchiv Freiburg, W 134 Nr. 120817b</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/de/recherche/rechtsgrundlagen---nutzungsbedingungen/auf-einen-blick/46047\">Nutzungsbedingungen</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Landesarchiv Baden-Württemberg, Fotograf: Willy Pragher",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "144382441": {
+        "pageid": 144382441,
+        "ns": 6,
+        "title": "File:36. Tagung 1986 Chemiker; Pressekonferenz Herbert C. Brown, Herbert A. Hauptmann, Dorothy Hodgkin, Gerhard Herzberg - W134Nr.125220 - Willy Pragher.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/36._Tagung_1986_Chemiker%3B_Pressekonferenz_Herbert_C._Brown%2C_Herbert_A._Hauptmann%2C_Dorothy_Hodgkin%2C_Gerhard_Herzberg_-_W134Nr.125220_-_Willy_Pragher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:36._Tagung_1986_Chemiker;_Pressekonferenz_Herbert_C._Brown,_Herbert_A._Hauptmann,_Dorothy_Hodgkin,_Gerhard_Herzberg_-_W134Nr.125220_-_Willy_Pragher.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144382441",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-21 21:57:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n36. Tagung 1986 Chemiker; Pressekonferenz: Herbert C. Brown, Herbert A. Hauptman, Dorothy Hodgkin, Gerhard Herzberg</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gerhard Herzberg|Herbert A. Hauptman|Dorothy Hodgkin|Herbert C. Brown|1986 Photographs by Willy Pragher of Nobel Laureates",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q2571685\" class=\"extiw\" title=\"d:Q2571685\"><span title=\"German photographer (1908–1992)\">Willy Pragher</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Photograph by Willy Pragher",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1986<div style=\"display: none;\">date QS:P571,+1986-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/plink/?f=5-709699-1\">Landesarchiv Baden-Württemberg, Abt. Staatsarchiv Freiburg, W 134 Nr. 125220</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/de/recherche/rechtsgrundlagen---nutzungsbedingungen/auf-einen-blick/46047\">Nutzungsbedingungen</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Landesarchiv Baden-Württemberg, Fotograf: Willy Pragher",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

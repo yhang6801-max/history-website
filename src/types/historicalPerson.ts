@@ -15,6 +15,8 @@ export interface HistoricalPersonSource {
 }
 
 export interface HistoricalPersonImageAttribution {
+  title?: string
+  credit?: string
   sourceUrl: string
   author: string
   authorUrl?: string
@@ -29,6 +31,9 @@ export interface HistoricalPerson {
   name: string
   image: string
   imageAttribution?: HistoricalPersonImageAttribution
+  // Used for an explicitly identified project placeholder, without fabricated attribution.
+  imageNotes?: string
+  imageChanges?: string
   lifespan: string
   summary: string
   sections: readonly HistoricalPersonSection[]

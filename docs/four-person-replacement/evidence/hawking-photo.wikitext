@@ -1,0 +1,18 @@
+== {{int:filedesc}} ==
+{{Information
+| Description = At the unveiling of the Corpus Clock: Professor Christopher Andrew (left), President of Corpus Christi College, Cambridge; Dr John Taylor (centre), an horologist and former student at Corpus Christi College, Cambridge; Professor Stephen Hawking (right)
+| Source      = [https://www.flickr.com/photos/arripay/2886233692/ relative time]
+| Date        = 2008-09-20 17:47
+| Author      = [https://www.flickr.com/people/27466406@N00 Tanya Hart]
+| Permission  = 
+| other_versions={{Image extracted|1=Relative time (2886233692) (John Taylor cropped).jpg|2=Relative time (2886233692) (Christopher Andrew cropped).jpg|3=Relative time (2886233692) (Stephen Hawking cropped).jpg}}
+}}
+{{Location dec|52.203806|0.117716|source:Flickr}}
+
+=={{int:license-header}}==
+{{cc-by-sa-2.0}}
+{{FlickreviewR|status=passed|author=arripay|sourceurl=https://flickr.com/photos/27466406@N00/2886233692|archive=|reviewdate=2020-07-12 09:33:43|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}
+[[Category:Stephen Hawking in 2008]]
+[[Category:Corpus Clock]]
+[[Category:Horologists]]
+[[Category:Inventors from the United Kingdom]]

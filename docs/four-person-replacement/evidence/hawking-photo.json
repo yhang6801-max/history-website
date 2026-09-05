@@ -1,0 +1,119 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "92156125": {
+        "pageid": 92156125,
+        "ns": 6,
+        "title": "File:Relative time (2886233692).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Relative_time_%282886233692%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Relative_time_(2886233692).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92156125",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-12 09:33:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Relative time (2886233692)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Inventors from the United Kingdom|Images with extracted images|Flickr images reviewed by FlickreviewR 2|Files with coordinates missing SDC location of creation (52° N, 0° E)|Stephen Hawking in 2008|Corpus Clock|Horologists",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.203806",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "0.117716",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "At the unveiling of the Corpus Clock: Professor Christopher Andrew (left), President of Corpus Christi College, Cambridge; Dr John Taylor (centre), an horologist and former student at Corpus Christi College, Cambridge; Professor Stephen Hawking (right)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-09-20 17:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/arripay/2886233692/\">relative time</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27466406@N00\">Tanya Hart</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ],
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "*": "== {{int:filedesc}} ==\n{{Information\n| Description = At the unveiling of the Corpus Clock: Professor Christopher Andrew (left), President of Corpus Christi College, Cambridge; Dr John Taylor (centre), an horologist and former student at Corpus Christi College, Cambridge; Professor Stephen Hawking (right)\n| Source      = [https://www.flickr.com/photos/arripay/2886233692/ relative time]\n| Date        = 2008-09-20 17:47\n| Author      = [https://www.flickr.com/people/27466406@N00 Tanya Hart]\n| Permission  = \n| other_versions={{Image extracted|1=Relative time (2886233692) (John Taylor cropped).jpg|2=Relative time (2886233692) (Christopher Andrew cropped).jpg|3=Relative time (2886233692) (Stephen Hawking cropped).jpg}}\n}}\n{{Location dec|52.203806|0.117716|source:Flickr}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=arripay|sourceurl=https://flickr.com/photos/27466406@N00/2886233692|archive=|reviewdate=2020-07-12 09:33:43|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n[[Category:Stephen Hawking in 2008]]\n[[Category:Corpus Clock]]\n[[Category:Horologists]]\n[[Category:Inventors from the United Kingdom]]"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "6886354": {
+        "pageid": 6886354,
+        "ns": 6,
+        "title": "File:Carl Friedrich Gauss 1840 by Jensen.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/960px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1223,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/960px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1223,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6886354",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-05-28 12:33:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Portrait of <a href=\"https://en.wikipedia.org/wiki/Carl_Friedrich_Gau%C3%9F\" class=\"extiw\" title=\"w:Carl Friedrich Gauß\">Carl Friedrich Gauß</a> (1777-1855)</i></div></div><div style=\"display: none;\">label QS:Len,\"Portrait of <a href=\"https://en.wikipedia.org/wiki/Carl_Friedrich_Gau%C3%9F\" class=\"extiw\" title=\"w:Carl Friedrich Gauß\">Carl Friedrich Gauß</a> (1777-1855)\"</div><div style=\"display: none;\">label QS:Lde,\"Bildnis des <a href=\"https://en.wikipedia.org/wiki/Carl_Friedrich_Gau%C3%9F\" class=\"extiw\" title=\"w:Carl Friedrich Gauß\">Carl Friedrich Gauß</a> (1777-1855)\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|PD-Art (PD-old-auto-expired)|19th-century portrait paintings of men, location missing|Artworks with Wikidata item|CC-PD-Mark|19th-century oil portraits of men at half length|1840 portrait paintings from Denmark|Scientists in 1840|1840 portrait paintings of men|Template Unknown (unspecified)|Artworks missing digital representation of for 2D work|Artworks with SDC link missing|Artworks with Wikidata item missing institution|Portraits of Carl Friedrich Gauß|Portrait paintings by Christian Albrecht Jensen|Physicists in art|Paintings of Astronomers",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Christian_Albrecht_Jensen\" class=\"extiw\" title=\"w:en:Christian Albrecht Jensen\"><span title=\"Danish portrait painter (1792-1870)\">Christian Albrecht Jensen</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Portrait of <a href=\"https://en.wikipedia.org/wiki/Carl_Friedrich_Gau%C3%9F\" class=\"extiw\" title=\"w:Carl Friedrich Gauß\">Carl Friedrich Gauß</a> (1777-1855)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1840<div style=\"display: none;\">date QS:P571,+1840-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://archiv.bbaw.de/archiv/archivbestaende/abteilung-sammlungen/gesamtbestand-des-kunstbesitzes/gelehrtengemaelde/gelehrtengemalde-seiten/ZIMM-0001.html\">http://archiv.bbaw.de/archiv/archivbestaende/abteilung-sammlungen/gesamtbestand-des-kunstbesitzes/gelehrtengemaelde/gelehrtengemalde-seiten/ZIMM-0001.html</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

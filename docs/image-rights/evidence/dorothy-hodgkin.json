@@ -1,0 +1,129 @@
+{
+  "id": "dorothy-hodgkin",
+  "retrievedAt": "2026-09-05T00:35:11.5268854+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:33._Tagung_1983_Chemiker_Dorothy_Hodgkin_-_W134Nr.120813b_-_Willy_Pragher.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3A33._Tagung_1983_Chemiker_Dorothy_Hodgkin_-_W134Nr.120813b_-_Willy_Pragher.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:33._Tagung_1983_Chemiker_Dorothy_Hodgkin_-_W134Nr.120813b_-_Willy_Pragher.jpg",
+          "to": "File:33. Tagung 1983 Chemiker Dorothy Hodgkin - W134Nr.120813b - Willy Pragher.jpg"
+        }
+      ],
+      "pages": {
+        "147415564": {
+          "pageid": 147415564,
+          "ns": 6,
+          "title": "File:33. Tagung 1983 Chemiker Dorothy Hodgkin - W134Nr.120813b - Willy Pragher.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/33._Tagung_1983_Chemiker_Dorothy_Hodgkin_-_W134Nr.120813b_-_Willy_Pragher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:33._Tagung_1983_Chemiker_Dorothy_Hodgkin_-_W134Nr.120813b_-_Willy_Pragher.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147415564",
+              "sha1": "5f4ac73cf63722270a2742465784a97d0bc418ba",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-04-15 20:10:12",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n33. Tagung 1983 Chemiker: Dorothy Hodgkin</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Dorothy Hodgkin|1983 Photographs by Willy Pragher of Nobel Laureates",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q2571685\" class=\"extiw\" title=\"d:Q2571685\"><span title=\"German photographer (1908–1992)\">Willy Pragher</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Photograph by Willy Pragher",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1983<div style=\"display: none;\">date QS:P571,+1983-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/plink/?f=5-707789-1\">Landesarchiv Baden-Württemberg, Abt. Staatsarchiv Freiburg, W 134 Nr. 120813b</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.landesarchiv-bw.de/de/recherche/rechtsgrundlagen---nutzungsbedingungen/auf-einen-blick/46047\">Nutzungsbedingungen</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0 de",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0 de",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Landesarchiv Baden-Württemberg, Fotograf: Willy Pragher",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-3.0-de",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Photograph\n|photographer={{Creator:Willy Pragher}}\n|title=33. Tagung 1983 Chemiker: Dorothy Hodgkin\n|description={{en|1=Photograph by Willy Pragher}}\n{{de|1=Foto von Willy Pragher}}\n|date=1983\n|source=[https://www.landesarchiv-bw.de/plink/?f=5-707789-1 Landesarchiv Baden-Württemberg, Abt. Staatsarchiv Freiburg, W 134 Nr. 120813b]\n|permission={{de|1=[https://www.landesarchiv-bw.de/de/recherche/rechtsgrundlagen---nutzungsbedingungen/auf-einen-blick/46047 Nutzungsbedingungen]}}\n|other versions=\n}}\n=={{int:license-header}}==\n{{cc-by-3.0-de|Landesarchiv Baden-Württemberg, Fotograf: Willy Pragher}}\n\n            \n[[Category:Dorothy Hodgkin]]\n[[Category:1983 Photographs by Willy Pragher of Nobel Laureates]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

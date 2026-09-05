@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Emperor Wu of Han in Sancai Tuhui by WangQi}}
+|date=2023-11-26
+|source=https://wapbaike.baidu.com/tashuo/browse/content?id=d4666d6432e2438d293d8c33
+|author=Wang Qi
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+
+{{PD-old-70-1923}}
+
+[[Category:Emperor Wu of Han]]

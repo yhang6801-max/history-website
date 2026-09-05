@@ -1,0 +1,17 @@
+=={{int:filedesc}}==
+{{Photograph
+|photographer={{Creator:Willy Pragher}}
+|title=33. Tagung 1983 Chemiker: Dorothy Hodgkin
+|description={{en|1=Photograph by Willy Pragher}}
+{{de|1=Foto von Willy Pragher}}
+|date=1983
+|source=[https://www.landesarchiv-bw.de/plink/?f=5-707789-1 Landesarchiv Baden-Württemberg, Abt. Staatsarchiv Freiburg, W 134 Nr. 120813b]
+|permission={{de|1=[https://www.landesarchiv-bw.de/de/recherche/rechtsgrundlagen---nutzungsbedingungen/auf-einen-blick/46047 Nutzungsbedingungen]}}
+|other versions=
+}}
+=={{int:license-header}}==
+{{cc-by-3.0-de|Landesarchiv Baden-Württemberg, Fotograf: Willy Pragher}}
+
+            
+[[Category:Dorothy Hodgkin]]
+[[Category:1983 Photographs by Willy Pragher of Nobel Laureates]]

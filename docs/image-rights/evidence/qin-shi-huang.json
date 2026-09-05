@@ -1,0 +1,112 @@
+{
+  "id": "qin-shi-huang",
+  "retrievedAt": "2026-09-05T00:36:04.0861319+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qinshihuang.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AQinshihuang.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2016-11-28T14:56:38Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "pages": {
+        "364539": {
+          "pageid": 364539,
+          "ns": 6,
+          "title": "File:Qinshihuang.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Qinshihuang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Qinshihuang.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=364539",
+              "sha1": "c794f025876191e89ceac7cdd6771eed2aef125e",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-12-04 19:08:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Qinshihuang",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|PD-Art (PD-old-100-expired)|Template Unknown (artist)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|PD-art-old-100-expired missing SDC copyright status|Mianguan in art|Qin Shi Huang in art",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Qin Shi Huang, the first emperor of China",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 1850<div style=\"display: none;\">date QS:P,+1850-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Yuan, Zhongyi. <i>China's terracotta army and the First Emperor's mausoleum: the art and culture of Qin Shihuang's underground palace</i>. Paramus, New Jersey: Homa &amp; Sekey Books, 2010. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/978-1-931907-68-2\" title=\"Special:BookSources/978-1-931907-68-2\">978-1-931907-68-2</a> (p.140)",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown artist<span style=\"display: none;\">Unknown artist</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Qin Shi Huang, the first emperor of China}}\n|date={{circa|1850}}\n|source=Yuan, Zhongyi. ''China's terracotta army and the First Emperor's mausoleum: the art and culture of Qin Shihuang's underground palace''. Paramus, New Jersey: Homa & Sekey Books, 2010. {{ISBN|978-1-931907-68-2}} (p.140)\n|author={{unknown|artist}}\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{PD-Art-100-1923}}\n[[Category:Mianguan in art]]\n[[Category:Qin Shi Huang in art]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

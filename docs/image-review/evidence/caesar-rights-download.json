@@ -1,0 +1,101 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "895638": {
+        "pageid": 895638,
+        "ns": 6,
+        "title": "File:Julius Caesar Coustou Louvre MR1798.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Julius_Caesar_Coustou_Louvre_MR1798.jpg/960px-Julius_Caesar_Coustou_Louvre_MR1798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1748,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/06/Julius_Caesar_Coustou_Louvre_MR1798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Julius_Caesar_Coustou_Louvre_MR1798.jpg/960px-Julius_Caesar_Coustou_Louvre_MR1798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1748,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/06/Julius_Caesar_Coustou_Louvre_MR1798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Julius_Caesar_Coustou_Louvre_MR1798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre_MR1798.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=895638",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-06-26 12:17:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Julius Caesar Coustou Louvre MR1798",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D70|Artworks without Wikidata item|Julius Cesar by Nicolas Coustou (Louvre, MR 1798)|Self-published work|PD-self|Artworks with known accession number|Musée du Louvre:Inventory/MR",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nicolas_Coustou\" class=\"extiw\" title=\"w:en:Nicolas Coustou\"><span title=\"sculptor from France (1658-1733)\">Nicolas Coustou</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Julius Caesar. Commissioned in 1696 for the Gardens of Versailles, to go with the <i><a href=\"//commons.wikimedia.org/wiki/File:Hannibal_Slodtz_Louvre_MR2093.jpg\" title=\"File:Hannibal Slodtz Louvre MR2093.jpg\">Annibal</a></i> by Sébastien Slodtz.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2006)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

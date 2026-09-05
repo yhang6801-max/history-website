@@ -1,0 +1,25 @@
+== {{int:filedesc}} ==
+{{BArch-image
+|wiki description =
+|short title      = Mahatma Gandhi
+|archive title    = Mohandas Karamchand Gandhi (Mahatma Gandhi)
+|original title   = Ghandi, der grosse Führer der indischen Freiheitsbewegung ist in der Haft in den Hungerstreik getreten! <br/>
+Der indische Freiheitskämpfer Ghandi, bei der Arbeit.
+|biased           = <!-- if the original description text is biased, write here why! -->
+|depicted people  = 
+* Gandhi, Mahadma: Führer der Unabhängigkeitsbewegung, Indien 
+|depicted place   =
+|photographer     = {{unknown|author}}
+|date             = 1932
+|year             = 1932
+|ID               = Bild 102-13884
+|inventory        = Bild 102
+|other versions   = {{Image extracted|1=Bundesarchiv Bild 102-13884, Mahatma Gandhi (cropped).jpg}}
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0-de|attribution=Bundesarchiv, Bild 102-13884 / CC-BY-SA 3.0}}
+
+[[Category:Mohandas K. Gandhi in 1932]]
+[[Category:1932 black and white photographs]]
+[[Category:Black and white photographs of Germany]]

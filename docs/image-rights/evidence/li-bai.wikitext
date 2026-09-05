@@ -1,0 +1,33 @@
+=={{int:filedesc}}==
+{{Artwork
+ |artist             = 
+ |author             = 
+ |title              = ''Li Bai In Stroll''
+ |description        = 
+ |object type        = 
+ |date               = 
+ |medium             = 
+ |dimensions         = 
+ |institution        = 
+ |department         = 
+ |accession number   = 
+ |place of creation  = 
+ |place of discovery = 
+ |object history     = 
+ |exhibition history = 
+ |credit line        = 
+ |inscriptions       = 
+ |notes              = 
+ |references         = [http://www.tnm.jp/modules/r_collection/index.php?controller=dtl&colid=TA164&lang=en Li Bo in stroll]. Tokyo National Museum.
+ |source             = <small>Cropped from original file located at:</small><br/> [http://webarchives.tnm.jp/imgsearch/show/E0008311 E0008311 李白吟行図 - 東京国立博物館 画像検索]. Tokyo National Museum.
+ |permission         = {{PD-Art|PD-old-100-expired}}
+ |other_versions     = <gallery>
+File:LiBai.jpg
+File:Liang Kai - Li Bai In Stroll.jpg
+File:Liang Kai - Li Bai Strolling.jpg
+</gallery>
+ |wikidata           = Q18002387
+ |other_fields       = 
+}}
+
+[[Category:Li Bai In Stroll]]

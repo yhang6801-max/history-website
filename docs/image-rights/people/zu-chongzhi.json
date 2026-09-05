@@ -1,0 +1,37 @@
+{
+  "id": "zu-chongzhi",
+  "person": "祖冲之",
+  "localFile": "src/assets/people/zu-chongzhi.webp",
+  "localSha256": "c989bb970477c840949052d913ea76ce96b187858c15a55161d3441d8839fd5e",
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:昆山亭林公园祖冲之像.jpg",
+  "sourceEvidenceFile": "docs/image-rights/evidence/zu-chongzhi.wikitext",
+  "sourceEvidenceSha256": "27ad97b1ec1a56164df7cefbb3b15146200ae3e7939385ebc387f754fa40c039",
+  "additionalPrimarySources": [
+    "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+    "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/China#Freedom_of_panorama"
+  ],
+  "workType": "现代公共场所纪念雕塑及摄影",
+  "creator": "Gisling (photograph); sculptor not identified",
+  "creationDate": "雕塑作者和制作年代未详；照片 Gisling，2011-10-29",
+  "licenseName": "CC BY-SA 3.0 (photograph); FoP-China (sculpture)",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "sourceSupports": "source=own，摄影 self|cc-by-sa-3.0；文件明确为昆山亭林公园祖冲之像。原雕塑不因祖冲之年代而归入公共领域。另核对中国著作权法第 24 条第 10 项及 FoP-China 对公开陈列三维艺术作品的说明。",
+  "originalAndDigitalRights": "照片 CC BY-SA 3.0；雕塑采用中国公共场所艺术作品摄影规定，保留作品名、地点及作者未详说明。没有声称雕塑本身已获 CC 授权。",
+  "requiredUseConditions": "允许网站展示和改编；保留原题、作者、指定机构署名、原来源及具体版本许可链接；说明修改、不暗示背书；BY-SA 图的本站改编版按相同版本许可。",
+  "siteImplementation": {
+    "title": "昆山亭林公园祖冲之像",
+    "credit": null,
+    "author": "Gisling (photograph); sculptor not identified",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "homepageCreditLink": "/people/zu-chongzhi#image-credits",
+    "detailsAnchor": "image-credits",
+    "adaptationNotice": true
+  },
+  "beforeStatus": "依据明确，但需要补充署名或许可说明",
+  "currentStatus": "依据明确，网站已满足使用条件（限本记录所列依据及当前用途）",
+  "limits": "这是限定于列明公共场所摄影依据的结论，不是全球复制授权。雕塑作者未详仍如实保留；不将其绘画化或裁掉标记来改变权利判断。",
+  "visualReview": "未完成；现有本地图片查看工具沙箱初始化失败，不能宣称裁切通过",
+  "reviewedAt": "2026-09-05",
+  "verifiedImplementation": "2026-09-05 浏览器验证：标题、作者、指定署名、许可及来源链接、双语修改说明；首页链接直达此图署名区。"
+}

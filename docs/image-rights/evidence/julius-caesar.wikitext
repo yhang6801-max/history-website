@@ -1,0 +1,24 @@
+=={{int:filedesc}}==
+{{Information
+|description={{Multilingual description|en=Bust of Julius Caesar, in the Greek Cross Hall of the Vatican Museum|es=Busto de Julio César, en el Salón de la Cruz griega del Museo Vaticano|fr=Buste de Jules César, dans la salle de la Croix grecque du Musée du Vatican|pt=Busto de Júlio César, no Salão da Cruz Grega do Museu do Vaticano|ru=Бюст Юлия Цезаря в Греческом Зале Креста Музея Ватикана|zh=在梵蒂冈博物馆的希腊十字堂 尤利乌斯·凯撒的屁股|de=Büste von Julius Caesar, in der griechischen Kreuzhalle des Vatikanischen Museums}}
+|date=2024-02-10 07:19:32
+|source={{own}}
+|author={{Creator:Wilfredo Rafael Rodriguez Hernandez}}
+|permission=
+|other versions= <gallery>Bust of Julius Caesar 2.jpg</gallery>
+}}
+
+{{QCWC-Z7II}}
+
+=={{int:license-header}}==
+{{self|cc-zero}}
+[[Category:Images from Roma Project]]
+[[Category:Ancient busts of Julius Caesar]]
+[[Category:Vatican Museums by Wilfredor]]
+[[Category:Statues in the Pio Clementino Museum (Vatican Museums)]][[Category:Busts by Wilfredor]]
+[[Category:Rome photographs taken on 2024-02-10]]
+[[Category:Quality images of sculptures in Rome]]
+{{QualityImage}}
+[[Category:Quality images by Wilfredor]]
+[[Category:Statues by Wilfredor]]
+[[Category:Busts of Julius Caesar in Italy]]

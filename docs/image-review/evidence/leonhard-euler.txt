@@ -1,0 +1,12 @@
+=={{int:filedesc}}==
+{{Artwork
+ |wikidata           =Q113080531
+ |credit line        ={{ProvenanceEvent|type=gift|date=1849|oldowner=Rudolf Bischoff-Merian}}
+ |inscriptions       ={{inscription |1=E: Handmann / Pinx: 1753. |full form=Emmanuel Handmann Pinxit 1753 |type=signature /date |side= |position= top right|description= |comment= |ID= |language=la |translation= |en=painted by Emanuel Handmann 1753 |de= |medium= }}
+ |source             =[http://sammlungonline.kunstmuseumbasel.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1429&viewType=detailView Kunstmuseum Basel]
+}}
+=={{int:license-header}}==
+{{PD-art-old-100-expired}}
+
+
+[[Category:Portrait of Leonhard Euler (Jakob Emanuel Handmann - Kunstmuseum Basel)]]

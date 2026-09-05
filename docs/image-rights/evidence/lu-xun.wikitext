@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Lu Xun on 8 October 1936, 11 days before his death, attending the Second Woodcarving Exhibition in Baxianqiao, Shanghai. Photograph by Sha Fei.}}
+{{zh|1=1936年10月8日（去世前11天），鲁迅在上海八仙桥第二届木刻展览会上。}}
+|date=1936-10-08
+|source=http://fotomen.cn/2005/08/ji-nian-sha-fei/
+|author={{Creator:Sha Fei}}
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{PD-China}}
+{{PD-1996}}
+[[Category:Photographs by Sha Fei]]
+[[Category:People of China in 1936]]
+[[Category:Lu Xun in 1936]]
+[[Category:Portraits of Lu Xun]]

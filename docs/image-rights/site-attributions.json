@@ -1,0 +1,375 @@
+{
+  "james-clerk-maxwell": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:James-clerk-maxwell3.jpg",
+    "author": "Photographer not identified; scan: Benjamin Crowell; contrast and edge crop: Quibik",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Photograph of James Clerk Maxwell, reproduced in Practical Physics by Millikan and Gale (1920), scanned by Benjamin Crowell. Commons marks the image public domain; Quibik adjusted contrast and the right edge. The original photographer is not identified on the file page.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "James-clerk-maxwell3"
+  },
+  "michael-faraday": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Faraday._Photograph_by_John_Watkins._Wellcome_V0026346.jpg",
+    "author": "John Watkins / Wellcome Library, London / Wellcome Images",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Photograph of Michael Faraday by John Watkins, Wellcome Collection image V0026346 (library reference ICV No 26799). Credit: Wellcome Library, London / Wellcome Images. The Commons file is licensed CC BY 4.0.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Michael Faraday. Photograph by John Watkins.",
+    "credit": "Wellcome Library, London / Wellcome Images"
+  },
+  "max-planck": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R0116-504,_Max_Planck.jpg",
+    "author": "Bundesarchiv, Bild 183-R0116-504 / Photographer not identified",
+    "licenseName": "CC BY-SA 3.0 DE",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+    "notes": "Photograph of Max Planck supplied by the German Federal Archive. Credit: Bundesarchiv, Bild 183-R0116-504 / CC-BY-SA 3.0. The historical archive caption contains an erroneous reference to a chemistry prize; it is not reproduced as biographical fact. This cropped version is shared under the same license.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Max Planck",
+    "credit": "Bundesarchiv, Bild 183-R0116-504 / CC-BY-SA 3.0"
+  },
+  "niels-bohr": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
+    "author": "AB Lagrelius & Westphal",
+    "licenseName": "Public domain (PD-Sweden-photo; PD-US-expired)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg#Licensing",
+    "notes": "Photograph of Niels Bohr, circa 1922, from his Nobel Prize biography. Commons records the American Institute of Physics attribution to AB Lagrelius & Westphal. The file is marked public domain under PD-Sweden-photo and PD-US-expired.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Niels Bohr"
+  },
+  "werner-heisenberg": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Werner_Heisenberg_Portrait.jpg",
+    "author": "Bundesarchiv, Bild 183-R57262 / Unknown author",
+    "licenseName": "CC BY-SA 3.0 DE",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+    "notes": "Portrait photograph of Werner Heisenberg, dated 1933 in the archive caption. Credit: Bundesarchiv, Bild 183-R57262 / Unknown author / CC-BY-SA 3.0. This cropped version is shared under the same license.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Werner Heisenberg",
+    "credit": "Bundesarchiv, Bild 183-R57262 / Unknown author / CC-BY-SA 3.0"
+  },
+  "erwin-schrodinger": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erwin_Schrödinger_(1933).jpg",
+    "author": "Nobel Foundation (file-page credit; photographer not named)",
+    "licenseName": "Public domain (PD-Sweden-photo)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-Sweden-photo",
+    "notes": "Erwin Schrödinger in 1933, from his Nobel Prize biography. The Commons file credits the Nobel Foundation without naming a photographer and identifies the photograph as public domain under Sweden's photographic copyright rules (PD-Sweden-photo).",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Erwin Schrödinger (1933)"
+  },
+  "antoine-lavoisier": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_(cropped).jpg",
+    "author": "Jacques-Louis David / The Metropolitan Museum of Art",
+    "licenseName": "Public domain (PD-Art; PD-old-100-expired)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Detail of Jacques-Louis David's portrait of Antoine-Laurent Lavoisier and his wife Marie-Anne, held by The Metropolitan Museum of Art (1977.10). This extract depicts Antoine-Laurent; it is a painting, not a photograph. Commons marks the painting and faithful reproduction public domain.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Portrait of Monsieur de Lavoisier and his Wife, chemist Marie-Anne Pierrette Paulze"
+  },
+  "dmitri-mendeleev": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dmitri_Mendeleev._Photograph._Wellcome_M0002600.jpg",
+    "author": "Photographer not identified / Wellcome Library, London / Wellcome Images",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Photograph identified as Dmitri Mendeleev by the Wellcome Collection, image M0002600. The file page does not name the original photographer. Credit: Wellcome Library, London / Wellcome Images. Licensed CC BY 4.0.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Dmitri Mendeleev. Photograph.",
+    "credit": "Wellcome Library, London / Wellcome Images"
+  },
+  "john-dalton": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Dalton_by_Thomas_Phillips,_1835.jpg",
+    "author": "Thomas Phillips / National Portrait Gallery, London",
+    "licenseName": "Public domain (PD-Art; PD-old-auto-expired)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Painted portrait of John Dalton by Thomas Phillips, 1835, from the National Portrait Gallery, London. Commons records the artist's death in 1845 and marks the work and faithful reproduction public domain. This is a painting made during Dalton's lifetime, not a photograph.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "John Dalton"
+  },
+  "robert-boyle": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
+    "author": "Johann Kerseboom / Science History Institute",
+    "licenseName": "CC BY 3.0 (digital reproduction); public-domain painting",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "notes": "The Shannon Portrait of the Hon. Robert Boyle, by Johann Kerseboom, from the Science History Institute. The Commons file marks the painting public domain and offers its digital reproduction under CC BY 3.0 with attribution to the Science History Institute. This is a painted portrait, not a photograph of Boyle.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "The Shannon Portrait of the Hon. Robert Boyle F. R. S. (1627-1691)",
+    "credit": "Courtesy of Science History Institute"
+  },
+  "dorothy-hodgkin": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:33._Tagung_1983_Chemiker_Dorothy_Hodgkin_-_W134Nr.120813b_-_Willy_Pragher.jpg",
+    "author": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg W 134 Nr. 120813b / Fotograf: Willy Pragher",
+    "licenseName": "CC BY 3.0 DE",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/de/",
+    "notes": "Dorothy Hodgkin photographed by Willy Pragher at the 33rd meeting in 1983. Archival photograph from the Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg (W 134 Nr. 120813b).",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "33. Tagung 1983 Chemiker: Dorothy Hodgkin",
+    "credit": "Landesarchiv Baden-Württemberg, Fotograf: Willy Pragher"
+  },
+  "euclid": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Euclid_Wellcome_M0004267.jpg",
+    "author": "Artist not identified / Wellcome Library, London / Wellcome Images",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "A later representation identified as Euclid in the Wellcome Collection, image M0004267. It is not an authenticated likeness made during his lifetime. The file page does not identify the artist. Credit: Wellcome Library, London / Wellcome Images. Licensed CC BY 4.0.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Euclid",
+    "credit": "Wellcome Library, London / Wellcome Images"
+  },
+  "archimedes": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archimedes_Siracus._Photogravure_by_R._Paulussen_after_N._Barabino.jpg",
+    "author": "R. Paulussen, after N. Barabino / Wellcome Library, London / Wellcome Images",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Archimedes Siracus, a photogravure by R. Paulussen after N. Barabino, from the Wellcome Collection. This is a later artistic representation, not an authenticated lifetime likeness. Credit: Wellcome Library, London / Wellcome Images. Licensed CC BY 4.0.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Archimedes Siracus. Photogravure by R. Paulussen after N. Barabino",
+    "credit": "Wellcome Library, London / Wellcome Images"
+  },
+  "pierre-de-fermat": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fermat_hochgehängt.JPG",
+    "author": "Rolland Lefebvre (painting); Klaus Barner (photograph, 2005)",
+    "licenseName": "CC BY-SA 3.0 (photograph); public-domain painting",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "notes": "Portrait de Pierre de Fermat, attributed to Rolland Lefebvre and dated 1640–1675 in the French Ministry of Culture catalogue (Narbonne, inventory 851.3.3). The painting's author died in 1677. Klaus Barner's 2005 photograph is separately released under CC BY-SA 3.0; the same license applies to this site's adapted image.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Portrait de Pierre de Fermat"
+  },
+  "zu-chongzhi": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:昆山亭林公园祖冲之像.jpg",
+    "author": "Gisling (photograph); sculptor not identified",
+    "licenseName": "CC BY-SA 3.0 (photograph); FoP-China (sculpture)",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "notes": "A later commemorative statue of Zu Chongzhi in Tinglin Park, Kunshan, photographed by Gisling in 2011. The sculptor is not identified in the source. This is not a portrait made during Zu Chongzhi's lifetime. The photograph is licensed under CC BY-SA 3.0; the publicly displayed sculpture is reproduced under China's freedom-of-panorama provision.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "昆山亭林公园祖冲之像"
+  },
+  "leonhard-euler": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leonhard_Euler.jpg",
+    "author": "Jakob Emanuel Handmann / Kunstmuseum Basel",
+    "licenseName": "Public domain (PD-Art; PD-old-100-expired)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Portrait of Leonhard Euler painted by Jakob Emanuel Handmann in 1753, in the Kunstmuseum Basel collection. A reproduction of a historical painting, not a photograph of Euler.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Portrait of Leonhard Euler (1707-1783)"
+  },
+  "carl-friedrich-gauss": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
+    "author": "Christian Albrecht Jensen",
+    "licenseName": "Public domain (PD-Art; PD-old-auto-expired)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Portrait of Carl Friedrich Gauss painted by Christian Albrecht Jensen in 1840. This is a reproduction of Jensen's painting, not the later copy by Gottlieb Biermann.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Portrait of Carl Friedrich Gauß (1777-1855)"
+  },
+  "srinivasa-ramanujan": {
+    "title": "Srinivasa Ramanujan — Oberwolfach Photo Collection",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srinivasa_Ramanujan_-_OPC_-_1.jpg",
+    "author": "Photographer not identified / Oberwolfach Photo Collection; Commons corrections credited to Jacek Halicki",
+    "licenseName": "Public domain (PD-UK-unknown; PD-US-expired)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Srinivasa_Ramanujan_-_OPC_-_1.jpg#Licensing",
+    "notes": "Photograph of Srinivasa Ramanujan made before 1920, from the Oberwolfach Photo Collection. The original photographer is not identified. The Commons file records permission ticket 2008042410024381 and public-domain grounds for the United Kingdom and the United States. Its source warns that the scan quality is limited; this is not presented as a newly restored high-resolution portrait.",
+    "changes": "Used the Commons archive version; cropped, resized to 900 × 1200, and converted to WebP."
+  },
+  "nicolaus-copernicus": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus.jpg",
+    "author": "Artist not identified / District Museum in Toruń",
+    "licenseName": "Public domain (PD-Art; PD-art-100)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Anonymous portrait of Nicolaus Copernicus, circa 1580, from the Town Hall collection in Toruń. Painted after his death in 1543, it is a later representation, not a reliably documented portrait made during his lifetime.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Nikolaus Kopernikus"
+  },
+  "galileo-galilei": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei_(Uffizi).jpg",
+    "author": "Justus Sustermans / The Uffizi",
+    "licenseName": "Public domain (PD-old-100)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Portrait of Galileo Galilei by Justus Sustermans, dated 1635 by the Uffizi Galleries (inventory 1890 no. 745). A reproduction of an oil painting, not a photograph.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Portrait of Galileo Galilei"
+  },
+  "napoleon-bonaparte": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Portrait_of_General_Bonaparte_-_WGA06077.jpg",
+    "author": "Jacques-Louis David",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "“Portrait of General Bonaparte”, image source: Web Gallery of Art. Commons identifies it as public domain under PD-Art (PD-old-100): the artist died in 1825, beyond the life-plus-100-year term; faithful reproductions of two-dimensional public-domain works are also considered public domain in the United States.",
+    "changes": "Cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Portrait of General Bonaparte"
+  },
+  "julius-caesar": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre_MR1798.jpg",
+    "author": "Nicolas Coustou (sculpture); Marie-Lan Nguyen / Jastrow (photograph, 2006)",
+    "authorUrl": "https://commons.wikimedia.org/wiki/User:Jastrow",
+    "licenseName": "Public-domain sculpture; PD-self (photograph)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "notes": "Jules César, a later commemorative sculpture by Nicolas Coustou (1658–1733), Louvre MR 1798. The museum dates the marble to 1696–1722; 1696 refers to the model, while the statue bears a 1722 signature. It is not a portrait made during Caesar's lifetime. Marie-Lan Nguyen made the photograph in 2006 and released it under PD-self, separately from the expired rights in the sculpture.",
+    "changes": "Cropped from the full sculpture photograph, resized to 900 × 1200, and converted to WebP.",
+    "title": "Jules César"
+  },
+  "alexander-the-great": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battaglia_di_isso,_prob._copia_di_opera_del_IV_sec_ac_di_philoxenos_d'eretria,_125-120_ac_ca._da_casa_del_fauno_a_pompei,_10020,_01.JPG",
+    "author": "Sailko (photograph); ancient mosaic artist not identified",
+    "licenseName": "CC BY-SA 3.0 (photograph); public-domain ancient mosaic",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "notes": "Alexander appears on the left of the ancient Alexander Mosaic from the House of the Faun in Pompeii, now in the National Archaeological Museum of Naples (inventory 10020). This photograph was taken by Sailko on 29 November 2013 and released under CC BY-SA 3.0. The mosaic and the modern photograph have separate rights bases; this version does not use the previously displayed De Agostini/Getty photograph.",
+    "changes": "Cropped to retain Alexander on the left, resized to 900 × 1200, and converted to WebP. The adapted photograph is distributed under CC BY-SA 3.0.",
+    "title": "Alexander Mosaic, House of the Faun, Pompeii"
+  },
+  "albert-einstein": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+    "author": "Ferdinand Schmutzer; restoration: Adam Cuerden",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Photograph taken in Vienna in 1921. Original image source: Bern Historical Museum; photographic studies held by the Austrian National Library. Commons cites PD-Austria and expiration of the author’s copyright term (Schmutzer died in 1928). The restorer also grants an irrevocable license for unrestricted use if needed and requests attribution.",
+    "changes": "Commons restoration, proportionally resized to 1200 × 1576 through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Einstein 1921 by F Schmutzer - restoration"
+  },
+  "confucius": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confucius_Portrait,_Kongzi_(Confucius)_Family_Mansion,_Qufu_(13044335945).jpg",
+    "author": "Unknown Ming-dynasty artist; photograph by Gary Todd",
+    "authorUrl": "https://www.flickr.com/people/101561334@N08/",
+    "licenseName": "CC0 1.0 Universal (photograph)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "notes": "Portrait of Confucius at Leisure, photographed at the Kong Family Mansion in Qufu in 2014; collection of the Confucius Museum. This Ming-dynasty painting is a later representation, not a contemporary likeness. Commons records Gary Todd's photograph as CC0, verified against its Flickr source.",
+    "changes": "Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Portrait of Confucius at Leisure"
+  },
+  "qin-shi-huang": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qinshihuang.jpg",
+    "author": "Unknown artist",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "A later portrait, dated circa 1850 on Commons, reproduced in Yuan Zhongyi's China's Terracotta Army and the First Emperor's Mausoleum (2010), p. 140. Commons applies PD-Art / PD-old-100-expired: the artwork's term has expired and it was published before 1931. The Commons version includes earlier color adjustments and cropping; this is not a contemporary likeness.",
+    "changes": "Source proportionally resized through an image proxy, then cropped with the upper portion retained, resized to 900 × 1200, and converted to WebP.",
+    "title": "Qinshihuang"
+  },
+  "emperor-taizong-of-tang": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:TangTaizong_(cropped).jpg",
+    "author": "Unknown artist",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Detail of Standing Portrait of Emperor Tang Taizong (I), National Palace Museum, Taipei, accession 中-畫-000263-00000, sourced from the museum's Open Data. The parent file identifies this as a Ming-dynasty commemorative painting, not a portrait made during Taizong's lifetime. Commons applies PD-Art / PD-old-100 to the faithful reproduction of the public-domain painting.",
+    "changes": "Commons supplied an existing crop of the painting. Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "Standing Portrait of Emperor Tang Taizong (I)"
+  },
+  "emperor-wu-of-han": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:三才圖會_漢武帝劉徹相.jpg",
+    "author": "Wang Qi (Sancai Tuhui compiler); original engraver not identified",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Later printed portrait of Emperor Wu of Han from the Ming-dynasty encyclopedia Sancai Tuhui, credited on Commons to Wang Qi. The file cites a Baidu reproduction. Commons applies PD-old-70-expired, including publication before 1931 in the United States. The 2023 file date is the upload date, not the date of the historical portrait; this is not a contemporary likeness.",
+    "changes": "Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "三才圖會 漢武帝劉徹相"
+  },
+  "hongwu-emperor": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongwu_(closeup).jpg",
+    "author": "Unknown Ming-dynasty court artist",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Detail of A Seated Portrait of Ming Emperor Taizu, National Palace Museum, Taipei; sourced from the museum's 2019 Oversize Scrolls of Painting and Calligraphy exhibition. Commons identifies the faithful reproduction as PD-Art / PD-old-100. This is a historical court painting, not a photograph of the emperor.",
+    "changes": "Commons supplied a close-up crop. Source proportionally resized through an image proxy, then resized to 900 × 1200 with a slight aspect-ratio crop and converted to WebP.",
+    "title": "A Seated Portrait of Ming Emperor Taizu"
+  },
+  "yongle-emperor": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongle_(closeup).jpg",
+    "author": "Unknown Ming-dynasty artist",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Close-up of Seated Portrait of Ming Emperor Chengzu, National Palace Museum, Taipei. Commons applies PD-Art / PD-old-70 to this faithful reproduction of the public-domain Ming painting. This is a historical painted representation, not a photograph of the emperor.",
+    "changes": "Commons supplied a close-up crop. Source proportionally resized through an image proxy, then resized to 900 × 1200 with a slight aspect-ratio crop and converted to WebP.",
+    "title": "Seated Portrait of Ming Emperor Chengzu"
+  },
+  "sun-yat-sen": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:孙中山肖像.jpg",
+    "author": "Boer Photographic Studio, Shanghai",
+    "licenseName": "Public domain (PD-China; US copyright expired)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-China",
+    "notes": "Portrait taken on 15 November 1922 at Shanghai's Boer Photographic Studio; Commons cites the Sun Yat-sen Memorial Hall as its source. The individual photographer is not identified. Commons marks the photograph PD-China and public domain in the United States through publication before 1931. The file's history includes earlier cropping.",
+    "changes": "Source proportionally resized through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
+    "title": "孙中山肖像"
+  },
+  "li-bai": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:LiBai.jpg",
+    "author": "Liang Kai",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Li Bai in Stroll, a 13th-century ink painting by Liang Kai, Tokyo National Museum, accession TA-164. Commons cites the museum's image archive and applies PD-Art / PD-old-100-expired. This Southern Song painting was made centuries after Li Bai's lifetime and is an imaginative representation, not a contemporary likeness.",
+    "changes": "Commons supplied a crop of the painting. Source proportionally resized through an image proxy, then cropped with the upper portion retained, resized to 900 × 1200, and converted to WebP.",
+    "title": "Li Bai In Stroll"
+  },
+  "du-fu": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dufu.jpg",
+    "author": "Artist not identified / former Qing palace collection",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Portrait of Du Fu from the former Qing palace collection. The exact creation date and artist are not identified in the source. The Commons file marks the historical painting and its faithful reproduction as PD-Art / PD-old-100. It is a later representation, not a contemporary likeness of Du Fu.",
+    "changes": "Source proportionally resized through an image proxy, slightly cropped to the portrait ratio, resized to 900 × 1200, and converted to WebP.",
+    "title": "唐名臣像-唐劍南節度參謀檢校工部員外杜甫"
+  },
+  "lu-xun": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lu_Xun_1936.jpg",
+    "author": "Sha Fei (1912–1950)",
+    "licenseName": "Public domain (PD-China / PD-1996)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-China",
+    "notes": "Photographed at a woodcut exhibition in Shanghai on 8 October 1936; Commons cites Fotomen's retrospective on Sha Fei. The file is tagged PD-China for expired photographic copyright and PD-1996 for its United States public-domain status under the stated publication and URAA conditions.",
+    "changes": "Source proportionally resized through an image proxy, cropped with the upper portion retained, resized to 900 × 1200, and converted to WebP.",
+    "title": "Lu Xun 1936"
+  },
+  "qian-xuesen": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hsue-shen_Tsien_at_his_deportation_hearing_(cropped).jpg",
+    "author": "Los Angeles Times / UCLA Library",
+    "authorUrl": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002r6xw",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Portrait detail from a photograph taken on 16 November 1950. Credit: Los Angeles Times Photographic Collection, UCLA Library; the individual photographer is not identified. Commons records that copyright was deeded to UCLA and the photograph released under CC BY 4.0. The Commons crop was made by Artem.G.",
+    "changes": "Commons supplied a portrait crop. Source proportionally resized through an image proxy, cropped further to 3:4, resized to 900 × 1200, and converted to WebP.",
+    "title": "Hsue-shen Tsien at his deportation hearing (cropped)",
+    "credit": "Los Angeles Times Photographic Collection, UCLA Library"
+  },
+  "yang-chen-ning": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HD.3F.010_(11086446676)(Chen_Ning_Yang).jpg",
+    "author": "U.S. Department of Energy (individual photographer unidentified)",
+    "authorUrl": "https://www.flickr.com/photos/departmentofenergy/11086446676/",
+    "licenseName": "Public domain (U.S. government work)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-DOE",
+    "notes": "Portrait extracted from the Department of Energy group photograph HD.3F.010, identifying Yang as the seated figure at left. Commons applies PD-USGov-DOE; its review of the original Flickr upload confirmed the United States Government Work designation. The photograph's date is not specified.",
+    "changes": "Commons supplied a portrait crop. Source proportionally resized through an image proxy, resized to 900 × 1200 with a minimal aspect-ratio adjustment, and converted to WebP.",
+    "title": "HD.3F.010 (Chen Ning Yang)"
+  },
+  "george-washington": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Washington_Portrait_(3x4_cropped).jpg",
+    "author": "Gilbert Stuart (1755–1828)",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "George Washington, 1803, Clark Art Institute, accession 1955.16. This posthumous version is based on Stuart's earlier Athenaeum portrait painted from life. Commons cites the Clark scan and applies PD-Art / PD-old-100-expired, with pre-1931 publication documented.",
+    "changes": "Commons supplied a portrait crop by Wabbuh. Source proportionally resized through an image proxy, resized to 900 × 1200 with a minimal aspect-ratio crop, and converted to WebP.",
+    "title": "George Washington"
+  },
+  "abraham-lincoln": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_by_Gardner,_1863.jpg",
+    "author": "Alexander Gardner (1821–1882); digital adjustments by Scewing",
+    "licenseName": "Public domain (PD-US)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-US",
+    "notes": "Photographed in Washington, D.C., on 8 November 1863; Library of Congress, item scsm000793. Commons identifies the photograph as public domain in the United States. Scewing desaturated the scan, adjusted levels, removed minor artifacts, and corrected an artificial vertical elongation.",
+    "changes": "Used the Commons-adjusted version. Source proportionally resized through an image proxy, cropped to 3:4, resized to 900 × 1200, and converted to WebP.",
+    "title": "Abraham Lincoln O-77 by Gardner, 1863"
+  },
+  "isaac-newton": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+    "author": "Godfrey Kneller (1646–1723)",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Portrait of Isaac Newton, 1689, painted during his lifetime. Commons cites Cambridge University Library's Lines of Thought exhibition and applies PD-Art / PD-old-100-expired: Kneller died in 1723 and the work was published before 1931.",
+    "changes": "Source proportionally resized through an image proxy, cropped to 3:4, resized to 900 × 1200, and converted to WebP.",
+    "title": "Portrait of Isaac Newton (1642-1727)"
+  },
+  "marie-curie": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
+    "author": "Henri Manuel (1874–1947); restoration by FMSky and Bammesk",
+    "licenseName": "Public domain (Public Domain Mark 1.0)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "Portrait dated circa 1920 on Commons. The file records Henri Manuel as photographer and FMSky and Bammesk as restorers, and links to the unretouched original. Commons applies PD-old-75-expired: Manuel died in 1947 and the photograph was published before 1931.",
+    "changes": "Used the Commons-restored version. Source proportionally resized through an image proxy, slightly cropped to 3:4, resized to 900 × 1200, and converted to WebP.",
+    "title": "Marie Curie c. 1920s"
+  }
+}

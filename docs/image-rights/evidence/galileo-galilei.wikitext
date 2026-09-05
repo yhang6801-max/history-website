@@ -1,0 +1,22 @@
+== {{int:filedesc}} ==
+{{Artwork
+|wikidata = 
+|Artist =   {{Creator:Justus Sustermans}}  
+|Title = {{en|1=''Portrait of Galileo Galilei''}}
+|date= 1635
+|source= https://www.uffizi.it/en/artworks/portrait-galileo-galilei-by-justus-sustermans%20
+|object type = painting 
+|Technique = {{Technique|Oil|canvas}}
+|Dimensions= {{Size|cm|height=56 |width=48 }}
+|Location= 
+|institution={{Institution:Uffizi Gallery}}
+|Notes=   
+|Inscriptions = 
+|Permission=
+|Other versions={{Image extracted|1=Justus Sustermans - Portrait of Galileo Galilei (Uffizi) (cropped).jpg}}
+}}
+== {{int:license-header}} ==
+{{PD-old-100}}
+
+{{DEFAULTSORT:1635}}
+[[Category:Portrait of Galileo Galilei by Justus Sustermans (Uffizi)]]

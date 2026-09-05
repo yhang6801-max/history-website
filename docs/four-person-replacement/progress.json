@@ -1,0 +1,36 @@
+{
+  "people": 40,
+  "replacements": [
+    {
+      "position": 12,
+      "id": "stephen-hawking"
+    },
+    {
+      "position": 13,
+      "id": "mahatma-gandhi"
+    },
+    {
+      "position": 15,
+      "id": "winston-churchill"
+    },
+    {
+      "position": 23,
+      "id": "joseph-stalin"
+    }
+  ],
+  "keptFermatAt": 14,
+  "retainedPeopleUnchanged": 36,
+  "biographySections": 21,
+  "timelineEvents": 39,
+  "imageEvidenceRecords": 40,
+  "build": "passed; 613.79 kB main JS warning",
+  "lint": "passed after all documentation/maintenance scripts",
+  "languageTests": "10/10 passed",
+  "browser": "160 image/credit combinations passed; 16 reading-anchor toggles passed; default English and refresh/new-tab language passed",
+  "preview": "http://127.0.0.1:5174/ (HTTP 200 confirmed)",
+  "unverified": [
+    "Visual crop/face/headroom/sharpness on desktop and narrow screen",
+    "Actual browser-process restart; refresh and new-tab persistence passed",
+    "Blocked external source pages listed in per-person research and image records"
+  ]
+}

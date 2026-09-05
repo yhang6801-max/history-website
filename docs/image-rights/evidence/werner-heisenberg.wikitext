@@ -1,0 +1,27 @@
+== {{int:filedesc}} ==
+{{BArch-image
+|wiki description =
+|short title      = Werner Heisenberg
+|archive title    = Porträt Werner Heisenberg
+|original title   = Zentralbild<br/>
+Prof. Dr. phil Werner Kar. Heisenberg,<br/>
+Physiker, geboren 5.12.1901 in Würzburg, Professor für theoretische Physik, Direktor des Max-Planck-Instituts für Physik in Göttingen, Nobelpreis für Physik 1932 (Aufnahme 1933)<br/>
+39049-33
+|biased           = <!-- if the original description text is biased, write here why! -->
+|depicted people  = 
+* Heisenberg, Werner Karl Prof. Dr.: 1901-1976; Atomphysiker, Nobelpreis für Physik 1933, Bundesrepublik Deutschland 
+|depicted place   =
+|photographer     = {{unknown|author}}
+|date             = 1933
+|year             = 1933
+|ID               = Bild 183-R57262
+|inventory        = Bild183
+|other versions   = {{Image extracted|1=Werner Heisenberg Portrait (3x4 cropped).jpg}}{{Extracted from|1=Bundesarchiv Bild183-R57262, Werner Heisenberg.jpg}}{{DerivativeVersions|Bundesarchiv Bild183-R57262, Werner Heisenberg crop.jpg}}
+}}
+
+== {{int:license-header}} ==
+{{Cc-by-sa-3.0-de|attribution=Bundesarchiv, Bild 183-R57262 / {{unknown|Author}} / CC-BY-SA 3.0}}
+
+[[Category:Werner Heisenberg|1933]]
+[[Category:Black and white portrait photographs of male scientists]]
+[[Category:Scientists in 1933]]

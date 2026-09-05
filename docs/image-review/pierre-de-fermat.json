@@ -1,0 +1,13 @@
+{
+  "id": "pierre-de-fermat",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fermat_hochgehängt.JPG",
+  "author": "Rolland Lefebvre (painting); Klaus Barner (photograph, 2005)",
+  "licenseName": "CC BY-SA 3.0 (photograph); public-domain painting",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "en": "Portrait de Pierre de Fermat, attributed to Rolland Lefebvre and dated 1640–1675 in the French Ministry of Culture catalogue (Narbonne, inventory 851.3.3). The painting's author died in 1677. Klaus Barner's 2005 photograph is separately released under CC BY-SA 3.0; the same license applies to this site's adapted image.",
+  "zh": "Portrait de Pierre de Fermat（《皮埃尔·德·费马肖像》），法国文化部馆藏目录署名 Rolland Lefebvre，纪年为 1640—1675 年（纳博讷，馆藏编号 851.3.3）。画家于 1677 年去世。Klaus Barner 于 2005 年拍摄的照片另采用 CC BY-SA 3.0 许可；本站处理后的图片沿用该许可。",
+  "position": "center",
+  "supportingSource": "https://www.pop.culture.gouv.fr/notice/joconde/04450000313",
+  "checked": "2026-09-05",
+  "visualReview": "Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified."
+}

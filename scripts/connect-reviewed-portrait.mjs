@@ -1,0 +1,22 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {spawnSync} from 'node:child_process';
+const item=JSON.parse(fs.readFileSync(0,'utf8').replace(/^\uFEFF/,''));
+assert.match(item.id,/^[a-z0-9-]+$/);
+const file='src/data/additions/'+item.id+'.ts';
+const original=fs.readFileSync(file,'utf8');
+const start=original.indexOf('...{')+3,end=original.indexOf('\n}\n\nexport const zh:');
+const person=JSON.parse(original.slice(start,end).trim());
+const zh=JSON.parse(original.slice(original.indexOf('export const zh: PersonTranslation = ')+36));
+fs.mkdirSync('docs/image-review',{recursive:true});
+fs.mkdirSync('node_modules/.cache/portrait-review/baseline',{recursive:true});
+const baseline='node_modules/.cache/portrait-review/baseline/'+item.id+'.ts';if(!fs.existsSync(baseline))fs.writeFileSync(baseline,original);
+const result=spawnSync(process.execPath,['scripts/prepare-person-image.mjs',item.id,'node_modules/.cache/portrait-review/'+item.id+'.jpg','--position',item.position||'attention'],{encoding:'utf8'});
+if(result.status!==0)throw Error(result.stderr||result.stdout);
+person.imageAttribution={sourceUrl:item.sourceUrl,author:item.author,licenseName:item.licenseName,licenseUrl:item.licenseUrl,notes:item.en,changes:'Cropped, resized to 900 × 1200, and converted to WebP.'};
+delete person.imageNotes;delete person.imageChanges;
+zh.imageNotes=item.zh;zh.imageChanges='已裁剪、缩放至 900 × 1200，并转换为 WebP 格式。';
+fs.writeFileSync(file,"import portrait from '../../assets/people/"+item.id+".webp'\nimport type { HistoricalPerson } from '../../types/historicalPerson'\nimport type { PersonTranslation } from '../personTranslations'\n\nexport const person: HistoricalPerson = {\n image: portrait,\n ..."+JSON.stringify(person,null,2)+"\n}\n\nexport const zh: PersonTranslation = "+JSON.stringify(zh,null,2)+'\n');
+fs.writeFileSync('docs/image-review/'+item.id+'.json',JSON.stringify({...item,checked:item.checked || '2026-09-05',visualReview:'Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified.'},null,2)+'\n');
+console.log('SAVED portrait '+item.id+' | '+fs.statSync('src/assets/people/'+item.id+'.webp').size+' bytes');
+

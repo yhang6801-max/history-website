@@ -1,0 +1,57 @@
+== {{int:filedesc}} ==
+{{Artwork
+|wikidata   = Q47414451
+|description={{Portrait of|George Washington (1732&ndash;99)}}
+|source     = https://www.clarkart.edu/ArtPiece/Detail/George-Washington
+|object history=
+*{{otherdate|by|1845}}: William Willing ; 
+*1845: to (Lewis Rogers, agent, New York); 
+*1845: to R.L. Paterson, ; 
+*to Charles Paterson, by descent; 
+*to (Hermann Schaus?); 
+*{{otherdate|c|1905}}: to Mrs. Elizabeth S. Clark; 
+*1909: to Stephen C. Clark, by descent; 
+*{{otherdate|by|April 1911}}: to [[:en:Robert Sterling Clark|Robert Sterling Clark]] .
+|notes      = This portrait is a copy by Stuart based on his own uncompleted [[w:Athenaeum Portrait]].  This copy has been published in pre-{{Not-PD-US-expired-min-year}} materials, including p. 442 of ''The Life of George Washington''<ref>{{cite book
+ | last        = Sparks
+ | first       = Jared
+ | year        = 1846
+ | title       = The Life of George Washington and their works 
+ | publisher   = Charles Tappan
+ | page        = 442
+ | url         = https://books.google.com/books?id=djoFAAAAYAAJ&vq=gilbert%20stuart&pg=PA442-IA1
+ | accessdate  = 2012-01-01
+}}</ref> and p. 79 of ''Early American Painters''.<ref>{{cite book
+ | last        = Morgan
+ | first       = John Hill
+ | year        = 1920
+ | title       = Early American Painters: Illustrated by Examples in the Collection of the New-York Historical Society
+ | publisher   = New-York Historical Society
+ | page        = 79
+ | url         = https://books.google.com/books?id=mSQEAAAAYAAJ&pg=PA79
+ | accessdate  = 2012-01-01
+}}</ref>
+|other versions={{Extracted from|1=Gilbert Stuart Williamstown Portrait of George Washington.jpg}}[[File:Gilbert Stuart Williamstown Portrait of George WashingtonFXD.jpg|thumb|none|upright=.5|Remastered color]]
+}}
+
+
+=={{int:license-header}}==
+
+{{PD-Art|PD-old-100-expired|deathyear=1828|country=USA}}
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:1803; Washington by Stuart}}
+[[Category:George Washington portraits by Gilbert Stuart]]
+[[Category:Portrait paintings in the Sterling and Francine Clark Art Institute|Stuart]]
+[[Category:1803 oil on canvas paintings in the United States|Portrait]]
+[[Category:1803 portrait paintings of men|Male]]
+[[Category:19th-century oil portraits of men at bust length]]
+[[Category:19th-century portrait paintings in the United States]]
+[[Category:Black clothing in art, male]]
+[[Category:Lace jabots in portrait paintings]]
+[[Category:Portrait paintings with neutral background]]
+[[Category:Powdered wigs in art]]
+[[Category:19th-century three-quarter view portrait paintings of men, facing left and looking left]]
+[[Category:Black tailcoat with white necktie in the 19th century]]

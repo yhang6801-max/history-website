@@ -1,0 +1,34 @@
+=={{int:filedesc}}==
+{{Artwork
+ |artist             = {{unknown|artist}}
+ |author             =
+ |title              = Standing Portrait of Emperor Tang Taizong  (I)<br/>唐太宗立像（一）　
+ |description        = This depicts Emperor Taizong of Tang (唐太宗).
+ |date               = Tang dynasty
+ |medium             = Hanging scroll, color on silk
+ |dimensions         = 271 x 126.8 cm (height x width)
+ |institution        = National Palace Museum, Taipei
+ |department         =
+ |place of discovery =
+ |object history     =
+ |exhibition history =
+ |credit line        =
+ |inscriptions       =
+ |notes              =
+ |accession number   = [http://painting.npm.gov.tw/Painting_Page.aspx?dep=P&PaintingId=1825 中-畫-000263-00000]
+ |place of creation  = China
+ |source             = Cropped (removed mount) and converted from original .tif file located at <br/> [https://theme.npm.edu.tw/opendata/DigitImageSets.aspx?sNo=04014280&lang=2 唐太宗立像（一）　軸]. National Palace Museum Open Data. Taipei: National Palace Museum.
+ |permission         = 
+ |other_versions     ={{Extracted from|1=TangTaizong.jpg}}
+ |references         = * [https://theme.npm.edu.tw/opendata/DigitImageSets.aspx?sNo=04014280&lang=2 唐太宗立像（一）　軸]. National Palace Museum Open Data. Taipei: National Palace Museum.
+* [http://painting.npm.gov.tw/Painting_Page.aspx?dep=P&PaintingId=1825  唐太宗立像（一）　軸]. 書畫典藏資料檢索系統. Taipei: National Palace Museum.
+ |wikidata           =
+}}
+
+== {{int:license-header}} ==
+{{PD-art-old-100}}
+
+[[Category:Figure paintings in the National Palace Museum]]
+[[Category:Emperor Taizong of Tang]]
+[[Category:National Palace Museum Open Data]]
+[[Category:Dragon robes of the Tang Dynasty]]

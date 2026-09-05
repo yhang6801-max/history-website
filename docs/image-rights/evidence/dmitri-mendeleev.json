@@ -1,0 +1,111 @@
+{
+  "id": "dmitri-mendeleev",
+  "retrievedAt": "2026-09-05T00:34:16.6126914+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dmitri_Mendeleev._Photograph._Wellcome_M0002600.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3ADmitri_Mendeleev._Photograph._Wellcome_M0002600.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Dmitri_Mendeleev._Photograph._Wellcome_M0002600.jpg",
+          "to": "File:Dmitri Mendeleev. Photograph. Wellcome M0002600.jpg"
+        }
+      ],
+      "pages": {
+        "36313129": {
+          "pageid": 36313129,
+          "ns": 6,
+          "title": "File:Dmitri Mendeleev. Photograph. Wellcome M0002600.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Dmitri_Mendeleev._Photograph._Wellcome_M0002600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dmitri_Mendeleev._Photograph._Wellcome_M0002600.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36313129",
+              "sha1": "1d7151a76a5b4f15325f7a2cb41ca34a795282da",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-10-22 14:30:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nDmitri Mendeleev. Photograph.</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|Images uploaded by Fæ|Artworks without Wikidata item|Files from Wellcome Images|Portrait photographs of sitting men at three-quarter length|Portraits in the Wellcome Collection|Portrait photographs of Dmitri Mendeleev",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Dmitri Mendeleev. Photograph.\n</p>\n<p>Iconographic Collections</p></div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/e1/79/4834f6faadb407e94425cdc5cedd.jpg\">https://wellcomeimages.org/indexplus/obf_images/e1/79/4834f6faadb407e94425cdc5cedd.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/M0002600.html\">https://wellcomeimages.org/indexplus/image/M0002600.html</a></li>\n<li>Wellcome Collection gallery (2018-03-29): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/pd3rcn7v\">https://wellcomecollection.org/works/pd3rcn7v</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Artwork\n|artist             =\n|author             =\n|title              = Dmitri Mendeleev. Photograph.\n|description        = Dmitri Mendeleev. Photograph.\n<p>Iconographic Collections\n|date               =\n|medium             =\n|dimensions         =\n|institution        =\n|department         =\n|references         = \n* Library reference: ICV No 26572\n* Photo number: M0002600\n* Full Bibliographic Record: http://catalogue.wellcomelibrary.org/record=b1160642\n|object history     =\n|exhibition history =\n|credit line        = {{Wellcome Images}}\n|other_versions     =\n|source             = https://wellcomeimages.org/indexplus/obf_images/e1/79/4834f6faadb407e94425cdc5cedd.jpg\n* Gallery: https://wellcomeimages.org/indexplus/image/M0002600.html\n* Wellcome Collection gallery (2018-03-29): https://wellcomecollection.org/works/pd3rcn7v [https://creativecommons.org/licenses/by/4.0/ CC-BY-4.0]\n|inscriptions       =\n|notes              =\n|permission         =\n|accession number   =\n}}\n\n=={{int:license-header}}==\n{{cc-by-4.0}}\n\n[[Category:Images uploaded by Fæ|Wellcome M0002600.jpg]]\n[[Category:Portrait photographs of Dmitri Mendeleev]]\n[[Category:Portraits in the Wellcome Collection]]\n[[Category:Portrait photographs of sitting men at three-quarter length]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

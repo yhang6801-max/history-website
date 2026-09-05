@@ -1,0 +1,111 @@
+{
+  "id": "yang-chen-ning",
+  "retrievedAt": "2026-09-05T00:39:49.9286066+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:HD.3F.010_(11086446676)(Chen_Ning_Yang).jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AHD.3F.010_%2811086446676%29%28Chen_Ning_Yang%29.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:HD.3F.010_(11086446676)(Chen_Ning_Yang).jpg",
+          "to": "File:HD.3F.010 (11086446676)(Chen Ning Yang).jpg"
+        }
+      ],
+      "pages": {
+        "176942309": {
+          "pageid": 176942309,
+          "ns": 6,
+          "title": "File:HD.3F.010 (11086446676)(Chen Ning Yang).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/HD.3F.010_%2811086446676%29%28Chen_Ning_Yang%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:HD.3F.010_(11086446676)(Chen_Ning_Yang).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176942309",
+              "sha1": "1c2ae1228dfeb63682813d61a0ede0e5ef3faa0b",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-10-18 12:53:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "HD.3F.010 (11086446676)(Chen Ning Yang)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Chen Ning Yang|PD US DOE|Extracted images|Photographs by the U.S. Department of Energy",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Group photo of Nobel laureates in Physics. Standing from left: <a href=\"https://en.wikipedia.org/wiki/Val_Logsdon_Fitch\" class=\"extiw\" title=\"w:Val Logsdon Fitch\">Val Logsdon Fitch</a>, <a href=\"https://en.wikipedia.org/wiki/James_Cronin\" class=\"extiw\" title=\"w:James Cronin\">James Watson Cronin</a>, <a href=\"https://en.wikipedia.org/wiki/Samuel_C._C._Ting\" class=\"extiw\" title=\"w:Samuel C. C. Ting\">Samuel Chao Chung Ting</a>. Seated from left: <a href=\"https://en.wikipedia.org/wiki/Chen-Ning_Yang\" class=\"extiw\" title=\"w:Chen-Ning Yang\">Chen-Ning Yang</a> and <a href=\"https://en.wikipedia.org/wiki/Isidor_Isaac_Rabi\" class=\"extiw\" title=\"w:Isidor Isaac Rabi\">Isidor Isaac Rabi</a>.",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/departmentofenergy/11086446676/\">HD.3F.010</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37916456@N02\">ENERGY.GOV</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Information\n| Description = Group photo of Nobel laureates in Physics. Standing from left: {{w|Val Logsdon Fitch}}, {{w|James Cronin|James Watson Cronin}}, {{w|Samuel C. C. Ting|Samuel Chao Chung Ting}}. Seated from left: {{w|Chen-Ning Yang}} and {{w|Isidor Isaac Rabi}}.\n| Source      = [https://www.flickr.com/photos/departmentofenergy/11086446676/ HD.3F.010]\n| Date        = \n| Author      = [https://www.flickr.com/people/37916456@N02 ENERGY.GOV]\n| Permission  = \n| other_versions={{Extracted from|1=HD.3F.010 (11086446676).jpg}}\n}}\n\n== {{int:license-header}} ==\n{{PD-USGov-DOE}}\n\n[[Category:Chen Ning Yang]]\n[[Category:Photographs by the U.S. Department of Energy]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

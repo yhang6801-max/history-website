@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Deportation hearing for California Institute of Technology scientist, Dr. Hsue-shen Tsien. Original caption: RED ISSUE&mdash;Scene at Department of Immigration hearing to determine whether Dr. Hsue-shen Tsien, Caltech scientist, should be deported as an alien belonging to the Communist Party. Others, from left, are Grant B. Cooper, Dr. Tsien's attorney; a hearing reporter, Albert Del Guercio, examining officer, and Ray Waddell, hearing officer.}}
+|date=1950-11-16
+|source=https://digital.library.ucla.edu/catalog/ark:/21198/zz0002r6xw
+|author=Los Angeles Times
+|permission=
+|other versions={{Extracted from|1=Hsue-shen Tsien at his deportation hearing.jpg}}
+}}
+
+=={{int:license-header}}==
+{{LATimes UCLA}}
+
+[[Category:Qian Xuesen]]
+[[Category:Los Angeles Times, 1950]]
+[[Category:Deportation]]

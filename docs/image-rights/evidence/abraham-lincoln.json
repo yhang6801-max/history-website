@@ -1,0 +1,120 @@
+{
+  "id": "abraham-lincoln",
+  "retrievedAt": "2026-09-05T00:39:52.5928278+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_by_Gardner,_1863.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AAbraham_Lincoln_O-77_by_Gardner%2C_1863.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Abraham_Lincoln_O-77_by_Gardner,_1863.jpg",
+          "to": "File:Abraham Lincoln O-77 by Gardner, 1863.jpg"
+        }
+      ],
+      "pages": {
+        "31506495": {
+          "pageid": 31506495,
+          "ns": 6,
+          "title": "File:Abraham Lincoln O-77 by Gardner, 1863.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Abraham_Lincoln_O-77_by_Gardner%2C_1863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_by_Gardner,_1863.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31506495",
+              "sha1": "e4cbae69432525c14b87e528271923c1e1564945",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-03-08 17:03:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Abraham Lincoln O-77 by Gardner, 1863",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US|Retouched pictures|Abraham Lincoln in 1863",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "This famous image of Lincoln was photographed by Alexander Gardner on November 8, 1863, just weeks before he would deliver the Gettysburg Address. It is sometimes referred to as the \"Gettysburg portrait,\" although it was actually taken in Washington. As Lincoln had previously done in August 1863, he visited Gardner's studio on a Sunday afternoon. He posed for several additional portraits during this session.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1863-11-08",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Library_of_Congress\" class=\"extiw\" title=\"w:en:Library of Congress\"><span title=\"(de facto) national library of the United States of America\">Library of Congress</span></a>\n</bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alexander_Gardner_(photographer)\" class=\"extiw\" title=\"w:en:Alexander Gardner (photographer)\"><span title=\"Scottish photographer (1821–1882)\">Alexander Gardner</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|This famous image of Lincoln was photographed by Alexander Gardner on November 8, 1863, just weeks before he would deliver the Gettysburg Address. It is sometimes referred to as the \"Gettysburg portrait,\" although it was actually taken in Washington. As Lincoln had previously done in August 1863, he visited Gardner's studio on a Sunday afternoon. He posed for several additional portraits during this session.}}\n|Source={{institution:Library of Congress}}\n|Date=1863-11-08\n|Author={{Creator:Alexander Gardner}}\n|Permission={{PD-US}}\n|other_versions=https://www.loc.gov/item/scsm000793/ <br> http://www.physical-lincoln.com/exposure/o77\n}}\n{{Retouched picture |1=Desaturated (R 120% Y 110%), adjusted levels, removes minor artifacts, adjusted for [http://www.physical-lincoln.com/wiki/Too-thin_images artifactual vertical elongation] |editor=Scewing |orig= |origoff=http://lcweb2.loc.gov/service/rbc/lprbscsm/scsm0793/001r.jpg }}\n\n[[Category:Abraham Lincoln in 1863|O77]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

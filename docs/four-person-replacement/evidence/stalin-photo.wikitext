@@ -1,0 +1,17 @@
+{{Allow Overwriting}}
+=={{int:filedesc}}==
+{{Information
+|description={{en|1={{en|A cropped image of [[:en:Joseph Stalin|Joseph Stalin]] during the [[:en:Tehran Conference|Tehran Conference]]. In the full photo he is sitting beside [[:en:Franklin D. Roosevelt|Franklin D. Roosevelt]], and [[:en:Winston Churchill|Winston Churchill]] on the [[:en:Portico|portico]] of the [[:en:Diplomatic missions of Russia|Russian Embassy]].}}}}
+|date=1943-11-28
+|source=https://www.flickr.com/photos/fdrlibrary/5692883651/in/photolist-9F4vYp-22ae5pb-pJ7JqW-K3WmE1-aLPLs-6Vabay-NqPyuh-HWjDm-c6vbJb-6nB5GV-2nz3Z3L-2ng3EXs-jPHsby-2mjXbtV-2mk35mZ-2mk1R6S-N3mAhq-badiTV-Tbz48z-8FEJKL-cW5Ai3-6DbnWC-2mk2hny-8r4J3U-rf4YtS-2mk2dbs-Pc4H6w-c7JERw-2mjTwCr-2mk2fmV-2mk33V2-2mjYipt-2mk27yL-c6v3hU-puHocy-2mjXmTY-2mjYHHd-2mk23wn-2mjTgEF-2mjTmiZ-2mk3cUj-2mk23vR-2mjYxkK-2mjX2vj-2mjTfnq-2mk3746-2mjYpQV-2mk33Uv-9qqUDz-2mawZaz
+|author=Franklin D. Roosevelt Library Public Domain Photographs
+|permission=
+|other_versions={{Image extracted|1=Joseph Stalin Cropped 1943 (3x4 cropped).jpg}}{{Extracted from|1=Tehran Conference 1943.jpg}}
+}}
+
+=={{int:license-header}}==
+{{PD-USGov}}
+
+[[Category:Joseph Stalin at the Tehran Conference]]
+[[Category:Portraits of Joseph Stalin]]
+[[Category:Joseph Stalin in 1943]]

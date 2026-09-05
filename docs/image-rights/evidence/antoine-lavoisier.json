@@ -1,0 +1,114 @@
+{
+  "id": "antoine-lavoisier",
+  "retrievedAt": "2026-09-05T00:34:15.6659921+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_(cropped).jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3ADavid_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2020-03-25T15:31:51Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "normalized": [
+        {
+          "from": "File:David_-_Portrait_of_Monsieur_Lavoisier_(cropped).jpg",
+          "to": "File:David - Portrait of Monsieur Lavoisier (cropped).jpg"
+        }
+      ],
+      "pages": {
+        "88549283": {
+          "pageid": 88549283,
+          "ns": 6,
+          "title": "File:David - Portrait of Monsieur Lavoisier (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88549283",
+              "sha1": "49f97db7e3a416008de3c6b67ce903411bdb6009",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-12-12 18:03:20",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<i>Portrait of <a href=\"//commons.wikimedia.org/wiki/Antoine-Laurent_de_Lavoisier\" title=\"Antoine-Laurent de Lavoisier\">Monsieur de Lavoisier</a> and his Wife, chemist <a href=\"//commons.wikimedia.org/wiki/Marie-Anne_Pierrette_Paulze\" title=\"Marie-Anne Pierrette Paulze\">Marie-Anne Pierrette Paulze</a></i>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Royal Commission on Animal Magnetism|Portrait of Monsieur de Lavoisier and his Wife (Jacques-Louis David)|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|Images with extracted images|Extracted images|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks digital representation of 2D work|Historical laboratory equipment",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jacques-Louis_David\" class=\"extiw\" title=\"w:en:Jacques-Louis David\"><span title=\"French painter (1748–1825)\">Jacques-Louis David</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1788 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q613928#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This image has been <b>extracted</b> from another file",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Artwork\n |wikidata          = Q613928\n |title      = {{en|''Portrait of [[Antoine-Laurent de Lavoisier|Monsieur de Lavoisier]] and his Wife, chemist [[Marie-Anne Pierrette Paulze]]}}\n             {{fr|Portrait de [[Antoine-Laurent de Lavoisier|Monsieur de Lavoisier]] et sa femme [[Marie-Anne Pierrette Paulze]]}}\n             {{pl|Portret [[Antoine-Laurent de Lavoisier|Monsieur de Lavoisier]] i jego żony, chemik [[Marie-Anne Pierrette Paulze]]}}\n             {{el|Γάλλος χημικός Ο Αντουάν Λωράν Λαβουαζιέ με την γυναίκα του Μαρί Αν}}\n |object history     = Antoine-Laurent Lavoisier, Paris (1788–d. 1794); Mme Antoine-Laurent Lavoisier, later Countess Rumford, Paris (1794–d. 1836); her great-niece, comtesse Pierre-Léon Bérard de Chazelles (Jeanne-Marie-Laure-Hélène-Gabrielle Ramey de Sugny), Paris, and later the Auvergne (1836–1876 [his death] or 1888 [her death]); her son, comte Étienne Bérard de Chazelles, Paris, and château de la Canière, near Aigueperse (by 1888–d. 1923; his estate, 1923–24; sold by his heirs to Wildenstein); [Wildenstein, Paris and New York, 1924–25; sold to Rockefeller]; John D. Rockefeller Jr., New York (1925–27); Rockefeller Institute for Medical Research, later Rockefeller University, New York (1927–77; sold to MMA)\n |source             = {{Extracted from|1=David - Portrait of Monsieur Lavoisier and His Wife.jpg}} {{met online |1=436106 |invno=1977.10 |as= }}\n}}\n{{Image extracted|1=Antoine Lavoisier by Jacques-Louis David (cropped 2).jpg}}\n\n=={{int:license-header}}==\n{{PD-art-old-100-expired}}\n\n\n[[Category:Portrait of Monsieur de Lavoisier and his Wife (Jacques-Louis David)]]\n[[Category:Historical laboratory equipment]]\n[[Category:Royal Commission on Animal Magnetism]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

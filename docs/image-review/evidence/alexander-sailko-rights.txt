@@ -1,0 +1,35 @@
+=={{int:filedesc}}==
+{{Artwork
+ |artist             = 
+ |author             = [[User:Sailko|Sailko]]
+ |title              = 
+ |description        = {{it|1=Mosaics in the Museo Archeologico (Naples)}}
+ |object type        = 
+ |date               = 2013-11-29 11:35:44
+ |medium             = 
+ |dimensions         = 
+ |institution        = 
+ |department         = 
+ |accession number   = 
+ |place of creation  = 
+ |place of discovery = 
+ |object history     = 
+ |exhibition history = 
+ |credit line        = 
+ |inscriptions       = 
+ |notes              = 
+ |references         = 
+ |source             = {{own}}
+ |permission         = 
+ |other_versions     = 
+ |wikidata           = 
+ |other_fields       = 
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+
+[[Category:Photographs by User:Sailko]]
+[[Category:Battle of Issus mosaic (from Pompeii)]]
+[[Category:Photographs of antiquities by User:Sailko - Mosaics]]

@@ -1,0 +1,31 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    = {{de|1=Nicolaus Copernicus (Porträt aus dem Rathaus in [[:de:Thorn|Thorn]], um 1580)}}
+{{en|1=[[Nicolaus Copernicus]] portrait from Town Hall in [[Toruń]] - 1580)}}
+{{eo|1=Nikolao Koperniko (Portreto el [[Toruń]] – 1580)}}
+{{pl|1=Mikołaj Kopernik (portret z Sali Mieszczańskiej w Ratuszu Staromiejskim w [[Toruń|Toruniu]] – 1580 r.)}}
+{{fr|1=[[:fr:Nicolas Copernic|Nicolas Copernic]], (anonyme, 1580),portrait exposé au musée de Toruń}}
+{{es|1=Nicolás Copérnico (retrato en el ayuntamiento de Toruń, c. 1580)}}
+|Source         = 
+* http://www.frombork.art.pl/Ang10.htm
+* https://www.welt.de/img/kultur/mobile152954235/1212503297-ci102l-w1024/Kopernikus-Gemaelde-in-Krakau.jpg
+|Date           = {{Complex date|circa|1580}}
+|Author         = {{unknown|Author}}
+|Permission     = 
+|Other_versions = [[File:Nikolaus KopernikusFXD.jpg|thumb|none|upright=.5|Remastered color]] [[File:Nikolaus Kopernikus MOT.jpg|thumb]]
+}}
+{{Artwork
+|Title={{de|1= [[:de:Nicolaus Copernicus|Nicolaus Copernicus]]}}
+|Technique={{de|1= Tempera und Öl auf Holz}}{{pl|1=Olej i tempera na desce}}{{es|1=Óleo y témpera sobre tabla}} {{Technique|tempera}} {{Technique|oil}} {{Technique|wood}}
+|Dimensions= {{Size|cm|50.8 | 40.5 }}
+|Location= [[Toruń]], Poland
+|Institution={{Institution:District Museum in Toruń}}{{en|1=Regional Museum in Toruń}}{{pl|1=Muzeum Okręgowe w Toruniu, Ratusz Staromiejski, Sala Mieszczańska}}
+|Notes={{en|1580}}{{pl|1=Data powstania: 1580}}
+|Source=http://www.frombork.art.pl/Ang10.htm
+|Artist={{de|1=Unbekannt}}{{en|1=Unknown}}{{pl|1=Nieznany}}{{es|1=Desconocido}} {{unknown|Author}}
+|wikidata=Q105296737
+|Other versions={{Derivative versions|Kopernikus, Gilbert, Galilee, Kepler.jpg|display=60}}
+}}
+{{PD-art-100}}
+
+[[Category:Portrait of Nicolaus Copernicus in the District Museum in Toruń]]

@@ -1,0 +1,122 @@
+{
+  "id": "julius-caesar",
+  "retrievedAt": "2026-09-05T00:36:01.0343929+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bust_of_Julius_Caesar.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3ABust_of_Julius_Caesar.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2025-01-03T13:43:40Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Bust_of_Julius_Caesar.jpg",
+          "to": "File:Bust of Julius Caesar.jpg"
+        }
+      ],
+      "pages": {
+        "146020528": {
+          "pageid": 146020528,
+          "ns": 6,
+          "title": "File:Bust of Julius Caesar.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bust_of_Julius_Caesar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Julius_Caesar.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146020528",
+              "sha1": "b5f8830a3444a00fc1a7507d598d6bf78d62e0bf",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-06-24 12:45:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Bust of Julius Caesar",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Self-published work|Statues in the Pio Clementino Museum (Vatican Museums)|Media created with Nikon Z7ii provided by the Quebec WikiClub|Busts by Wilfredor|Rome photographs taken on 2024-02-10|Images from Roma Project|Ancient busts of Julius Caesar|Vatican Museums by Wilfredor|Statues by Wilfredor|Busts of Julius Caesar in Italy",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Bust of Julius Caesar, in the Greek Cross Hall of the Vatican Museum",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-02-10 07:19:32",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q115464159\" class=\"extiw\" title=\"d:Q115464159\"><span title=\"developer analyst and photographer from Venezuela\">Wilfredor</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Information\n|description={{Multilingual description|en=Bust of Julius Caesar, in the Greek Cross Hall of the Vatican Museum|es=Busto de Julio César, en el Salón de la Cruz griega del Museo Vaticano|fr=Buste de Jules César, dans la salle de la Croix grecque du Musée du Vatican|pt=Busto de Júlio César, no Salão da Cruz Grega do Museu do Vaticano|ru=Бюст Юлия Цезаря в Греческом Зале Креста Музея Ватикана|zh=在梵蒂冈博物馆的希腊十字堂 尤利乌斯·凯撒的屁股|de=Büste von Julius Caesar, in der griechischen Kreuzhalle des Vatikanischen Museums}}\n|date=2024-02-10 07:19:32\n|source={{own}}\n|author={{Creator:Wilfredo Rafael Rodriguez Hernandez}}\n|permission=\n|other versions= <gallery>Bust of Julius Caesar 2.jpg</gallery>\n}}\n\n{{QCWC-Z7II}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n[[Category:Images from Roma Project]]\n[[Category:Ancient busts of Julius Caesar]]\n[[Category:Vatican Museums by Wilfredor]]\n[[Category:Statues in the Pio Clementino Museum (Vatican Museums)]][[Category:Busts by Wilfredor]]\n[[Category:Rome photographs taken on 2024-02-10]]\n[[Category:Quality images of sculptures in Rome]]\n{{QualityImage}}\n[[Category:Quality images by Wilfredor]]\n[[Category:Statues by Wilfredor]]\n[[Category:Busts of Julius Caesar in Italy]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

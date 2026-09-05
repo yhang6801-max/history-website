@@ -1,0 +1,43 @@
+== {{int:filedesc}} ==
+{{Artwork
+ |wikidata           = Q121411536
+ |artist             = {{Creator:Godfrey Kneller}}
+ |author             = 
+ |title              = {{title|en={{Portrait of male|[[Isaac Newton]] (1642-1727)}} }}
+ |description        = {{Portrait of male|[[Isaac Newton]] (1642-1727)}}
+ |object type        = painting
+ |date               = 1689
+ |medium             = {{Technique|oil|canvas}}
+ |dimensions         = 
+ |institution        = 
+ |department         = 
+ |accession number   = 
+ |place of creation  = 
+ |place of discovery = 
+ |object history     = 
+ |exhibition history = 
+ |credit line        = 
+ |inscriptions       = 
+ |notes              = 
+ |references         = 
+ |source             = https://exhibitions.lib.cam.ac.uk/linesofthought/artifacts/newton-by-kneller/
+ |permission         = 
+ |other_versions     = <gallery>
+Portrait of Sir Isaac Newton, 1689FXD.jpg|Remastered color
+GodfreyKneller-IsaacNewton-1689.jpg
+Sir Isaac Newton (1643-1727).jpg
+</gallery>
+ |other_fields       = 
+}}
+
+=={{int:license-header}}==
+{{PD-Art|PD-old-auto-expired|deathyear=1723|country=UK}}
+
+{{DEFAULTSORT:1689; Isaac Newton}}
+[[Category:46-year-old human males|Newton, Isaac]]
+[[Category:Male portrait paintings by Godfrey Kneller]]
+[[Category:17th-century portrait paintings of men, location missing]]
+[[Category:Portrait paintings of Isaac Newton]]
+[[Category:1689 portrait paintings of men|Male]]
+[[Category:17th-century oil portraits of men at half length]]
+[[Category:Scientists in 1689]]

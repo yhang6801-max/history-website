@@ -1,0 +1,115 @@
+{
+  "id": "hongwu-emperor",
+  "retrievedAt": "2026-09-05T00:36:06.8757966+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongwu_(closeup).jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AHongwu_%28closeup%29.jpg",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:Hongwu_(closeup).jpg",
+          "to": "File:Hongwu (closeup).jpg"
+        }
+      ],
+      "pages": {
+        "119729745": {
+          "pageid": 119729745,
+          "ns": 6,
+          "title": "File:Hongwu (closeup).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hongwu_%28closeup%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hongwu_(closeup).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119729745",
+              "sha1": "7a18bf738a6a20e4e643328f3fcb19accb665aea",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-06-25 13:57:38",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nA Seated Portrait of Ming Emperor Taizu <br>明太祖坐像</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Artworks without Wikidata item|PD-Art (PD-old-100)|Artworks with known accession number|Extracted images|Template Unknown (artist)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Portraits of Hongwu Emperor|Dragon robes of the Ming Dynasty|Yishanguan in art",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nThis painting depicts Zhu Yuanzhang (朱元璋), Emperor Taizu of the Ming dynasty (明太祖), who reigned from 1368 to 1398. Hongwu (洪武) was the title of his reign period.</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Ming dynasty",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://theme.npm.edu.tw/exh108/oversized10807/en/index.html\">Oversize Scrolls of Painting and Calligraphy</a> (2019 exhibit). Taipei: National Palace Museum.<br><a rel=\"nofollow\" class=\"external text\" href=\"https://theme.npm.edu.tw/exh108/oversized10807/ch/index.html\">巨幅書畫</a> (2019年展覽). 臺北: 國立故宮博物院.",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{unknown|artist}}\n |author             =\n |title              = A Seated Portrait of Ming Emperor Taizu <br/>明太祖坐像\n |description        = This painting depicts Zhu Yuanzhang (朱元璋), Emperor Taizu of the Ming dynasty (明太祖), who reigned from 1368 to 1398. Hongwu (洪武) was the title of his reign period.\n |date               = Ming dynasty\n |medium             = {{technique|silk}}\n |dimensions         = 291.4x 162.8 cm\n |institution        = National Palace Museum\n |department         =\n |place of discovery =\n |object history     =\n |exhibition history =\n |credit line        =\n |inscriptions       =\n |notes              =\n |accession number   = [http://painting.npm.gov.tw/Painting_Page.aspx?dep=P&PaintingId=1873 中-畫-000311-00000]\n |place of creation  = China\n |source             = [https://theme.npm.edu.tw/exh108/oversized10807/en/index.html Oversize Scrolls of Painting and Calligraphy] (2019 exhibit). Taipei: National Palace Museum.<br/>[https://theme.npm.edu.tw/exh108/oversized10807/ch/index.html 巨幅書畫] (2019年展覽). 臺北: 國立故宮博物院.\n |permission         =\n |other_versions     = {{Extracted from|1=A Seated Portrait of Ming Emperor Taizu.jpg}}<gallery>\nFile:A Seated Portrait of Ming Emperor Taizu.jpg\nFile:Hongwu1.jpg\nFile:Hongwu1_crop.jpg\nFile:Hongwu2.jpg\n</gallery>\n |references         = [https://theme.npm.edu.tw/exh108/oversized10807/en/index.html Oversize Scrolls of Painting and Calligraphy] (2019 exhibit). Taipei: National Palace Museum.<br/>[https://theme.npm.edu.tw/exh108/oversized10807/ch/index.html 巨幅書畫] (2019年展覽). 臺北: 國立故宮博物院.\n |wikidata           =\n}}\n\n== {{int:license-header}} ==\n{{PD-Art-100}}\n[[Category:Portraits of Hongwu Emperor]]\n[[Category:Yishanguan in art]]\n[[Category:Dragon robes of the Ming Dynasty]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

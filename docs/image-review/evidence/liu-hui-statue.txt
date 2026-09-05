@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Bust of Liu Hui in Hunan International Economics University. The Bust of Liu Hui is an important part of the sculpture group of renowned scientists at Hunan International Economics University. It is a bronze bust with a simple and realistic style that recreates the image of Liu Hui as an ancient scholar. The pedestal is made of gray stone, with the following inscriptions: On the front: the golden regular script "Liu Hui", along with the modern sans-serif birth-death years "(225~295)" and a brief introduction: "A great mathematician in the history of mathematics." Below: the classic exposition of Liu Hui's circle-cutting method: "The more finely we cut, the smaller the loss; cutting again and again until no more cuts can be made, it will merge with the circle without any loss." Liu Hui (225 - 295) was a Chinese mathematician in the Wei and Jin dynasties. '''Note: The calligraphic artworks of the name, the birth-death years, the introductory text, and the classic exposition of Liu Hui's circle-cutting method on the pedestal are not in the public domain.'''}}
+{{zh|1=湖南涉外经济学院的刘徽半身雕像。刘徽半身雕像是湖南涉外经济学院科学家名人雕塑群的重要组成部分。铜质半身胸像，造型古朴写实，还原了刘徽古代学者的形象；基座为灰色石材，基座铭文——正面：镌刻金色楷书 “刘徽”，搭配现代印刷体生卒年 “(225~295)” 与简介：“数学史上伟大的数学家。”下方刻有刘徽割圆术的经典论述：“割之弥细，失之弥小，割之又割以至于不可割，则与圆合体而无所失矣。”刘徽（225年—295年）中国魏晋时期的数学家。'''注意：基座上的姓名、生卒年以及简介短文以及刘徽割圆术的经典论述的书法作品不属于公有领域。'''}}
+|date=2014-08-25 14:23:35
+|source={{own}}
+|author=Uploaded by [[User:Huangdan2060|Huangdan2060]]
+|permission=
+|other_versions=
+}}
+
+=={{int:license-header}}==
+{{FoP-China|artwork=Bust of Liu Hui ({{lang|zh-hans|刘徽半身雕像}}) |author1= Unknown }}
+{{De minimis|text}}
+{{self|cc-by-3.0}}
+
+[[Category:Hunan International Economics University]]
+[[Category:Busts in Changsha]]
+[[Category:Liu Hui (mathematician)]]
+[[Category:Taken with Canon Digital IXUS 105]]

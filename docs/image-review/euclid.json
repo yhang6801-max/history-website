@@ -1,0 +1,12 @@
+{
+  "id": "euclid",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Euclid_Wellcome_M0004267.jpg",
+  "author": "Artist not identified / Wellcome Library, London / Wellcome Images",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "en": "A later representation identified as Euclid in the Wellcome Collection, image M0004267. It is not an authenticated likeness made during his lifetime. The file page does not identify the artist. Credit: Wellcome Library, London / Wellcome Images. Licensed CC BY 4.0.",
+  "zh": "Wellcome Collection 标识为欧几里得的后世形象，图片编号 M0004267，并非经过确证的生前容貌。文件页未列出画家。署名：Wellcome Library, London / Wellcome Images。采用 CC BY 4.0 许可。",
+  "position": "center",
+  "checked": "2026-09-04",
+  "visualReview": "Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified."
+}

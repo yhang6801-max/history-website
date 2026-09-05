@@ -1,0 +1,11 @@
+{{Information
+|Description= 本图为1922年11月15日，孙中山在上海波尔照相馆拍摄的肖像照，也是广为使用的孙中山标准像。
+{{en|1=Portrait of Sun Yat-sen}}
+{{zh-cn|1=孙中山标准像}}
+|Source= 孙中山纪念馆 http://cyc7.cycnet.com:8091/leaders/szs/content.jsp?id=6936&s_code=1103
+|Date=1922年11月15日
+|Author= 上海波尔照相馆
+|Permission= {{PD-China}} {{PD-US-expired}}
+|other_versions=
+}}
+[[Category:Portraits of Sun Yat-sen]]

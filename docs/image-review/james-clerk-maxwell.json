@@ -1,0 +1,12 @@
+{
+  "id": "james-clerk-maxwell",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:James-clerk-maxwell3.jpg",
+  "author": "Photographer not identified; scan: Benjamin Crowell; contrast and edge crop: Quibik",
+  "licenseName": "Public domain (Public Domain Mark 1.0)",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "en": "Photograph of James Clerk Maxwell, reproduced in Practical Physics by Millikan and Gale (1920), scanned by Benjamin Crowell. Commons marks the image public domain; Quibik adjusted contrast and the right edge. The original photographer is not identified on the file page.",
+  "zh": "詹姆斯·克拉克·麦克斯韦的照片，来自 Millikan 和 Gale 的《Practical Physics》（1920），由 Benjamin Crowell 扫描。Commons 标为公有领域；Quibik 调整了对比度和右侧边缘。文件页未注明原摄影师。",
+  "position": "center",
+  "checked": "2026-09-04",
+  "visualReview": "Blocked: view_image failed with Windows sandbox helper_unknown_error; crop not visually verified."
+}

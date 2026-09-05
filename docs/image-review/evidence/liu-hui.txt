@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Lui Hui}}
+|date=2022-02-13 14:36:09
+|source="Liu Hui (220 - 280) - Biography - MacTutor History of Mathematics" https://mathshistory.st-andrews.ac.uk/Biographies/Liu_Hui/
+|author=Unknown 
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-4.0}}
+
+[[Category:Liu Hui (mathematician)]]

@@ -1,0 +1,258 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 3,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "88549283": {
+        "pageid": 88549283,
+        "ns": 6,
+        "title": "File:David - Portrait of Monsieur Lavoisier (cropped).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88549283",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-12 18:03:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<i>Portrait of <a href=\"//commons.wikimedia.org/wiki/Antoine-Laurent_de_Lavoisier\" title=\"Antoine-Laurent de Lavoisier\">Monsieur de Lavoisier</a> and his Wife, chemist <a href=\"//commons.wikimedia.org/wiki/Marie-Anne_Pierrette_Paulze\" title=\"Marie-Anne Pierrette Paulze\">Marie-Anne Pierrette Paulze</a></i>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Royal Commission on Animal Magnetism|Portrait of Monsieur de Lavoisier and his Wife (Jacques-Louis David)|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|Images with extracted images|Extracted images|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks digital representation of 2D work|Historical laboratory equipment",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jacques-Louis_David\" class=\"extiw\" title=\"w:en:Jacques-Louis David\"><span title=\"French painter (1748–1825)\">Jacques-Louis David</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1788 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q613928#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This image has been <b>extracted</b> from another file",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "28550": {
+        "pageid": 28550,
+        "ns": 6,
+        "title": "File:David - Portrait of Monsieur Lavoisier and His Wife.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28550",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-03-20 18:02:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<i>Portrait of <a href=\"//commons.wikimedia.org/wiki/Antoine-Laurent_de_Lavoisier\" title=\"Antoine-Laurent de Lavoisier\">Monsieur de Lavoisier</a> and his Wife, chemist <a href=\"//commons.wikimedia.org/wiki/Marie-Anne_Pierrette_Paulze\" title=\"Marie-Anne Pierrette Paulze\">Marie-Anne Pierrette Paulze</a></i>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portrait of Monsieur de Lavoisier and his Wife (Jacques-Louis David)|PD-old-100-expired|Featured pictures on Wikipedia, English|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|Images with extracted images|Featured pictures on Wikipedia, Persian|CC-PD-Mark|Robe de gaulle|Artworks digital representation of 2D work|Historical laboratory equipment",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jacques-Louis_David\" class=\"extiw\" title=\"w:en:Jacques-Louis David\"><span title=\"French painter (1748–1825)\">Jacques-Louis David</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1788<div style=\"display: none;\">date QS:P571,+1788-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art\" class=\"extiw\" title=\"en:Metropolitan Museum of Art\">Metropolitan Museum of Art</a>:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/art/collection/search/436106\">436106</a> (accession number: 1977.10)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "6952283": {
+        "pageid": 6952283,
+        "ns": 6,
+        "title": "File:Portrait of Antoine-Laurent Lavoisier and his wife.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Portrait_of_Antoine-Laurent_Lavoisier_and_his_wife.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Antoine-Laurent_Lavoisier_and_his_wife.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6952283",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-06-06 05:41:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Antoine Laurent Lavoisier (1743–1794) and His Wife (Marie Anne Pierrette Paulze, 1758–1836) <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q613928#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Antoine Laurent Lavoisier (1743–1794) and His Wife (Marie Anne Pierrette Paulze, 1758–1836) <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q613928#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Antoine Laurent Lavoisier (1743–1794) and His Wife (Marie Anne Pierrette Paulze, 1758–1836) <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q613928#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Les,\"Retrato de Antoine-Laurent Lavoisier y su esposa\"</div><div style=\"display: none;\">label QS:Lfr,\"Portrait d'Antoine-Laurent Lavoisier et de sa femme\"</div><div style=\"display: none;\">label QS:Lru,\"Антуан-Лоран Лавуазье (1743–1794 гг.) и его жена (Мари-Анн-Пьеретт Польз, 1758–1836 гг.)\"</div><div style=\"display: none;\">label QS:Lde,\"Antoine‑Laurent Lavoisier (1743–1794) und seine Frau (Marie‑Anne‑Pierrette Paulze, 1758–1836)\"</div><div style=\"display: none;\">label QS:Lpt,\"Retrato de Antoine Lavoisier e sua mulher\"</div><div style=\"display: none;\">label QS:Lhy,\"Անտուան Լորեն Լավուազիեի և նրա որդու դիմանկարը\"</div><div style=\"display: none;\">label QS:Lzh,\"拉瓦锡夫妇\"</div><div style=\"display: none;\">label QS:Lro,\"Portretul lui Antoine-Laurent Lavoisier și al soției sale\"</div><div style=\"display: none;\">label QS:Lja,\"アントワーヌ=ローラン・ド・ラヴォアジエ (1743–1794年)とその妻 (マリー・アンヌ・ピエレット・ポールズ、(1758–1836年)の肖像画\"</div><div style=\"display: none;\">label QS:Lsv,\"Porträtt av Antoine-Laurent Lavoisier och hans hustru\"</div><div style=\"display: none;\">label QS:Lpl,\"Portret Monsieur de Lavoisier i jego żony, chemik Marie-Anne Pierrette Paulze\"</div><div style=\"display: none;\">label QS:Luk,\"Портрет Антуана-Лорана Лавуазьє та його дружини\"</div><div style=\"display: none;\">label QS:Lit,\"Antoine-Laurent Lavoisier (1743-1794) e la moglie (Marie-Anne-Pierrette Paulze, 1758-1836)\"</div><div style=\"display: none;\">label QS:Lko,\"앙투안 로랑 라부아지에와 부인의 초상\"</div><div style=\"display: none;\">label QS:Larz,\"لوحه انطوان لوران لافوازييه وزوجته\"</div><div style=\"display: none;\">label QS:Lar,\"لوحة انطوان لوران لافوازييه وزوجته\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portrait paintings of couples|Portrait of Monsieur de Lavoisier and his Wife (Jacques-Louis David)|PD-Art (PD-old-100)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|Touching in art|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|Powdered hair in art",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jacques-Louis_David\" class=\"extiw\" title=\"w:en:Jacques-Louis David\"><span title=\"French painter (1748–1825)\">Jacques-Louis David</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Portrait of Monsieur de Lavoisier and his Wife, chemist Marie-Anne Pierrette Paulze",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1788<div style=\"display: none;\">date QS:P571,+1788-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://quiteo.googlepages.com/atomol\">http://quiteo.googlepages.com/atomol</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+
+== {{int:filedesc}} ==
+{{NARA-image-full
+ | Title                   = Winston Churchill at the Quebec Conference
+ | Description = Winston Churchill in front of the Parliament Building in Québec
+ | Scope and content       = 
+ | General notes           = 
+ | ARC                     = 197182
+ | Local identifier        = 
+ | Creator                 = Roosevelt, Franklin D. (Franklin Delano), 1882-1945
+ | Author                  = 
+ | Place                   = {{NARA-Place|Qu&eacute;bec (Qu&eacute;bec province, Canada, North and Central America) inhabited place|4200574|46.833|-71.25}}<br />
+ | Location                = Franklin D. Roosevelt Library (NLFDR), 4079 Albany Post Road, Hyde Park, NY, 12538-1999.
+ | Date                    = 1944-09
+ | Record group            = Collection FDR-PHOCO: Franklin D. Roosevelt Library Public Domain Photographs, 1882 - 1962
+ | Record group ARC        = 1184
+ | Series                  = Franklin D. Roosevelt Library Public Domain Photographs, compiled 1882 - 1962
+ | Series ARC              = 195301
+ | File unit               = 
+ | File unit ARC           = 
+ | Variant control numbers = NAIL Control Number: NLR-PHOCO-A-48223916(31)
+ | TIFF                    =
+ | Other versions          = <gallery>
+File:Winston_Churchill_at_the_Quebec_Conference_-_NARA_-_197182.tif|.tif
+File:Winston_Churchill_at_the_Quebec_Conference_-_NARA_-_197182.jpg|.jpg
+</gallery>
+}}
+
+== {{int:license-header}} ==
+{{NARA-cooperation}}
+{{PD-USGov}}
+
+[[Category:Quebec Conference, 1944]]
+[[Category:Winston Churchill in 1944]]
+[[Category:NARA images of Quebec]]

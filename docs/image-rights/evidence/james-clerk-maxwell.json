@@ -1,0 +1,96 @@
+{
+  "id": "james-clerk-maxwell",
+  "retrievedAt": "2026-09-05T00:34:10.7412228+08:00",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:James-clerk-maxwell3.jpg",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Cextmetadata%7Csha1&rvprop=content&rvslots=main&titles=File%3AJames-clerk-maxwell3.jpg",
+  "response": {
+    "continue": {
+      "iistart": "2005-05-26T22:50:01Z",
+      "continue": "||revisions"
+    },
+    "query": {
+      "pages": {
+        "167188": {
+          "pageid": 167188,
+          "ns": 6,
+          "title": "File:James-clerk-maxwell3.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/James-clerk-maxwell3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:James-clerk-maxwell3.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=167188",
+              "sha1": "1d5b653243d5d6dd55befa4b4cfcdbc2ac42c16d",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-11-16 02:57:41",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "James-clerk-maxwell3",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "James Clerk Maxwell|Files with no machine-readable author|Files with no machine-readable source|Media missing infobox template|PD Old|CC-PD-Mark|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "*Photograph of physicist [[James Clerk Maxwell]].\n\n*Practical Physics, Millikan and Gale, 1920, scanned by B. Crowell.\n\n*Benjamin Crowell --[[User:Bcrowell|Bcrowell]] 16:51, 26 May 2005 (UTC)\n\n{{PD-old}}\n\n[[Category:James Clerk Maxwell]]\n[[Category:Media missing infobox template]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

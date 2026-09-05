@@ -1,0 +1,28 @@
+== {{int:filedesc}} ==
+{{Artwork
+ |artist           = {{Creator:Nicolas Coustou}}
+ |title            =
+ |description      = {{en|Julius Caesar. Commissioned in 1696 for the Gardens of Versailles, to go with the ''[[:Image:Hannibal Slodtz Louvre MR2093.jpg|Annibal]]'' by Sébastien Slodtz.}}
+{{fr|Jules César par Nicolas Coustou. Commandé en 1696 pour le parc de Versailles, afin de faire pendant à l'''[[:Image:Hannibal Slodtz Louvre MR2093.jpg|Annibal]]'' de Sébastien Slodtz.}}
+ |date             = 
+ |medium           =
+ |dimensions       = H. 2.42 m (7 ft. 11 ¼ in.), W. 96 cm (37 ¾ in.), D. 96 cm (37 ¾ in.)
+ |gallery          = {{:Museum:Louvre}}
+ |location         = Department of Sculptures, Richelieu, lower ground floor, Cour Puget
+ |references       = 
+ |object history   =
+ |credit line      = From the Gardens of the Tuileries, 1872
+ |notes            =
+ |accession number = MR 1798
+ |source           = [[User:Jastrow|Marie-Lan Nguyen]] (2006)
+ |permission       = 
+ |other versions   = 
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+{{Louvre number|MR 1798}}
+
+[[Category:Julius Cesar by Nicolas Coustou (Louvre, MR 1798)]]
+[[Category:Taken with Nikon D70]]

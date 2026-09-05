@@ -1,0 +1,267 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 3,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "31615961": {
+        "pageid": 31615961,
+        "ns": 6,
+        "title": "File:John Dalton and his tomb in Manchester.png",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Dalton_and_his_tomb_in_Manchester.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:John_Dalton_and_his_tomb_in_Manchester.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31615961",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-03-15 12:25:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "John Dalton and his tomb in Manchester",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "John Dalton|PD US expired|Unknown date|PD-US missing SDC copyright status|External tomb chests in Greater Manchester|Biographies of Scientific Men (1912)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/John_Dalton\" class=\"extiw\" title=\"w:John Dalton\">John Dalton</a> and his tomb in Manchester, from the book <a href=\"https://en.wikisource.org/wiki/Biographies_of_Scientific_Men\" class=\"extiw\" title=\"s:Biographies of Scientific Men\"><i>Biographies of Scientific Men</i></a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date for portrait; tomb c.1910s",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/biographiesofsci00grifrich#page/114/mode/1up\">Biographies of Scientific Men</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "not stated",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Public domain works must be out of copyright in both the United States and in the source country of the work in order to be hosted on the Commons. If the work is not a U.S. work, the file <b>must</b> have an additional <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags\" title=\"Commons:Copyright tags\">copyright tag</a> indicating the copyright status in the source country.<br><b>Note:</b> This tag should <i>not</i> be used for sound recordings.<span style=\"display:none;\"><span class=\"licensetpl_short\">PD-1923</span><span class=\"licensetpl_long\"><a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">Public domain</a> in the United States</span><span class=\"licensetpl_link\">//commons.wikimedia.org/wiki/File:John_Dalton_and_his_tomb_in_Manchester.png</span></span>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "11727058": {
+        "pageid": 11727058,
+        "ns": 6,
+        "title": "File:John Dalton by Thomas Phillips, 1835.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/John_Dalton_by_Thomas_Phillips%2C_1835.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:John_Dalton_by_Thomas_Phillips,_1835.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11727058",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-07-14 13:32:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "John Dalton by Thomas Phillips, 1835",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|PD-Art (PD-old-auto-expired)|CC-PD-Mark|John Dalton in art|Paintings without Wikidata item|1835 portrait paintings of men|Male portrait paintings by Thomas Phillips",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Thomas_Phillips\" class=\"extiw\" title=\"w:en:Thomas Phillips\"><span title=\"British painter (1770–1845)\">Thomas Phillips</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nJohn Dalton <br> <a href=\"https://en.wikipedia.org/wiki/oil_on_canvas\" class=\"extiw\" title=\"en:oil on canvas\">oil on canvas</a><div style=\"display: none;\">medium QS:P186,Q296955;P186,Q12321255,P518,Q861259</div> <br> height: 91.4 cm (35.9 in); width: 71.4 cm (28.1 in)<div style=\"display: none;\">dimensions QS:P2048,91.4U174728</div><div style=\"display: none;\">dimensions QS:P2049,71.4U174728</div></div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1835<div style=\"display: none;\">date QS:P571,+1835-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "National Portrait Gallery, London",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "35862471": {
+        "pageid": 35862471,
+        "ns": 6,
+        "title": "File:Portrait of John Dalton Wellcome L0002379.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Portrait_of_John_Dalton_Wellcome_L0002379.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_John_Dalton_Wellcome_L0002379.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35862471",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-10-02 20:24:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nPortrait of John Dalton</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with no machine-readable author|Images uploaded by Fæ|Artworks without Wikidata item|Files from Wellcome Images|John Dalton in art|Portraits in the Wellcome Collection",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<p>Portrait of John Dalton\n</p>\n<p>Iconographic Collections</p>\nKeywords: John Dalton</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/8a/ef/a40d72b63a9b7cc6b0b709ea639b.jpg\">https://wellcomeimages.org/indexplus/obf_images/8a/ef/a40d72b63a9b7cc6b0b709ea639b.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/L0002379.html\">https://wellcomeimages.org/indexplus/image/L0002379.html</a></li>\n<li>Wellcome Collection gallery (2018-04-01): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/dkevjkdx\">https://wellcomecollection.org/works/dkevjkdx</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
