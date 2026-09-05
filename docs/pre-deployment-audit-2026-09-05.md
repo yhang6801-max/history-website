@@ -73,7 +73,7 @@
 | 33 | Du Fu — `du-fu.webp` | 作者和具体创作年代未详；清宫旧藏不等于清代创作 | PD-Art / PD-old-100；未知项已明确标注 | A |
 | 34 | Lu Xun — `lu-xun.webp` | 沙飞摄影，1936-10-08 | PD-China / PD-1996 | A |
 | 35 | Qian Xuesen — `qian-xuesen.webp` | Los Angeles Times/UCLA，1950-11-16；摄影者未详 | UCLA 合作来源链，CC BY 4.0 | A |
-| 36 | Yang Chen Ning — `yang-chen-ning.webp` | U.S. Department of Energy；摄影者和日期未详 | 美国政府作品，PD-USGov-DOE | A |
+| 36 | Chen Ning Yang — `yang-chen-ning.webp` | U.S. Department of Energy；摄影者和日期未详 | 美国政府作品，PD-USGov-DOE | A |
 | 37 | George Washington — `george-washington.webp` | Gilbert Stuart，1803 | Clark Art Institute，PD-Art / PD-old-100-expired | A |
 | 38 | Abraham Lincoln — `abraham-lincoln.webp` | Alexander Gardner 摄影，1863-11-08；Scewing 数字调整 | Library of Congress，PD-US | A |
 | 39 | Isaac Newton — `isaac-newton.webp` | Godfrey Kneller 油画，1689 | Cambridge 来源链，PD-Art / PD-old-auto-expired | A |

@@ -1236,7 +1236,7 @@ export const historicalPeople: readonly HistoricalPerson[] = [
   },
   {
     id: 'yang-chen-ning',
-    name: 'Yang Chen-Ning',
+    name: 'Chen Ning Yang',
     lifespan: '1922–2025',
     summary: 'A theoretical physicist whose work on parity, gauge theory, and statistical mechanics reshaped modern physics, and whose teaching and academic exchanges connected generations of researchers.',
     imageAttribution: {
@@ -1253,7 +1253,7 @@ export const historicalPeople: readonly HistoricalPerson[] = [
       {
         title: 'Overview',
         paragraphs: [
-          'Yang Chen-Ning, also known as Chen Ning Yang, was a theoretical physicist whose research changed how scientists understand symmetry and the fundamental interactions of matter. He shared the 1957 Nobel Prize in Physics with Tsung-Dao Lee for their investigation of parity. His work with Robert Mills became another major foundation of modern particle theory. Alongside these widely known achievements, Yang contributed to statistical mechanics and mathematical physics, while building research communities and encouraging international academic exchange over a career that extended across several generations.',
+          'Chen Ning Yang was a theoretical physicist whose research changed how scientists understand symmetry and the fundamental interactions of matter. He shared the 1957 Nobel Prize in Physics with Tsung-Dao Lee for their investigation of parity. His work with Robert Mills became another major foundation of modern particle theory. Alongside these widely known achievements, Yang contributed to statistical mechanics and mathematical physics, while building research communities and encouraging international academic exchange over a career that extended across several generations.',
         ],
       },
       {
