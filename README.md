@@ -93,4 +93,4 @@ The public UI and all 37 biographies support English and Simplified Chinese. Eng
 See [双语内容维护与验收说明](docs/bilingual-pilot.md) for data organization, preview and acceptance steps. Run `npm run test:language` with Node 24 for language data checks.
 
 
-当前 37 人：霍金、甘地、费马、丘吉尔、斯大林分别位于第 11、12、13、14、22 位，其余人物保持原相对顺序。图片署名在人物详情页统一展示。[当前 37 人上线前审计](docs/pre-deployment-audit-37-figures-2026-09-05.md)；[此前 40 人扩充验收记录](docs/four-person-replacement/README.md)作为历史证据保留。后续扩充名单待另行安排。
+当前 37 人：霍金、甘地、费马、丘吉尔、斯大林分别位于第 11、12、13、14、22 位，其余人物保持原相对顺序。图片署名在人物详情页统一展示。[当前 37 人上线前审计](docs/pre-deployment-audit-2026-09-05.md)；[此前 40 人扩充验收记录](docs/four-person-replacement/README.md)作为历史证据保留。后续扩充名单待另行安排。
