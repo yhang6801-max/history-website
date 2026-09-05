@@ -24,6 +24,7 @@ const browser = await chromium.launch(launch)
 const results = []
 const errors = []
 const translatedNames = Object.fromEntries(historicalPeople.map(person => [person.id, [person.name, getLocalizedPerson(person, 'zh-CN').name]]))
+const removedPersonRoutes = ['/people/qian-xuesen', '/people/albert-einstein', '/people/erwin-schrodinger']
 
 function ok(label) { results.push(label); console.log('PASS ' + label) }
 async function setLanguage(page, lang) {
@@ -89,7 +90,7 @@ try {
   assert.equal(await page.title(), messages.en.siteTitle)
   assert.equal(await page.locator('meta[name="description"]').getAttribute('content'), messages.en.siteDescription)
   assert.equal(await page.locator('h1').innerText(), 'Historical Figures')
-  assert.equal(await page.locator('.person-card').count(), 40)
+  assert.equal(await page.locator('.person-card').count(), 37)
   const expectedOrder = historicalPeople.map(p => '/people/' + p.id)
   const checkOrder = async () => assert.deepEqual(await page.locator('.person-card-link').evaluateAll(nodes => nodes.map(a => a.getAttribute('href'))), expectedOrder)
   await checkOrder()
@@ -105,12 +106,12 @@ try {
     assert.equal(await page.locator('a[href="/people/' + id + '"] h2').innerText(), names[1])
   }
   await checkOrder()
-  ok('Immediate switch without reload; all 40 translated cards and zero fallback notices')
+  ok('Immediate switch without reload; all 37 translated cards and zero fallback notices')
   await page.reload()
   await ready(page)
   assert.equal(await page.locator('html').getAttribute('lang'), 'zh-CN')
   await checkOrder()
-  ok('Forty cards retain the expected order in both languages and after reload')
+  ok('Thirty-seven cards retain the expected order in both languages and after reload')
   await page.getByRole('link', { name: '设置', exact: true }).click()
   await page.getByRole('heading', { name: '项目背后' }).waitFor()
   await page.getByRole('link', { name: '语言', exact: true }).click()
@@ -170,7 +171,7 @@ try {
     await page.setViewportSize({ width, height: 900 })
     for (const language of ['en', 'zh-CN']) {
       await setLanguage(page, language)
-      for (const route of ['/', '/people/napoleon-bonaparte', '/people/julius-caesar', '/people/joseph-stalin', '/people/albert-einstein', '/people/du-fu', '/people/srinivasa-ramanujan', '/people/nicolaus-copernicus', '/people/galileo-galilei', '/people/stephen-hawking', '/settings/about', '/settings/copyright', '/settings/language', '/people/missing-person', '/missing']) {
+      for (const route of ['/', '/people/napoleon-bonaparte', '/people/julius-caesar', '/people/joseph-stalin', '/people/confucius', '/people/du-fu', '/people/srinivasa-ramanujan', '/people/nicolaus-copernicus', '/people/galileo-galilei', '/people/stephen-hawking', '/settings/about', '/settings/copyright', '/settings/language', ...removedPersonRoutes, '/people/missing-person', '/missing']) {
         await page.goto(base + route)
         await ready(page)
         await noOverflow(page, width + ' ' + language + ' ' + route)
@@ -198,13 +199,17 @@ try {
         if (route === '/settings/language') {
           assert.ok((await page.locator('.settings__content').innerText()).includes(messages[language].pilotNote))
         }
+        if (removedPersonRoutes.includes(route)) {
+          assert.equal(await page.locator('h1').innerText(), messages[language].notFoundTitle)
+          assert.equal(await page.locator('.person-detail').count(), 0)
+        }
         if (process.env.SCREENSHOTS === '1' && width !== 320 && ['/', '/people/napoleon-bonaparte', '/settings/about', '/settings/language'].includes(route)) {
           await page.screenshot({ path: path.join(out, width + '-' + language + '-' + (route.replaceAll('/', '_') || 'home') + '.png'), fullPage: true })
         }
       }
     }
   }
-  ok('90 route/language/viewport combinations have no horizontal overflow; portraits, translated content and not-found states work')
+  ok('108 route/language/viewport combinations have no horizontal overflow; portraits, translated content and not-found states work')
   await page.setViewportSize({ width: 1440, height: 1000 })
   await page.goto(base)
   await setLanguage(page, 'zh-CN')
@@ -232,7 +237,7 @@ try {
   await page.getByRole('heading', { name: '历史人物', exact: true }).waitFor()
   await page.goForward()
   await page.getByRole('heading', { name: '詹姆斯·克拉克·麦克斯韦' }).waitFor()
-  ok('All 40 person routes render with sources; card navigation and browser Back/Forward work')
+  ok('All 37 person routes render with sources; card navigation and browser Back/Forward work')
 
   const second = await context.newPage()
   await second.goto(base + '/settings/about')

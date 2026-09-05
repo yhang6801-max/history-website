@@ -4,7 +4,6 @@ import isaacNewtonImage from '../assets/people/isaac-newton.webp'
 import abrahamLincolnImage from '../assets/people/abraham-lincoln.webp'
 import georgeWashingtonImage from '../assets/people/george-washington.webp'
 import yangChenNingImage from '../assets/people/yang-chen-ning.webp'
-import qianXuesenImage from '../assets/people/qian-xuesen.webp'
 import luXunImage from '../assets/people/lu-xun.webp'
 import duFuImage from '../assets/people/du-fu.webp'
 import liBaiImage from '../assets/people/li-bai.webp'
@@ -15,7 +14,6 @@ import emperorWuOfHanImage from '../assets/people/emperor-wu-of-han.webp'
 import emperorTaizongOfTangImage from '../assets/people/emperor-taizong-of-tang.webp'
 import qinShiHuangImage from '../assets/people/qin-shi-huang.webp'
 import confuciusImage from '../assets/people/confucius.webp'
-import albertEinsteinImage from '../assets/people/albert-einstein.webp'
 import { person as stalinPerson } from './additions/joseph-stalin.ts'
 import juliusCaesarImage from '../assets/people/julius-caesar.webp'
 import napoleonBonaparteImage from '../assets/people/napoleon-bonaparte.webp'
@@ -281,150 +279,6 @@ export const historicalPeople: readonly HistoricalPerson[] = [
     ],
   },
   stalinPerson,
-  {
-    id: 'albert-einstein',
-    name: 'Albert Einstein',
-    image: albertEinsteinImage,
-    imageAttribution: {
-  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
-  "author": "Ferdinand Schmutzer; restoration: Adam Cuerden",
-  "licenseName": "Public domain (Public Domain Mark 1.0)",
-  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-  "notes": "Photograph taken in Vienna in 1921. Original image source: Bern Historical Museum; photographic studies held by the Austrian National Library. Commons cites PD-Austria and expiration of the author’s copyright term (Schmutzer died in 1928). The restorer also grants an irrevocable license for unrestricted use if needed and requests attribution.",
-  "changes": "Commons restoration, proportionally resized to 1200 × 1576 through an image proxy, then cropped, resized to 900 × 1200, and converted to WebP.",
-  "title": "Einstein 1921 by F Schmutzer - restoration"
-},
-    lifespan: '1879–1955',
-    summary:
-      'A theoretical physicist who transformed ideas of space, time, gravity, and light, while using his international fame to speak on war, persecution, and intellectual freedom.',
-    sections: [
-      {
-        title: 'Overview',
-        paragraphs: [
-          'Albert Einstein changed the foundations of modern physics through work on relativity, the quantum nature of light, and the motion of atoms. His special and general theories of relativity replaced familiar assumptions about absolute time and gravity with a different account of the physical world. The 1921 Nobel Prize in Physics recognized his contributions to theoretical physics, especially his explanation of the photoelectric effect. Beyond science, Einstein became an internationally recognized public figure whose life was shaped by migration, antisemitism, and arguments over the responsibilities of scientists.',
-        ],
-      },
-      {
-        title: 'Early life and education',
-        paragraphs: [
-          'Einstein was born on 14 March 1879 in Ulm, Germany, to a Jewish family and grew up in Munich. After his family moved to Italy, he continued his education in Switzerland, attending school in Aarau before entering the Federal Polytechnic in Zurich in 1896. He graduated in 1900 and became a Swiss citizen in 1901. Unable at first to secure a permanent academic position, he found work examining patent applications in Bern. He married his former classmate Mileva Marić in 1903, and received his doctorate from the University of Zurich in 1905. Their marriage ended in 1919, when he married Elsa Löwenthal.',
-        ],
-      },
-      {
-        title: 'The breakthrough papers of 1905',
-        paragraphs: [
-          'While working at the patent office, Einstein published four papers that opened new directions in physics. He proposed that light could exchange energy in discrete packets, helping explain why light must exceed a threshold frequency to release electrons from a metal. His account of Brownian motion connected the irregular movement of suspended particles to collisions with molecules, strengthening the evidence for atoms. Special relativity reconciled electromagnetic theory with the principle that physical laws are the same for observers moving uniformly relative to one another. A further paper connected changes in mass and energy, a relationship now expressed as E = mc².',
-        ],
-      },
-      {
-        title: 'General relativity and international recognition',
-        paragraphs: [
-          'Einstein moved into academic posts in Zurich and Prague before settling in Berlin in 1914. His effort to extend relativity to gravity culminated in the general theory of relativity in 1915. It described gravity through the geometry of spacetime, with matter and energy influencing that geometry. Observations of starlight during the 1919 solar eclipse supported a key prediction and helped make him famous far beyond scientific circles. The 1921 Nobel Prize, awarded in 1922, specifically highlighted the law of the photoelectric effect rather than relativity. His success reflected several distinct contributions, rather than a single discovery.',
-        ],
-      },
-      {
-        title: 'Quantum theory and the search for unity',
-        paragraphs: [
-          'Einstein helped establish quantum physics, yet questioned whether its mathematical description captured all of physical reality. His disagreement concerned the completeness and interpretation of the theory, not a refusal to acknowledge its successful predictions. In 1935 he collaborated with Boris Podolsky and Nathan Rosen on the paper now known as EPR, which made correlations between separated systems central to that debate. At the Institute for Advanced Study he also pursued a unified account of gravity and electromagnetism. That search did not produce an accepted unified theory, but it remained a central commitment of his later scientific life.',
-        ],
-      },
-      {
-        title: 'Exile, war, and public commitments',
-        paragraphs: [
-          'After the Nazis took power in 1933, Einstein settled in the United States and joined the Institute for Advanced Study in Princeton, New Jersey. He supported refugees from Nazi persecution and became an American citizen in 1940. Fear that Germany might develop nuclear weapons led him to sign a 1939 letter to President Franklin D. Roosevelt, encouraged by Leo Szilard and fellow physicists, urging attention to uranium research. Einstein did not work on the Manhattan Project or design the atomic bomb. His opposition to racism and political intimidation also brought him into public disputes: in 1953 he urged teacher William Frauenglass to resist a Senate investigation that threatened freedom of thought and teaching.',
-        ],
-      },
-      {
-        title: 'Final years and legacy',
-        paragraphs: [
-          'Einstein continued scientific work and public advocacy in Princeton during his final years. He supported nuclear disarmament, civil liberties, and international cooperation, and declined an offer to become president of Israel in 1952. He died in Princeton on 18 April 1955. His reputation as a symbol of genius can obscure both the range of his work and its unfinished ambitions. The physicist who helped create quantum theory also became one of its most persistent critics, while the pacifist who warned Roosevelt about atomic weapons later argued against nuclear danger. His career links scientific imagination with difficult questions about political responsibility.',
-        ],
-      },
-    ],
-    timeline: [
-      {
-        date: '1879',
-        event: 'Born in Ulm, Germany, on 14 March.',
-      },
-      {
-        date: '1896–1901',
-        event:
-          'Studied at the Federal Polytechnic in Zurich, graduated in 1900, and became a Swiss citizen in 1901.',
-      },
-      {
-        date: '1905',
-        event:
-          'Completed his doctorate and published papers on light quanta, Brownian motion, special relativity, and mass–energy equivalence.',
-      },
-      {
-        date: '1914–1915',
-        event:
-          'Moved to Berlin and completed the general theory of relativity.',
-      },
-      {
-        date: '1919',
-        event:
-          'Eclipse observations supported the predicted bending of starlight and brought worldwide recognition.',
-      },
-      {
-        date: '1921–1922',
-        event:
-          'Awarded the 1921 Nobel Prize in Physics in 1922, especially for the law of the photoelectric effect.',
-      },
-      {
-        date: '1933–1935',
-        event:
-          'Joined the Institute for Advanced Study in Princeton; later coauthored the EPR paper with Podolsky and Rosen.',
-      },
-      {
-        date: '1939–1940',
-        event:
-          'Signed the letter to Roosevelt about nuclear research and became an American citizen the following year.',
-      },
-      {
-        date: '1952–1955',
-        event:
-          'Declined the presidency of Israel, continued scientific and public work, and died in Princeton on 18 April 1955.',
-      },
-    ],
-    sources: [
-      {
-        title: 'Albert Einstein — Biographical',
-        publisher: 'Nobel Prize',
-        url: 'https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/',
-      },
-      {
-        title: 'Albert Einstein — Facts',
-        publisher: 'Nobel Prize',
-        url: 'https://www.nobelprize.org/prizes/physics/1921/einstein/facts/',
-      },
-      {
-        title: 'Albert Einstein: In Brief',
-        publisher: 'Institute for Advanced Study',
-        url: 'https://www.ias.edu/albert-einstein-brief',
-      },
-      {
-        title: 'Albert Einstein: The Great Works',
-        publisher: 'Institute for Advanced Study',
-        url: 'https://www.ias.edu/albert-einstein-great-works',
-      },
-      {
-        title: 'The Advent and Fallout of EPR',
-        publisher: 'Institute for Advanced Study',
-        url: 'https://www.ias.edu/ideas/2013/epr-fallout',
-      },
-      {
-        title: 'Manhattan Project Pioneers: Albert Einstein',
-        publisher: 'U.S. National Park Service',
-        url: 'https://www.nps.gov/people/manhattan-project-pioneers-albert-einstein.htm',
-      },
-      {
-        title: 'Einstein, Plumbers, and McCarthyism',
-        publisher: 'Institute for Advanced Study',
-        url: 'https://www.ias.edu/ideas/2017/einstein-mccarthyism',
-      },
-    ],
-  },
   {
     id: 'confucius',
     name: 'Confucius',
@@ -1379,108 +1233,6 @@ export const historicalPeople: readonly HistoricalPerson[] = [
       },
     ],
     image: luXunImage,
-  },
-  {
-    id: 'qian-xuesen',
-    name: 'Qian Xuesen',
-    lifespan: '1911–2009',
-    summary: 'An aerodynamicist and engineering scientist who contributed to early rocket research, developed engineering cybernetics, and helped establish China\'s aerospace research and training institutions.',
-    imageAttribution: {
-  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hsue-shen_Tsien_at_his_deportation_hearing_(cropped).jpg",
-  "author": "Los Angeles Times / UCLA Library",
-  "authorUrl": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002r6xw",
-  "licenseName": "CC BY 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-  "notes": "Portrait detail from a photograph taken on 16 November 1950. Credit: Los Angeles Times Photographic Collection, UCLA Library; the individual photographer is not identified. Commons records that copyright was deeded to UCLA and the photograph released under CC BY 4.0. The Commons crop was made by Artem.G.",
-  "changes": "Commons supplied a portrait crop. Source proportionally resized through an image proxy, cropped further to 3:4, resized to 900 × 1200, and converted to WebP.",
-  "title": "Hsue-shen Tsien at his deportation hearing (cropped)",
-  "credit": "Los Angeles Times Photographic Collection, UCLA Library"
-},
-    sections: [
-      {
-        title: 'Overview',
-        paragraphs: [
-          'Qian Xuesen, also published as Hsue-Shen Tsien, connected advanced mathematical research with the practical demands of flight, propulsion, and control. His career spanned universities and research institutions in the United States and China. He contributed to the early development of the Jet Propulsion Laboratory and later became a leading organizer of Chinese aerospace research. His significance lies in both scientific ideas and institution building: complex engineering projects required trained people, coordinated research, and a way to bring many specialized disciplines into a common programme.',
-        ],
-      },
-      {
-        title: 'Training in engineering and mechanics',
-        paragraphs: [
-          'Born in Shanghai in 1911, Qian studied mechanical engineering at National Chiao Tung University before travelling to the United States in 1935. After graduate study at MIT, he joined Theodore von Kármán at Caltech in 1936 and earned his doctorate in 1939. Their work on high-speed airflow included the Kármán–Tsien approximation, which helped connect theoretical analysis with aerodynamic calculation. This education strengthened a characteristic approach: identify the physical essentials of an engineering problem, express them mathematically, and use the resulting theory to guide practical work.',
-        ],
-      },
-      {
-        title: 'Rocketry and collaborative research',
-        paragraphs: [
-          'At Caltech, Qian joined colleagues exploring the possibilities of rocket propulsion, including Frank Malina and other members of von Kármán\'s group. In 1943 he helped draft an early document using the name Jet Propulsion Laboratory. His research also considered the possibilities of high-speed flight and vehicles operating beyond conventional aircraft limits. The work belonged to a collaborative community whose experiments and calculations helped establish rocket engineering as a serious research field. Caltech later commemorated his place in that history alongside his subsequent accomplishments in China.',
-        ],
-      },
-      {
-        title: 'Engineering cybernetics',
-        paragraphs: [
-          'Qian\'s 1954 book Engineering Cybernetics treated control as a subject that could connect different kinds of engineered systems. It examined questions such as stability, feedback, and the behaviour of systems with several interacting variables. The purpose was practical as well as theoretical: a machine must respond reliably to changing conditions if it is to carry out its intended task. By organizing these problems within a mathematical framework, Qian helped make control theory accessible as an engineering discipline. He continued to promote this way of thinking after his return to China.',
-        ],
-      },
-      {
-        title: 'Building China\'s aerospace capabilities',
-        paragraphs: [
-          'Qian returned to China in 1955 and devoted much of his subsequent career to developing aerospace capabilities and the institutions that supported them. His work combined technical direction, planning, and the training of specialists across mechanics, propulsion, and related fields. He also advocated systems engineering as a way to manage large projects whose success depended on the coordination of many components. These achievements involved extensive teams and public investment, rather than a single inventor working alone. Qian died in Beijing on 31 October 2009, leaving a lasting influence on engineering education and research organization.',
-        ],
-      },
-    ],
-    timeline: [
-      {
-        date: '1911',
-        event: 'Born in Shanghai on 11 December.',
-      },
-      {
-        date: '1935–1936',
-        event: 'Travelled to the United States, studied at MIT, and joined Caltech.',
-      },
-      {
-        date: '1939',
-        event: 'Completed his doctorate at Caltech under Theodore von Kármán.',
-      },
-      {
-        date: '1943',
-        event: 'Helped draft an early document using the name Jet Propulsion Laboratory.',
-      },
-      {
-        date: '1954',
-        event: 'Published Engineering Cybernetics.',
-      },
-      {
-        date: '1955',
-        event: 'Returned to China and began developing national aerospace research capabilities.',
-      },
-      {
-        date: '2009',
-        event: 'Died in Beijing on 31 October.',
-      },
-    ],
-    sources: [
-      {
-        title: 'Qian Xuesen (Tsien Hsue-Shen)',
-        publisher: 'Caltech, Department of Aerospace',
-        url: 'https://aerospace.caltech.edu/about/legends-of-galcit/qian-xuesen-tsien-hsue-shen',
-      },
-      {
-        title: 'Life of Qian Xuesen',
-        publisher: 'Shanghai Jiao Tong University, Qian Xuesen Library and Museum',
-        url: 'https://www.qianxslib.sjtu.edu.cn/mobile/people/people01.php',
-      },
-      {
-        title: 'Engineering Cybernetics',
-        publisher: 'Shanghai Jiao Tong University, Qian Xuesen Library and Museum',
-        url: 'https://www.qianxslib.sjtu.edu.cn/mobile/edu/edu0505_details.php?articleid=1282',
-      },
-      {
-        title: 'EAS Remembers Tsien Hsue-Shen',
-        publisher: 'Caltech, Engineering and Applied Science',
-        url: 'https://www.eas.caltech.edu/news/eas-remembers-tsien-hsue-shen',
-      },
-    ],
-    image: qianXuesenImage,
   },
   {
     id: 'yang-chen-ning',

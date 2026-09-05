@@ -1,6 +1,6 @@
 const en = {
   siteTitle: 'Historical Figures',
-  siteDescription: 'Explore 40 historical figures through bilingual English and Simplified Chinese biographies, timelines, sources, and image credits.',
+  siteDescription: 'Explore 37 historical figures through bilingual English and Simplified Chinese biographies, timelines, sources, and image credits.',
   language: 'Language',
   settings: 'Settings',
   copyright: 'Copyright',
@@ -20,7 +20,7 @@ const en = {
   notFoundTitle: 'Page not found',
   notFoundMessage: 'The requested page or historical figure could not be found.',
   languageDescription: 'Choose your preferred language. Your choice is saved on this browser for future visits. The first visit defaults to English.',
-  pilotNote: 'All 40 biographies are available in English and Simplified Chinese.',
+  pilotNote: 'All 37 biographies are available in English and Simplified Chinese.',
   storageError: 'Your language changed for this visit, but this browser could not save your choice. Allow site storage to remember it next time.',
   aboutTitle: 'Behind the Project',
   team: [
@@ -43,7 +43,7 @@ export type Messages = typeof en
 
 const zh: Messages = {
   siteTitle: '历史人物',
-  siteDescription: '通过中英文双语传记、时间线、资料来源和图片署名，了解 40 位历史人物。',
+  siteDescription: '通过中英文双语传记、时间线、资料来源和图片署名，了解 37 位历史人物。',
   language: '语言',
   settings: '设置',
   copyright: '版权',
@@ -63,7 +63,7 @@ const zh: Messages = {
   notFoundTitle: '页面未找到',
   notFoundMessage: '未找到所请求的页面或历史人物。',
   languageDescription: '选择你偏好的语言。此浏览器会记住你的选择，并在下次访问时继续使用。首次访问默认显示英文。',
-  pilotNote: '全部 40 位人物均已提供完整的英文和简体中文内容。',
+  pilotNote: '全部 37 位人物均已提供完整的英文和简体中文内容。',
   storageError: '本次访问的语言已切换，但浏览器无法保存你的选择。允许此网站存储数据后，下次访问即可记住语言。',
   aboutTitle: '项目背后',
   team: [

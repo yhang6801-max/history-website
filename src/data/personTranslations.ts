@@ -4,7 +4,6 @@ import { newtonZh } from './newton.zh-CN.ts'
 import { lincolnZh } from './lincoln.zh-CN.ts'
 import { washingtonZh } from './washington.zh-CN.ts'
 import { yangChenNingZh } from './yangChenNing.zh-CN.ts'
-import { qianXuesenZh } from './qianXuesen.zh-CN.ts'
 import { luXunZh } from './luXun.zh-CN.ts'
 import { duFuZh } from './duFu.zh-CN.ts'
 import { liBaiZh } from './liBai.zh-CN.ts'
@@ -16,7 +15,6 @@ import { taizongZh } from './taizong.zh-CN.ts'
 import { qinShiHuangZh } from './qinShiHuang.zh-CN.ts'
 import { confuciusZh } from './confucius.zh-CN.ts'
 import { formatPersonDate } from './personDates.ts'
-import { einsteinZh } from './einstein.zh-CN.ts'
 import { zh as stalinZh } from './additions/joseph-stalin.ts'
 import { juliusCaesarZh } from './juliusCaesar.zh-CN.ts'
 import type { HistoricalPerson } from '../types/historicalPerson'
@@ -36,7 +34,6 @@ export interface PersonTranslation {
 export const personTranslations: Readonly<Record<string, Partial<Record<Language, PersonTranslation>>>> = {
   'julius-caesar': { 'zh-CN': juliusCaesarZh },
   'joseph-stalin': { 'zh-CN': stalinZh },
-  'albert-einstein': { 'zh-CN': einsteinZh },
   'confucius': { 'zh-CN': confuciusZh },
   'qin-shi-huang': { 'zh-CN': qinShiHuangZh },
   'emperor-taizong-of-tang': { 'zh-CN': taizongZh },
@@ -47,7 +44,6 @@ export const personTranslations: Readonly<Record<string, Partial<Record<Language
   'li-bai': { 'zh-CN': liBaiZh },
   'du-fu': { 'zh-CN': duFuZh },
   'lu-xun': { 'zh-CN': luXunZh },
-  'qian-xuesen': { 'zh-CN': qianXuesenZh },
   'yang-chen-ning': { 'zh-CN': yangChenNingZh },
   'george-washington': { 'zh-CN': washingtonZh },
   'abraham-lincoln': { 'zh-CN': lincolnZh },

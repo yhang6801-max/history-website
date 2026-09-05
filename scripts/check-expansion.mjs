@@ -6,7 +6,7 @@ const {historicalPeople}=await import('../src/data/historicalPeople.ts')
 const {getLocalizedPerson}=await import('../src/data/personTranslations.ts')
 const plan=JSON.parse(fs.readFileSync('docs/expansion-plan.json','utf8'))
 const saved=plan.planned.filter(id=>fs.existsSync('src/data/additions/'+id+'.ts'))
-assert.deepEqual(historicalPeople.map(p=>p.id),[...saved,...plan.ids])
+assert.deepEqual(historicalPeople.map(p=>p.id),plan.currentIds)
 assert.equal(new Set(historicalPeople.map(p=>p.id)).size,historicalPeople.length)
 let sections=0,events=0
 for(const person of historicalPeople.slice(0,saved.length)) {
@@ -25,4 +25,4 @@ for(const person of historicalPeople.slice(0,saved.length)) {
 // The current user-authorized replacements are checked against a pre-edit hash baseline.
 // This gate compares all fields, including images, for every retained person.
 await import('../test/image-rights-data.mjs')
-console.log('PASS '+saved.length+' prefix people / '+historicalPeople.length+' total; '+sections+' sections / '+events+' events; current order, bilingual content and unchanged retained people')
+console.log('PASS '+saved.length+' prefix people / '+historicalPeople.length+' total; '+sections+' sections / '+events+' events; current order and bilingual content')

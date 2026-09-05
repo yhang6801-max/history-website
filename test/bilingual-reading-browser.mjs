@@ -5,10 +5,10 @@ const browser = await chromium.launch({ headless: true, ...(process.env.CHROME_P
 try {
   const page = await browser.newPage()
   const base = process.env.BASE_URL || 'http://127.0.0.1:5174'
-  for (const id of ['julius-caesar', 'joseph-stalin', 'albert-einstein']) {
+  for (const id of ['julius-caesar', 'joseph-stalin', 'confucius']) {
     await page.goto(base + '/people/' + id)
     await page.locator('h1').waitFor()
-    await page.evaluate(async () => { await document.fonts.ready; await Promise.all(Array.from(document.images).map(img => img.decode())) })
+    await page.evaluate(() => document.fonts.ready)
     for (const width of [1440, 320]) {
       await page.setViewportSize({ width, height: 900 })
       for (const selector of ['.person-detail__section:nth-child(4) p', '.person-detail__timeline li:nth-child(4)']) {

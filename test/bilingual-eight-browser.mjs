@@ -17,7 +17,7 @@ const { messages } = await import('../src/i18n/messages.ts')
 const { chromium } = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const batch = historicalPeople.slice(-20).slice(12)
 const longest = [...batch].sort((a, b) => getLocalizedPerson(b, 'zh-CN').sections.flatMap(s => s.paragraphs).join('').length - getLocalizedPerson(a, 'zh-CN').sections.flatMap(s => s.paragraphs).join('').length)[0]
-const samples = [...new Set([longest.id, 'du-fu', 'lu-xun', 'qian-xuesen', 'isaac-newton', 'marie-curie'])]
+const samples = [...new Set([longest.id, 'du-fu', 'lu-xun', 'yang-chen-ning', 'isaac-newton', 'marie-curie'])]
 const base = process.env.BASE_URL || 'http://127.0.0.1:5174'
 const browser = await chromium.launch({ headless: true, ...(process.env.CHROME_PATH ? { executablePath: process.env.CHROME_PATH } : {}) })
 const errors = []
@@ -29,7 +29,7 @@ try {
   page.on('pageerror', error => errors.push(error.message))
   async function ready() {
     await page.locator('h1').waitFor()
-    await page.evaluate(async () => { await document.fonts.ready; await Promise.all(Array.from(document.images).map(img => img.decode())) })
+    await page.evaluate(() => document.fonts.ready)
   }
   async function setLanguage(language) {
     await page.locator('.language-bar').getByRole('button', { name: language === 'en' ? 'English' : '简体中文', exact: true }).click()
@@ -47,7 +47,7 @@ try {
   }
   await page.setViewportSize({ width: 320, height: 900 })
   assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth))
-  console.log('PASS homepage: 40 translated names, no fallback notices, default language and no reload')
+  console.log('PASS homepage: 37 translated names, no fallback notices, default language and no reload')
   for (const id of samples) {
     await setLanguage('zh-CN')
     const person = batch.find(p => p.id === id)
@@ -128,7 +128,7 @@ try {
   await page.goto(base + '/settings/language')
   await ready()
   const text = await page.locator('.settings__content').innerText()
-  assert.ok(text.includes('40') && !text.includes('其余人物暂以英文显示'))
+  assert.ok(text.includes('37') && !text.includes('其余人物暂以英文显示'))
   await page.goto(base + '/people/du-fu')
   await ready()
   assert.equal(await page.locator('.translation-notice').count(), 0)

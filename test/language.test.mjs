@@ -45,15 +45,15 @@ test('all public messages have complete Chinese counterparts', () => {
   check(messages.en, messages['zh-CN'])
 })
 
-const completedIds = plan.ids
+const completedIds = plan.ids.filter(id => plan.currentIds.includes(id))
 const { formatPersonDate } = await import('../src/data/personDates.ts')
 
-const allIds = [...plan.planned.slice(0, 20), ...completedIds]
+const allIds = plan.currentIds
 
-test('all forty bilingual people retain identity, paragraph/event structure, dates and credits', () => {
-  assert.equal(historicalPeople.length, 40)
+test('all 37 bilingual people retain identity, paragraph/event structure, dates and credits', () => {
+  assert.equal(historicalPeople.length, 37)
   assert.deepEqual(historicalPeople.map(p => p.id), allIds)
-  assert.equal(new Set(allIds).size, 40)
+  assert.equal(new Set(allIds).size, 37)
   assert.deepEqual(Object.keys(personTranslations).sort(), [...allIds].sort())
   for (const id of allIds) {
     const person = historicalPeople.find((p) => p.id === id)
@@ -142,14 +142,10 @@ test('each new paragraph and timeline event retains explicit source years', () =
       for (const year of years) assert.ok(zhTexts[index].includes(year), id + ' paragraph/event ' + index + ' missing ' + year)
     })
   }
-  const einstein = personTranslations['albert-einstein']['zh-CN']
-  assert.ok(einstein.sections[2].paragraphs[0].includes('E = mc²'))
-  assert.match(einstein.sections[5].paragraphs[0], /没有参与曼哈顿计划，也没有设计原子弹/)
-  assert.match(einstein.timelineEvents[5], /1922.*1921/)
 })
 
 test('the preceding batch has 40 complete sections and 53 events; date qualifications remain explicit', () => {
-  const batchIds = completedIds.slice(4, 12)
+  const batchIds = ['confucius', 'qin-shi-huang', 'emperor-taizong-of-tang', 'emperor-wu-of-han', 'hongwu-emperor', 'yongle-emperor', 'sun-yat-sen', 'li-bai']
   assert.equal(batchIds.length, 8)
   const batch = batchIds.map(id => historicalPeople.find(p => p.id === id))
   assert.equal(batch.reduce((n, p) => n + p.sections.length, 0), 40)
@@ -178,14 +174,14 @@ test('the preceding batch has 40 complete sections and 53 events; date qualifica
 })
 
 
-test('the current trailing twenty retain 107 sections and 146 events with key qualifications intact', () => {
-  const batchIds = completedIds.slice(12)
+test('the current trailing seven retain 35 sections and 49 events with key qualifications intact', () => {
+  const batchIds = ['du-fu', 'lu-xun', 'yang-chen-ning', 'george-washington', 'abraham-lincoln', 'isaac-newton', 'marie-curie']
   const batch = batchIds.map(id => historicalPeople.find(p => p.id === id))
-  assert.equal(batchIds.length, 8)
-  assert.equal(batch.reduce((n, p) => n + p.sections.length, 0), 40)
-  assert.equal(batch.reduce((n, p) => n + p.timeline.length, 0), 56)
-  assert.equal(historicalPeople.filter(p => completedIds.includes(p.id)).reduce((n, p) => n + p.sections.length, 0), 107)
-  assert.equal(historicalPeople.filter(p => completedIds.includes(p.id)).reduce((n, p) => n + p.timeline.length, 0), 146)
+  assert.equal(batchIds.length, 7)
+  assert.equal(batch.reduce((n, p) => n + p.sections.length, 0), 35)
+  assert.equal(batch.reduce((n, p) => n + p.timeline.length, 0), 49)
+  assert.equal(historicalPeople.filter(p => completedIds.includes(p.id)).reduce((n, p) => n + p.sections.length, 0), 95)
+  assert.equal(historicalPeople.filter(p => completedIds.includes(p.id)).reduce((n, p) => n + p.timeline.length, 0), 130)
   assert.equal(formatPersonDate('Around 760', 'zh-CN'), '约 760')
   const newton = personTranslations['isaac-newton']['zh-CN']
   assert.match(newton.sections[1].paragraphs[0], /儒略历.*1642.*格里高利历.*1643/)

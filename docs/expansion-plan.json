@@ -86,7 +86,6 @@
     "max-planck",
     "niels-bohr",
     "werner-heisenberg",
-    "erwin-schrodinger",
     "antoine-lavoisier",
     "dmitri-mendeleev",
     "john-dalton",
@@ -104,7 +103,6 @@
     "napoleon-bonaparte",
     "julius-caesar",
     "joseph-stalin",
-    "albert-einstein",
     "confucius",
     "qin-shi-huang",
     "emperor-taizong-of-tang",
@@ -115,12 +113,28 @@
     "li-bai",
     "du-fu",
     "lu-xun",
-    "qian-xuesen",
     "yang-chen-ning",
     "george-washington",
     "abraham-lincoln",
     "isaac-newton",
     "marie-curie"
+  ],
+  "removedBeforeDeployment": [
+    {
+      "id": "erwin-schrodinger",
+      "date": "2026-09-05",
+      "reason": "Removed by explicit user decision before deployment; the prior image-rights evidence was insufficient for current use."
+    },
+    {
+      "id": "albert-einstein",
+      "date": "2026-09-05",
+      "reason": "Removed by explicit user decision before deployment; the prior image-rights evidence was insufficient for current use."
+    },
+    {
+      "id": "qian-xuesen",
+      "date": "2026-09-05",
+      "reason": "Removed by explicit user decision before deployment; removal also eliminates two biography links that had TLS certificate verification failures."
+    }
   ],
   "futureExpansion": {
     "status": "Awaiting a new user-approved list; no additions in this task",
