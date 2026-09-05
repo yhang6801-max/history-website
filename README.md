@@ -1,6 +1,25 @@
-# React + TypeScript + Vite
+# Historical Figures / 历史人物
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A React and TypeScript website presenting 40 historical figures in English and Simplified Chinese. Each detail page includes a biography, timeline, research links, and the portrait's creator, source, rights basis, and modification notes.
+
+## Local development and validation
+
+Use Node.js 24 and install the exact dependency graph from the lock file:
+
+```sh
+npm ci
+npm run lint
+npm run test:language
+npm run test:prepare-person-image
+npm run build
+npm run preview
+```
+
+Building and previewing locally do not publish the site. No deployment workflow or GitHub Pages configuration is included. Browser acceptance scripts in `test/` run against an already-started preview and require Playwright plus a Chromium-compatible browser. The image-rights browser test supports bounded subsets through `AUDIT_IDS` and saves intermediate results under the ignored `node_modules/.cache/` directory.
+
+## Tooling background
+
+The project uses Vite, React, TypeScript, and Oxlint.
 
 Currently, two official plugins are available:
 
@@ -53,11 +72,7 @@ The optional `--position` argument controls which part of the source image is ke
 npm run prepare-person-image -- <person-id> <input-image> [--force] [--position <value>]
 ```
 
-Allowed values are `attention`, `center`, `west`, and `northwest`. The default is `attention`, so ordinary portraits usually do not need this option. If automatic cropping focuses on the wrong subject, choose a position explicitly. For example, the wide Alexander mosaic works better with its western area retained:
-
-```sh
-npm run prepare-person-image -- alexander-the-great "./input/alexander.jpg" --position west
-```
+Allowed values are `attention`, `center`, `west`, and `northwest`. The default is `attention`, so ordinary portraits usually do not need this option. If automatic cropping focuses on the wrong subject, choose a position explicitly and review the result before connecting it to a person record.
 
 `--position` and `--force` can be used together in either order.
 

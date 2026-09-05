@@ -1,5 +1,6 @@
 const en = {
   siteTitle: 'Historical Figures',
+  siteDescription: 'Explore 40 historical figures through bilingual English and Simplified Chinese biographies, timelines, sources, and image credits.',
   language: 'Language',
   settings: 'Settings',
   copyright: 'Copyright',
@@ -42,6 +43,7 @@ export type Messages = typeof en
 
 const zh: Messages = {
   siteTitle: '历史人物',
+  siteDescription: '通过中英文双语传记、时间线、资料来源和图片署名，了解 40 位历史人物。',
   language: '语言',
   settings: '设置',
   copyright: '版权',

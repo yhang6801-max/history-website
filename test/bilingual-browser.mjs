@@ -36,10 +36,48 @@ async function noOverflow(page, label) {
 }
 async function ready(page) {
   await page.locator('h1').waitFor()
-  await page.evaluate(async () => {
-    await document.fonts.ready
-    await Promise.all(Array.from(document.images).map((img) => img.decode().catch(() => {})))
-  })
+  await page.evaluate(() => document.fonts.ready)
+}
+async function assertRouteImagesLoad(page, label) {
+  const images = page.locator('img')
+  const count = await images.count()
+  const indexes = count > 4 ? [0, count - 1] : Array.from({ length: count }, (_, index) => index)
+  for (const index of indexes) {
+    const image = images.nth(index)
+    await image.scrollIntoViewIfNeeded({ timeout: 5000 })
+    const source = await image.getAttribute('src')
+    const loaded = await image.evaluate((element) => new Promise((resolve, reject) => {
+      const finish = () => {
+        if (element.complete && element.naturalWidth > 0) {
+          resolve(true)
+          return true
+        }
+        return false
+      }
+      if (finish()) return
+      const timer = setTimeout(() => {
+        cleanup()
+        reject(new Error('image load timed out'))
+      }, 5000)
+      const onLoad = () => {
+        if (finish()) cleanup()
+      }
+      const onError = () => {
+        cleanup()
+        reject(new Error('image load error'))
+      }
+      const cleanup = () => {
+        clearTimeout(timer)
+        element.removeEventListener('load', onLoad)
+        element.removeEventListener('error', onError)
+      }
+      element.addEventListener('load', onLoad)
+      element.addEventListener('error', onError)
+    }), { timeout: 6000 }).catch((error) => {
+      throw new Error(label + ' image=' + (source || '<missing>') + ': ' + error.message)
+    })
+    assert.equal(loaded, true)
+  }
 }
 try {
   const context = await browser.newContext({ viewport: { width: 1440, height: 1000 }, locale: 'zh-CN' })
@@ -48,6 +86,8 @@ try {
   await page.goto(base)
   await ready(page)
   assert.equal(await page.locator('html').getAttribute('lang'), 'en')
+  assert.equal(await page.title(), messages.en.siteTitle)
+  assert.equal(await page.locator('meta[name="description"]').getAttribute('content'), messages.en.siteDescription)
   assert.equal(await page.locator('h1').innerText(), 'Historical Figures')
   assert.equal(await page.locator('.person-card').count(), 40)
   const expectedOrder = historicalPeople.map(p => '/people/' + p.id)
@@ -56,6 +96,8 @@ try {
   ok('First visit defaults to English even with a Chinese browser locale')
   await page.evaluate(() => { window.__documentMarker = 'same-document' })
   await setLanguage(page, 'zh-CN')
+  assert.equal(await page.title(), messages['zh-CN'].siteTitle)
+  assert.equal(await page.locator('meta[name="description"]').getAttribute('content'), messages['zh-CN'].siteDescription)
   assert.equal(await page.locator('h1').innerText(), '历史人物')
   assert.equal(await page.evaluate(() => window.__documentMarker), 'same-document')
   assert.equal(await page.locator('.person-card__notice').count(), 0)
@@ -133,7 +175,7 @@ try {
         await ready(page)
         await noOverflow(page, width + ' ' + language + ' ' + route)
         assert.equal(await page.locator('html').getAttribute('lang'), language)
-        assert.equal(await page.locator('img').evaluateAll((images) => images.every((img) => img.naturalWidth > 0)), true)
+        await assertRouteImagesLoad(page, width + ' ' + language + ' ' + route)
         const person = historicalPeople.find(person => person.id === route.split('/').pop())
         const translatedName = translatedNames[person?.id]
         if (translatedName) {

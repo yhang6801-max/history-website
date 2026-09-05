@@ -42,6 +42,7 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
   useLayoutEffect(() => {
     document.documentElement.lang = language
     document.title = messages[language].siteTitle
+    document.querySelector('meta[name="description"]')?.setAttribute('content', messages[language].siteDescription)
     const saved = position.current
     if (saved?.element.isConnected) {
       const rect = saved.element.getBoundingClientRect()

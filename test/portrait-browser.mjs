@@ -41,5 +41,6 @@ try {
   }
  }
  assert.deepEqual(errors,[])
+ fs.mkdirSync('node_modules/.cache/portrait-review',{recursive:true})
  fs.writeFileSync('node_modules/.cache/portrait-review/browser-results.json',JSON.stringify({checks,errors,connected:people.filter(p=>p.imageAttribution).length,visualReview:false},null,2))
 } finally {await browser.close()}

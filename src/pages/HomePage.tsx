@@ -18,8 +18,8 @@ export function HomePage() {
         </Link>
       </header>
       <section className="people-list" aria-label={t.siteTitle}>
-        {historicalPeople.map((person) => (
-          <HistoricalPersonCard key={person.id} person={person} />
+        {historicalPeople.map((person, index) => (
+          <HistoricalPersonCard key={person.id} person={person} eager={index === 0} />
         ))}
       </section>
     </main>
