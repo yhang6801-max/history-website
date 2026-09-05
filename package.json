@@ -9,6 +9,7 @@
     "lint": "oxlint",
     "prepare-person-image": "node scripts/prepare-person-image.mjs",
     "preview": "vite preview",
+    "test:pages": "node --test test/pages-deployment.test.mjs",
     "test:prepare-person-image": "node --test test/prepare-person-image.test.mjs",
     "test:language": "node --test test/language.test.mjs"
   },
